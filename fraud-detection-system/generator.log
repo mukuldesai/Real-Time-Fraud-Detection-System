@@ -1,0 +1,529 @@
+2025-03-24 14:41:25,306 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-03-24 14:41:27,286 - TransactionGenerator - ERROR - Failed to create Kafka producer: NoBrokersAvailable
+2025-03-24 14:41:27,287 - TransactionGenerator - INFO - Running in offline mode - transactions will be printed to console
+2025-03-24 14:41:27,288 - TransactionGenerator - INFO - Generating 1000 customer profiles
+2025-03-24 14:41:29,558 - TransactionGenerator - INFO - Generated 1000 customer profiles
+2025-03-24 14:41:29,724 - TransactionGenerator - INFO - Starting transaction generator
+2025-03-24 14:41:29,726 - TransactionGenerator - INFO - Fraud ratio: 1.0%
+2025-03-24 14:41:29,727 - TransactionGenerator - INFO - Rate: 10 transactions per second
+2025-03-24 14:41:39,823 - TransactionGenerator - INFO - Generated 100 transactions (0 fraudulent - 0.00%), Rate: 9.90 TPS
+2025-03-24 14:41:49,906 - TransactionGenerator - INFO - Generated 200 transactions (0 fraudulent - 0.00%), Rate: 9.91 TPS
+2025-03-24 14:42:00,070 - TransactionGenerator - INFO - Generated 300 transactions (0 fraudulent - 0.00%), Rate: 9.89 TPS
+2025-03-24 14:42:10,202 - TransactionGenerator - INFO - Generated 400 transactions (0 fraudulent - 0.00%), Rate: 9.88 TPS
+2025-03-24 14:42:20,280 - TransactionGenerator - INFO - Generated 500 transactions (0 fraudulent - 0.00%), Rate: 9.89 TPS
+2025-03-24 14:42:30,352 - TransactionGenerator - INFO - Generated 600 transactions (2 fraudulent - 0.33%), Rate: 9.90 TPS
+2025-03-24 14:42:40,436 - TransactionGenerator - INFO - Generated 700 transactions (3 fraudulent - 0.43%), Rate: 9.90 TPS
+2025-03-24 14:42:50,509 - TransactionGenerator - INFO - Generated 800 transactions (4 fraudulent - 0.50%), Rate: 9.90 TPS
+2025-03-24 14:43:00,639 - TransactionGenerator - INFO - Generated 900 transactions (5 fraudulent - 0.56%), Rate: 9.90 TPS
+2025-03-24 14:43:10,721 - TransactionGenerator - INFO - Generated 1000 transactions (5 fraudulent - 0.50%), Rate: 9.90 TPS
+2025-03-24 14:43:20,809 - TransactionGenerator - INFO - Generated 1100 transactions (5 fraudulent - 0.45%), Rate: 9.90 TPS
+2025-03-24 14:43:30,875 - TransactionGenerator - INFO - Generated 1200 transactions (5 fraudulent - 0.42%), Rate: 9.90 TPS
+2025-03-24 14:43:40,945 - TransactionGenerator - INFO - Generated 1300 transactions (5 fraudulent - 0.38%), Rate: 9.91 TPS
+2025-03-24 14:43:51,020 - TransactionGenerator - INFO - Generated 1400 transactions (5 fraudulent - 0.36%), Rate: 9.91 TPS
+2025-03-24 14:44:01,097 - TransactionGenerator - INFO - Generated 1500 transactions (5 fraudulent - 0.33%), Rate: 9.91 TPS
+2025-03-24 14:44:11,174 - TransactionGenerator - INFO - Generated 1600 transactions (6 fraudulent - 0.38%), Rate: 9.91 TPS
+2025-03-24 14:44:21,246 - TransactionGenerator - INFO - Generated 1700 transactions (8 fraudulent - 0.47%), Rate: 9.91 TPS
+2025-03-24 14:44:31,319 - TransactionGenerator - INFO - Generated 1800 transactions (9 fraudulent - 0.50%), Rate: 9.91 TPS
+2025-03-24 14:44:41,389 - TransactionGenerator - INFO - Generated 1900 transactions (11 fraudulent - 0.58%), Rate: 9.91 TPS
+2025-03-24 14:44:51,479 - TransactionGenerator - INFO - Generated 2000 transactions (11 fraudulent - 0.55%), Rate: 9.91 TPS
+2025-03-24 14:45:01,560 - TransactionGenerator - INFO - Generated 2100 transactions (11 fraudulent - 0.52%), Rate: 9.91 TPS
+2025-03-24 14:45:11,636 - TransactionGenerator - INFO - Generated 2200 transactions (11 fraudulent - 0.50%), Rate: 9.91 TPS
+2025-03-24 14:45:21,713 - TransactionGenerator - INFO - Generated 2300 transactions (13 fraudulent - 0.57%), Rate: 9.91 TPS
+2025-03-24 14:45:31,787 - TransactionGenerator - INFO - Generated 2400 transactions (15 fraudulent - 0.62%), Rate: 9.91 TPS
+2025-03-24 14:45:41,863 - TransactionGenerator - INFO - Generated 2500 transactions (16 fraudulent - 0.64%), Rate: 9.92 TPS
+2025-03-24 14:45:51,935 - TransactionGenerator - INFO - Generated 2600 transactions (16 fraudulent - 0.62%), Rate: 9.92 TPS
+2025-03-24 14:46:02,011 - TransactionGenerator - INFO - Generated 2700 transactions (18 fraudulent - 0.67%), Rate: 9.92 TPS
+2025-03-24 14:46:12,114 - TransactionGenerator - INFO - Generated 2800 transactions (19 fraudulent - 0.68%), Rate: 9.92 TPS
+2025-03-24 14:46:22,198 - TransactionGenerator - INFO - Generated 2900 transactions (20 fraudulent - 0.69%), Rate: 9.92 TPS
+2025-03-24 14:46:32,273 - TransactionGenerator - INFO - Generated 3000 transactions (20 fraudulent - 0.67%), Rate: 9.92 TPS
+2025-03-24 14:46:42,350 - TransactionGenerator - INFO - Generated 3100 transactions (20 fraudulent - 0.65%), Rate: 9.92 TPS
+2025-03-24 14:46:52,424 - TransactionGenerator - INFO - Generated 3200 transactions (23 fraudulent - 0.72%), Rate: 9.92 TPS
+2025-03-24 14:47:02,501 - TransactionGenerator - INFO - Generated 3300 transactions (24 fraudulent - 0.73%), Rate: 9.92 TPS
+2025-03-24 14:47:12,577 - TransactionGenerator - INFO - Generated 3400 transactions (27 fraudulent - 0.79%), Rate: 9.92 TPS
+2025-03-24 14:47:22,646 - TransactionGenerator - INFO - Generated 3500 transactions (29 fraudulent - 0.83%), Rate: 9.92 TPS
+2025-03-24 14:47:32,714 - TransactionGenerator - INFO - Generated 3600 transactions (30 fraudulent - 0.83%), Rate: 9.92 TPS
+2025-03-24 14:47:42,790 - TransactionGenerator - INFO - Generated 3700 transactions (31 fraudulent - 0.84%), Rate: 9.92 TPS
+2025-03-24 14:47:52,860 - TransactionGenerator - INFO - Generated 3800 transactions (32 fraudulent - 0.84%), Rate: 9.92 TPS
+2025-03-24 14:48:02,934 - TransactionGenerator - INFO - Generated 3900 transactions (34 fraudulent - 0.87%), Rate: 9.92 TPS
+2025-03-24 14:48:13,013 - TransactionGenerator - INFO - Generated 4000 transactions (35 fraudulent - 0.88%), Rate: 9.92 TPS
+2025-03-24 14:48:23,086 - TransactionGenerator - INFO - Generated 4100 transactions (36 fraudulent - 0.88%), Rate: 9.92 TPS
+2025-03-24 14:48:33,158 - TransactionGenerator - INFO - Generated 4200 transactions (36 fraudulent - 0.86%), Rate: 9.92 TPS
+2025-03-24 14:48:43,233 - TransactionGenerator - INFO - Generated 4300 transactions (37 fraudulent - 0.86%), Rate: 9.92 TPS
+2025-03-24 14:48:53,307 - TransactionGenerator - INFO - Generated 4400 transactions (37 fraudulent - 0.84%), Rate: 9.92 TPS
+2025-03-24 14:49:03,377 - TransactionGenerator - INFO - Generated 4500 transactions (38 fraudulent - 0.84%), Rate: 9.92 TPS
+2025-03-24 14:49:13,447 - TransactionGenerator - INFO - Generated 4600 transactions (39 fraudulent - 0.85%), Rate: 9.92 TPS
+2025-03-24 14:49:23,520 - TransactionGenerator - INFO - Generated 4700 transactions (40 fraudulent - 0.85%), Rate: 9.92 TPS
+2025-03-24 14:49:33,596 - TransactionGenerator - INFO - Generated 4800 transactions (41 fraudulent - 0.85%), Rate: 9.92 TPS
+2025-03-24 14:49:43,670 - TransactionGenerator - INFO - Generated 4900 transactions (42 fraudulent - 0.86%), Rate: 9.92 TPS
+2025-03-24 14:49:53,750 - TransactionGenerator - INFO - Generated 5000 transactions (42 fraudulent - 0.84%), Rate: 9.92 TPS
+2025-03-24 14:50:03,866 - TransactionGenerator - INFO - Generated 5100 transactions (43 fraudulent - 0.84%), Rate: 9.92 TPS
+2025-03-24 14:50:13,941 - TransactionGenerator - INFO - Generated 5200 transactions (43 fraudulent - 0.83%), Rate: 9.92 TPS
+2025-03-24 14:50:24,022 - TransactionGenerator - INFO - Generated 5300 transactions (44 fraudulent - 0.83%), Rate: 9.92 TPS
+2025-03-24 14:50:34,092 - TransactionGenerator - INFO - Generated 5400 transactions (45 fraudulent - 0.83%), Rate: 9.92 TPS
+2025-03-24 14:50:44,168 - TransactionGenerator - INFO - Generated 5500 transactions (45 fraudulent - 0.82%), Rate: 9.92 TPS
+2025-03-24 14:50:54,248 - TransactionGenerator - INFO - Generated 5600 transactions (47 fraudulent - 0.84%), Rate: 9.92 TPS
+2025-03-24 14:51:04,317 - TransactionGenerator - INFO - Generated 5700 transactions (48 fraudulent - 0.84%), Rate: 9.92 TPS
+2025-03-24 14:51:14,405 - TransactionGenerator - INFO - Generated 5800 transactions (49 fraudulent - 0.84%), Rate: 9.92 TPS
+2025-03-24 14:51:24,892 - TransactionGenerator - INFO - Generated 5900 transactions (50 fraudulent - 0.85%), Rate: 9.91 TPS
+2025-03-24 14:51:34,969 - TransactionGenerator - INFO - Generated 6000 transactions (51 fraudulent - 0.85%), Rate: 9.91 TPS
+2025-03-24 14:51:45,044 - TransactionGenerator - INFO - Generated 6100 transactions (51 fraudulent - 0.84%), Rate: 9.91 TPS
+2025-03-24 14:51:55,119 - TransactionGenerator - INFO - Generated 6200 transactions (51 fraudulent - 0.82%), Rate: 9.91 TPS
+2025-03-24 14:52:05,200 - TransactionGenerator - INFO - Generated 6300 transactions (52 fraudulent - 0.83%), Rate: 9.91 TPS
+2025-03-24 14:52:15,270 - TransactionGenerator - INFO - Generated 6400 transactions (53 fraudulent - 0.83%), Rate: 9.91 TPS
+2025-03-24 14:52:25,346 - TransactionGenerator - INFO - Generated 6500 transactions (53 fraudulent - 0.82%), Rate: 9.91 TPS
+2025-03-24 14:52:35,415 - TransactionGenerator - INFO - Generated 6600 transactions (54 fraudulent - 0.82%), Rate: 9.91 TPS
+2025-03-24 14:52:45,488 - TransactionGenerator - INFO - Generated 6700 transactions (54 fraudulent - 0.81%), Rate: 9.91 TPS
+2025-03-24 14:52:55,563 - TransactionGenerator - INFO - Generated 6800 transactions (54 fraudulent - 0.79%), Rate: 9.91 TPS
+2025-03-24 14:53:05,638 - TransactionGenerator - INFO - Generated 6900 transactions (55 fraudulent - 0.80%), Rate: 9.92 TPS
+2025-03-24 14:53:15,706 - TransactionGenerator - INFO - Generated 7000 transactions (55 fraudulent - 0.79%), Rate: 9.92 TPS
+2025-03-24 14:53:25,786 - TransactionGenerator - INFO - Generated 7100 transactions (55 fraudulent - 0.77%), Rate: 9.92 TPS
+2025-03-24 14:53:35,863 - TransactionGenerator - INFO - Generated 7200 transactions (57 fraudulent - 0.79%), Rate: 9.92 TPS
+2025-03-24 14:53:45,935 - TransactionGenerator - INFO - Generated 7300 transactions (57 fraudulent - 0.78%), Rate: 9.92 TPS
+2025-03-24 14:53:56,009 - TransactionGenerator - INFO - Generated 7400 transactions (60 fraudulent - 0.81%), Rate: 9.92 TPS
+2025-03-24 14:54:06,086 - TransactionGenerator - INFO - Generated 7500 transactions (60 fraudulent - 0.80%), Rate: 9.92 TPS
+2025-03-24 14:54:16,157 - TransactionGenerator - INFO - Generated 7600 transactions (61 fraudulent - 0.80%), Rate: 9.92 TPS
+2025-03-24 14:54:26,233 - TransactionGenerator - INFO - Generated 7700 transactions (61 fraudulent - 0.79%), Rate: 9.92 TPS
+2025-03-24 14:54:36,307 - TransactionGenerator - INFO - Generated 7800 transactions (63 fraudulent - 0.81%), Rate: 9.92 TPS
+2025-03-24 14:54:46,379 - TransactionGenerator - INFO - Generated 7900 transactions (64 fraudulent - 0.81%), Rate: 9.92 TPS
+2025-03-24 14:54:56,456 - TransactionGenerator - INFO - Generated 8000 transactions (64 fraudulent - 0.80%), Rate: 9.92 TPS
+2025-03-24 14:55:06,550 - TransactionGenerator - INFO - Generated 8100 transactions (64 fraudulent - 0.79%), Rate: 9.92 TPS
+2025-03-24 14:55:16,619 - TransactionGenerator - INFO - Generated 8200 transactions (66 fraudulent - 0.80%), Rate: 9.92 TPS
+2025-03-24 14:55:26,695 - TransactionGenerator - INFO - Generated 8300 transactions (67 fraudulent - 0.81%), Rate: 9.92 TPS
+2025-03-24 14:55:36,770 - TransactionGenerator - INFO - Generated 8400 transactions (68 fraudulent - 0.81%), Rate: 9.92 TPS
+2025-03-24 14:55:46,848 - TransactionGenerator - INFO - Generated 8500 transactions (68 fraudulent - 0.80%), Rate: 9.92 TPS
+2025-03-24 14:55:56,916 - TransactionGenerator - INFO - Generated 8600 transactions (69 fraudulent - 0.80%), Rate: 9.92 TPS
+2025-03-24 14:56:06,990 - TransactionGenerator - INFO - Generated 8700 transactions (69 fraudulent - 0.79%), Rate: 9.92 TPS
+2025-03-24 14:56:17,058 - TransactionGenerator - INFO - Generated 8800 transactions (69 fraudulent - 0.78%), Rate: 9.92 TPS
+2025-03-24 14:56:27,156 - TransactionGenerator - INFO - Generated 8900 transactions (71 fraudulent - 0.80%), Rate: 9.92 TPS
+2025-03-24 14:56:37,229 - TransactionGenerator - INFO - Generated 9000 transactions (71 fraudulent - 0.79%), Rate: 9.92 TPS
+2025-03-24 14:56:47,300 - TransactionGenerator - INFO - Generated 9100 transactions (72 fraudulent - 0.79%), Rate: 9.92 TPS
+2025-03-24 14:56:57,373 - TransactionGenerator - INFO - Generated 9200 transactions (72 fraudulent - 0.78%), Rate: 9.92 TPS
+2025-03-24 14:57:07,447 - TransactionGenerator - INFO - Generated 9300 transactions (72 fraudulent - 0.77%), Rate: 9.92 TPS
+2025-03-24 14:57:17,517 - TransactionGenerator - INFO - Generated 9400 transactions (74 fraudulent - 0.79%), Rate: 9.92 TPS
+2025-03-24 14:57:27,584 - TransactionGenerator - INFO - Generated 9500 transactions (76 fraudulent - 0.80%), Rate: 9.92 TPS
+2025-03-24 14:57:37,656 - TransactionGenerator - INFO - Generated 9600 transactions (78 fraudulent - 0.81%), Rate: 9.92 TPS
+2025-03-24 14:57:47,730 - TransactionGenerator - INFO - Generated 9700 transactions (79 fraudulent - 0.81%), Rate: 9.92 TPS
+2025-03-24 14:57:57,806 - TransactionGenerator - INFO - Generated 9800 transactions (79 fraudulent - 0.81%), Rate: 9.92 TPS
+2025-03-24 14:58:07,880 - TransactionGenerator - INFO - Generated 9900 transactions (82 fraudulent - 0.83%), Rate: 9.92 TPS
+2025-03-24 14:58:17,959 - TransactionGenerator - INFO - Generated 10000 transactions (83 fraudulent - 0.83%), Rate: 9.92 TPS
+2025-03-24 14:58:18,570 - TransactionGenerator - INFO - Saved 10000 transactions to ../data/sample_transactions.csv
+2025-03-24 14:58:28,551 - TransactionGenerator - INFO - Generated 10100 transactions (84 fraudulent - 0.83%), Rate: 9.91 TPS
+2025-03-24 14:58:38,624 - TransactionGenerator - INFO - Generated 10200 transactions (85 fraudulent - 0.83%), Rate: 9.91 TPS
+2025-03-24 14:58:48,713 - TransactionGenerator - INFO - Generated 10300 transactions (85 fraudulent - 0.83%), Rate: 9.91 TPS
+2025-03-24 14:58:58,788 - TransactionGenerator - INFO - Generated 10400 transactions (85 fraudulent - 0.82%), Rate: 9.91 TPS
+2025-03-24 14:59:08,861 - TransactionGenerator - INFO - Generated 10500 transactions (85 fraudulent - 0.81%), Rate: 9.91 TPS
+2025-03-24 14:59:18,970 - TransactionGenerator - INFO - Generated 10600 transactions (87 fraudulent - 0.82%), Rate: 9.91 TPS
+2025-03-24 14:59:29,052 - TransactionGenerator - INFO - Generated 10700 transactions (88 fraudulent - 0.82%), Rate: 9.91 TPS
+2025-03-24 14:59:39,133 - TransactionGenerator - INFO - Generated 10800 transactions (89 fraudulent - 0.82%), Rate: 9.91 TPS
+2025-03-24 14:59:49,202 - TransactionGenerator - INFO - Generated 10900 transactions (91 fraudulent - 0.83%), Rate: 9.91 TPS
+2025-03-24 14:59:59,280 - TransactionGenerator - INFO - Generated 11000 transactions (91 fraudulent - 0.83%), Rate: 9.91 TPS
+2025-03-24 15:00:04,654 - TransactionGenerator - INFO - Generator stopped by user
+2025-03-24 15:00:04,691 - TransactionGenerator - INFO - Saved 1052 transactions to ../data/sample_transactions.csv
+2025-03-24 15:00:04,693 - TransactionGenerator - INFO - Generator shutdown complete
+2025-03-24 16:08:11,042 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-03-24 16:08:11,078 - kafka.conn - INFO - Broker version identified as 2.6
+2025-03-24 16:08:11,078 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-03-24 16:08:11,083 - TransactionGenerator - INFO - Generating 1000 customer profiles
+2025-03-24 16:08:14,922 - TransactionGenerator - INFO - Generated 1000 customer profiles
+2025-03-24 16:08:15,151 - TransactionGenerator - INFO - Starting transaction generator
+2025-03-24 16:08:15,152 - TransactionGenerator - INFO - Fraud ratio: 1.0%
+2025-03-24 16:08:15,154 - TransactionGenerator - INFO - Rate: 5 transactions per second
+2025-03-24 16:08:15,199 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-03-24 16:08:15,211 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9092 <checking_api_versions_send> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-03-24 16:08:15,217 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-03-24 16:08:35,803 - TransactionGenerator - INFO - Generated 100 transactions (0 fraudulent - 0.00%), Rate: 4.84 TPS
+2025-03-24 16:08:56,322 - TransactionGenerator - INFO - Generated 200 transactions (1 fraudulent - 0.50%), Rate: 4.86 TPS
+2025-03-24 16:09:16,558 - TransactionGenerator - INFO - Generated 300 transactions (1 fraudulent - 0.33%), Rate: 4.89 TPS
+2025-03-24 16:09:36,782 - TransactionGenerator - INFO - Generated 400 transactions (3 fraudulent - 0.75%), Rate: 4.90 TPS
+2025-03-24 16:09:57,205 - TransactionGenerator - INFO - Generated 500 transactions (3 fraudulent - 0.60%), Rate: 4.90 TPS
+2025-03-24 16:10:17,848 - TransactionGenerator - INFO - Generated 600 transactions (5 fraudulent - 0.83%), Rate: 4.89 TPS
+2025-03-24 16:10:38,105 - TransactionGenerator - INFO - Generated 700 transactions (6 fraudulent - 0.86%), Rate: 4.90 TPS
+2025-03-24 16:10:58,277 - TransactionGenerator - INFO - Generated 800 transactions (7 fraudulent - 0.88%), Rate: 4.90 TPS
+2025-03-24 16:11:18,469 - TransactionGenerator - INFO - Generated 900 transactions (9 fraudulent - 1.00%), Rate: 4.91 TPS
+2025-03-24 16:11:38,738 - TransactionGenerator - INFO - Generated 1000 transactions (9 fraudulent - 0.90%), Rate: 4.91 TPS
+2025-03-24 16:11:58,895 - TransactionGenerator - INFO - Generated 1100 transactions (10 fraudulent - 0.91%), Rate: 4.92 TPS
+2025-03-24 16:12:19,071 - TransactionGenerator - INFO - Generated 1200 transactions (11 fraudulent - 0.92%), Rate: 4.92 TPS
+2025-03-24 16:12:39,320 - TransactionGenerator - INFO - Generated 1300 transactions (13 fraudulent - 1.00%), Rate: 4.92 TPS
+2025-03-24 16:12:59,623 - TransactionGenerator - INFO - Generated 1400 transactions (13 fraudulent - 0.93%), Rate: 4.92 TPS
+2025-03-24 16:13:20,032 - TransactionGenerator - INFO - Generated 1500 transactions (14 fraudulent - 0.93%), Rate: 4.92 TPS
+2025-03-24 16:13:40,226 - TransactionGenerator - INFO - Generated 1600 transactions (14 fraudulent - 0.88%), Rate: 4.92 TPS
+2025-03-24 16:14:00,546 - TransactionGenerator - INFO - Generated 1700 transactions (14 fraudulent - 0.82%), Rate: 4.92 TPS
+2025-03-24 16:14:20,761 - TransactionGenerator - INFO - Generated 1800 transactions (16 fraudulent - 0.89%), Rate: 4.92 TPS
+2025-03-24 16:14:41,032 - TransactionGenerator - INFO - Generated 1900 transactions (16 fraudulent - 0.84%), Rate: 4.92 TPS
+2025-03-24 16:15:01,342 - TransactionGenerator - INFO - Generated 2000 transactions (16 fraudulent - 0.80%), Rate: 4.92 TPS
+2025-03-24 16:15:21,532 - TransactionGenerator - INFO - Generated 2100 transactions (18 fraudulent - 0.86%), Rate: 4.93 TPS
+2025-03-24 16:15:41,766 - TransactionGenerator - INFO - Generated 2200 transactions (18 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:16:02,078 - TransactionGenerator - INFO - Generated 2300 transactions (18 fraudulent - 0.78%), Rate: 4.93 TPS
+2025-03-24 16:16:22,276 - TransactionGenerator - INFO - Generated 2400 transactions (19 fraudulent - 0.79%), Rate: 4.93 TPS
+2025-03-24 16:16:42,533 - TransactionGenerator - INFO - Generated 2500 transactions (19 fraudulent - 0.76%), Rate: 4.93 TPS
+2025-03-24 16:17:02,700 - TransactionGenerator - INFO - Generated 2600 transactions (21 fraudulent - 0.81%), Rate: 4.93 TPS
+2025-03-24 16:17:22,956 - TransactionGenerator - INFO - Generated 2700 transactions (21 fraudulent - 0.78%), Rate: 4.93 TPS
+2025-03-24 16:17:43,270 - TransactionGenerator - INFO - Generated 2800 transactions (21 fraudulent - 0.75%), Rate: 4.93 TPS
+2025-03-24 16:18:03,472 - TransactionGenerator - INFO - Generated 2900 transactions (22 fraudulent - 0.76%), Rate: 4.93 TPS
+2025-03-24 16:18:23,719 - TransactionGenerator - INFO - Generated 3000 transactions (22 fraudulent - 0.73%), Rate: 4.93 TPS
+2025-03-24 16:18:44,019 - TransactionGenerator - INFO - Generated 3100 transactions (23 fraudulent - 0.74%), Rate: 4.93 TPS
+2025-03-24 16:19:04,237 - TransactionGenerator - INFO - Generated 3200 transactions (23 fraudulent - 0.72%), Rate: 4.93 TPS
+2025-03-24 16:19:24,415 - TransactionGenerator - INFO - Generated 3300 transactions (25 fraudulent - 0.76%), Rate: 4.93 TPS
+2025-03-24 16:19:44,655 - TransactionGenerator - INFO - Generated 3400 transactions (25 fraudulent - 0.74%), Rate: 4.93 TPS
+2025-03-24 16:20:04,963 - TransactionGenerator - INFO - Generated 3500 transactions (27 fraudulent - 0.77%), Rate: 4.93 TPS
+2025-03-24 16:20:25,150 - TransactionGenerator - INFO - Generated 3600 transactions (27 fraudulent - 0.75%), Rate: 4.93 TPS
+2025-03-24 16:20:45,512 - TransactionGenerator - INFO - Generated 3700 transactions (27 fraudulent - 0.73%), Rate: 4.93 TPS
+2025-03-24 16:21:06,038 - TransactionGenerator - INFO - Generated 3800 transactions (28 fraudulent - 0.74%), Rate: 4.93 TPS
+2025-03-24 16:21:26,178 - TransactionGenerator - INFO - Generated 3900 transactions (28 fraudulent - 0.72%), Rate: 4.93 TPS
+2025-03-24 16:21:46,445 - TransactionGenerator - INFO - Generated 4000 transactions (28 fraudulent - 0.70%), Rate: 4.93 TPS
+2025-03-24 16:22:06,840 - TransactionGenerator - INFO - Generated 4100 transactions (31 fraudulent - 0.76%), Rate: 4.93 TPS
+2025-03-24 16:22:27,181 - TransactionGenerator - INFO - Generated 4200 transactions (33 fraudulent - 0.79%), Rate: 4.93 TPS
+2025-03-24 16:22:47,378 - TransactionGenerator - INFO - Generated 4300 transactions (34 fraudulent - 0.79%), Rate: 4.93 TPS
+2025-03-24 16:23:07,575 - TransactionGenerator - INFO - Generated 4400 transactions (36 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:23:27,754 - TransactionGenerator - INFO - Generated 4500 transactions (37 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:23:48,093 - TransactionGenerator - INFO - Generated 4600 transactions (37 fraudulent - 0.80%), Rate: 4.93 TPS
+2025-03-24 16:24:08,452 - TransactionGenerator - INFO - Generated 4700 transactions (37 fraudulent - 0.79%), Rate: 4.93 TPS
+2025-03-24 16:24:28,904 - TransactionGenerator - INFO - Generated 4800 transactions (38 fraudulent - 0.79%), Rate: 4.93 TPS
+2025-03-24 16:24:49,128 - TransactionGenerator - INFO - Generated 4900 transactions (41 fraudulent - 0.84%), Rate: 4.93 TPS
+2025-03-24 16:25:09,375 - TransactionGenerator - INFO - Generated 5000 transactions (42 fraudulent - 0.84%), Rate: 4.93 TPS
+2025-03-24 16:25:29,647 - TransactionGenerator - INFO - Generated 5100 transactions (44 fraudulent - 0.86%), Rate: 4.93 TPS
+2025-03-24 16:25:49,865 - TransactionGenerator - INFO - Generated 5200 transactions (44 fraudulent - 0.85%), Rate: 4.93 TPS
+2025-03-24 16:26:10,136 - TransactionGenerator - INFO - Generated 5300 transactions (45 fraudulent - 0.85%), Rate: 4.93 TPS
+2025-03-24 16:26:30,260 - TransactionGenerator - INFO - Generated 5400 transactions (46 fraudulent - 0.85%), Rate: 4.93 TPS
+2025-03-24 16:26:50,490 - TransactionGenerator - INFO - Generated 5500 transactions (46 fraudulent - 0.84%), Rate: 4.93 TPS
+2025-03-24 16:27:10,801 - TransactionGenerator - INFO - Generated 5600 transactions (48 fraudulent - 0.86%), Rate: 4.93 TPS
+2025-03-24 16:27:30,978 - TransactionGenerator - INFO - Generated 5700 transactions (48 fraudulent - 0.84%), Rate: 4.93 TPS
+2025-03-24 16:27:51,147 - TransactionGenerator - INFO - Generated 5800 transactions (52 fraudulent - 0.90%), Rate: 4.93 TPS
+2025-03-24 16:28:11,326 - TransactionGenerator - INFO - Generated 5900 transactions (54 fraudulent - 0.92%), Rate: 4.93 TPS
+2025-03-24 16:28:31,649 - TransactionGenerator - INFO - Generated 6000 transactions (57 fraudulent - 0.95%), Rate: 4.93 TPS
+2025-03-24 16:28:51,865 - TransactionGenerator - INFO - Generated 6100 transactions (57 fraudulent - 0.93%), Rate: 4.93 TPS
+2025-03-24 16:29:12,101 - TransactionGenerator - INFO - Generated 6200 transactions (57 fraudulent - 0.92%), Rate: 4.93 TPS
+2025-03-24 16:29:32,238 - TransactionGenerator - INFO - Generated 6300 transactions (57 fraudulent - 0.90%), Rate: 4.93 TPS
+2025-03-24 16:29:52,429 - TransactionGenerator - INFO - Generated 6400 transactions (57 fraudulent - 0.89%), Rate: 4.93 TPS
+2025-03-24 16:30:12,593 - TransactionGenerator - INFO - Generated 6500 transactions (58 fraudulent - 0.89%), Rate: 4.93 TPS
+2025-03-24 16:30:32,790 - TransactionGenerator - INFO - Generated 6600 transactions (59 fraudulent - 0.89%), Rate: 4.93 TPS
+2025-03-24 16:30:52,966 - TransactionGenerator - INFO - Generated 6700 transactions (59 fraudulent - 0.88%), Rate: 4.93 TPS
+2025-03-24 16:31:13,166 - TransactionGenerator - INFO - Generated 6800 transactions (60 fraudulent - 0.88%), Rate: 4.93 TPS
+2025-03-24 16:31:33,330 - TransactionGenerator - INFO - Generated 6900 transactions (60 fraudulent - 0.87%), Rate: 4.93 TPS
+2025-03-24 16:31:53,647 - TransactionGenerator - INFO - Generated 7000 transactions (60 fraudulent - 0.86%), Rate: 4.93 TPS
+2025-03-24 16:32:13,913 - TransactionGenerator - INFO - Generated 7100 transactions (60 fraudulent - 0.85%), Rate: 4.93 TPS
+2025-03-24 16:32:34,146 - TransactionGenerator - INFO - Generated 7200 transactions (60 fraudulent - 0.83%), Rate: 4.93 TPS
+2025-03-24 16:32:54,448 - TransactionGenerator - INFO - Generated 7300 transactions (60 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:33:14,687 - TransactionGenerator - INFO - Generated 7400 transactions (61 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:33:34,857 - TransactionGenerator - INFO - Generated 7500 transactions (61 fraudulent - 0.81%), Rate: 4.94 TPS
+2025-03-24 16:33:55,082 - TransactionGenerator - INFO - Generated 7600 transactions (61 fraudulent - 0.80%), Rate: 4.94 TPS
+2025-03-24 16:34:15,462 - TransactionGenerator - INFO - Generated 7700 transactions (62 fraudulent - 0.81%), Rate: 4.93 TPS
+2025-03-24 16:34:35,749 - TransactionGenerator - INFO - Generated 7800 transactions (63 fraudulent - 0.81%), Rate: 4.93 TPS
+2025-03-24 16:34:56,048 - TransactionGenerator - INFO - Generated 7900 transactions (65 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:35:16,379 - TransactionGenerator - INFO - Generated 8000 transactions (67 fraudulent - 0.84%), Rate: 4.93 TPS
+2025-03-24 16:35:36,626 - TransactionGenerator - INFO - Generated 8100 transactions (68 fraudulent - 0.84%), Rate: 4.93 TPS
+2025-03-24 16:35:57,069 - TransactionGenerator - INFO - Generated 8200 transactions (68 fraudulent - 0.83%), Rate: 4.93 TPS
+2025-03-24 16:36:17,384 - TransactionGenerator - INFO - Generated 8300 transactions (68 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:36:37,654 - TransactionGenerator - INFO - Generated 8400 transactions (69 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:36:57,911 - TransactionGenerator - INFO - Generated 8500 transactions (69 fraudulent - 0.81%), Rate: 4.93 TPS
+2025-03-24 16:37:18,209 - TransactionGenerator - INFO - Generated 8600 transactions (71 fraudulent - 0.83%), Rate: 4.93 TPS
+2025-03-24 16:37:38,414 - TransactionGenerator - INFO - Generated 8700 transactions (71 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:37:58,689 - TransactionGenerator - INFO - Generated 8800 transactions (72 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:38:18,859 - TransactionGenerator - INFO - Generated 8900 transactions (74 fraudulent - 0.83%), Rate: 4.93 TPS
+2025-03-24 16:38:39,053 - TransactionGenerator - INFO - Generated 9000 transactions (75 fraudulent - 0.83%), Rate: 4.93 TPS
+2025-03-24 16:38:59,380 - TransactionGenerator - INFO - Generated 9100 transactions (77 fraudulent - 0.85%), Rate: 4.93 TPS
+2025-03-24 16:39:19,568 - TransactionGenerator - INFO - Generated 9200 transactions (78 fraudulent - 0.85%), Rate: 4.93 TPS
+2025-03-24 16:39:39,760 - TransactionGenerator - INFO - Generated 9300 transactions (78 fraudulent - 0.84%), Rate: 4.93 TPS
+2025-03-24 16:39:59,925 - TransactionGenerator - INFO - Generated 9400 transactions (78 fraudulent - 0.83%), Rate: 4.93 TPS
+2025-03-24 16:40:20,152 - TransactionGenerator - INFO - Generated 9500 transactions (78 fraudulent - 0.82%), Rate: 4.94 TPS
+2025-03-24 16:40:40,526 - TransactionGenerator - INFO - Generated 9600 transactions (79 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:41:00,711 - TransactionGenerator - INFO - Generated 9700 transactions (80 fraudulent - 0.82%), Rate: 4.93 TPS
+2025-03-24 16:41:20,903 - TransactionGenerator - INFO - Generated 9800 transactions (80 fraudulent - 0.82%), Rate: 4.94 TPS
+2025-03-24 16:41:41,129 - TransactionGenerator - INFO - Generated 9900 transactions (80 fraudulent - 0.81%), Rate: 4.94 TPS
+2025-03-24 16:42:01,364 - TransactionGenerator - INFO - Generated 10000 transactions (81 fraudulent - 0.81%), Rate: 4.94 TPS
+2025-03-24 16:42:21,941 - TransactionGenerator - INFO - Generated 10100 transactions (82 fraudulent - 0.81%), Rate: 4.93 TPS
+2025-03-24 16:42:42,137 - TransactionGenerator - INFO - Generated 10200 transactions (82 fraudulent - 0.80%), Rate: 4.93 TPS
+2025-03-24 16:43:02,310 - TransactionGenerator - INFO - Generated 10300 transactions (82 fraudulent - 0.80%), Rate: 4.93 TPS
+2025-03-24 16:43:22,477 - TransactionGenerator - INFO - Generated 10400 transactions (83 fraudulent - 0.80%), Rate: 4.94 TPS
+2025-03-24 16:43:42,655 - TransactionGenerator - INFO - Generated 10500 transactions (83 fraudulent - 0.79%), Rate: 4.94 TPS
+2025-03-24 16:44:02,804 - TransactionGenerator - INFO - Generated 10600 transactions (83 fraudulent - 0.78%), Rate: 4.94 TPS
+2025-03-24 16:44:23,065 - TransactionGenerator - INFO - Generated 10700 transactions (83 fraudulent - 0.78%), Rate: 4.94 TPS
+2025-03-24 16:44:43,328 - TransactionGenerator - INFO - Generated 10800 transactions (84 fraudulent - 0.78%), Rate: 4.94 TPS
+2025-03-24 16:45:03,552 - TransactionGenerator - INFO - Generated 10900 transactions (87 fraudulent - 0.80%), Rate: 4.94 TPS
+2025-03-24 16:45:23,753 - TransactionGenerator - INFO - Generated 11000 transactions (87 fraudulent - 0.79%), Rate: 4.94 TPS
+2025-03-24 16:45:43,993 - TransactionGenerator - INFO - Generated 11100 transactions (88 fraudulent - 0.79%), Rate: 4.94 TPS
+2025-03-24 16:46:04,208 - TransactionGenerator - INFO - Generated 11200 transactions (89 fraudulent - 0.79%), Rate: 4.94 TPS
+2025-03-24 16:46:24,478 - TransactionGenerator - INFO - Generated 11300 transactions (90 fraudulent - 0.80%), Rate: 4.94 TPS
+2025-03-24 16:46:44,738 - TransactionGenerator - INFO - Generated 11400 transactions (90 fraudulent - 0.79%), Rate: 4.94 TPS
+2025-03-24 16:47:05,033 - TransactionGenerator - INFO - Generated 11500 transactions (91 fraudulent - 0.79%), Rate: 4.94 TPS
+2025-03-24 16:47:25,301 - TransactionGenerator - INFO - Generated 11600 transactions (91 fraudulent - 0.78%), Rate: 4.94 TPS
+2025-03-24 16:47:45,466 - TransactionGenerator - INFO - Generated 11700 transactions (91 fraudulent - 0.78%), Rate: 4.94 TPS
+2025-03-24 16:48:05,724 - TransactionGenerator - INFO - Generated 11800 transactions (92 fraudulent - 0.78%), Rate: 4.94 TPS
+2025-03-24 16:48:26,098 - TransactionGenerator - INFO - Generated 11900 transactions (93 fraudulent - 0.78%), Rate: 4.94 TPS
+2025-03-24 16:48:46,228 - TransactionGenerator - INFO - Generated 12000 transactions (96 fraudulent - 0.80%), Rate: 4.94 TPS
+2025-03-24 16:49:06,350 - TransactionGenerator - INFO - Generated 12100 transactions (98 fraudulent - 0.81%), Rate: 4.94 TPS
+2025-03-24 16:49:26,538 - TransactionGenerator - INFO - Generated 12200 transactions (98 fraudulent - 0.80%), Rate: 4.94 TPS
+2025-03-24 16:49:46,835 - TransactionGenerator - INFO - Generated 12300 transactions (99 fraudulent - 0.80%), Rate: 4.94 TPS
+2025-03-24 16:50:07,050 - TransactionGenerator - INFO - Generated 12400 transactions (100 fraudulent - 0.81%), Rate: 4.94 TPS
+2025-03-24 16:50:27,199 - TransactionGenerator - INFO - Generated 12500 transactions (101 fraudulent - 0.81%), Rate: 4.94 TPS
+2025-03-24 16:50:47,372 - TransactionGenerator - INFO - Generated 12600 transactions (101 fraudulent - 0.80%), Rate: 4.94 TPS
+2025-03-24 16:51:07,490 - TransactionGenerator - INFO - Generated 12700 transactions (102 fraudulent - 0.80%), Rate: 4.94 TPS
+2025-03-24 16:51:27,653 - TransactionGenerator - INFO - Generated 12800 transactions (104 fraudulent - 0.81%), Rate: 4.94 TPS
+2025-03-24 16:51:47,995 - TransactionGenerator - INFO - Generated 12900 transactions (105 fraudulent - 0.81%), Rate: 4.94 TPS
+2025-03-24 16:52:08,119 - TransactionGenerator - INFO - Generated 13000 transactions (105 fraudulent - 0.81%), Rate: 4.94 TPS
+2025-03-24 16:52:28,320 - TransactionGenerator - INFO - Generated 13100 transactions (109 fraudulent - 0.83%), Rate: 4.94 TPS
+2025-03-24 16:52:48,533 - TransactionGenerator - INFO - Generated 13200 transactions (110 fraudulent - 0.83%), Rate: 4.94 TPS
+2025-03-24 16:53:08,781 - TransactionGenerator - INFO - Generated 13300 transactions (110 fraudulent - 0.83%), Rate: 4.94 TPS
+2025-03-24 16:53:29,109 - TransactionGenerator - INFO - Generated 13400 transactions (113 fraudulent - 0.84%), Rate: 4.94 TPS
+2025-03-24 16:53:49,330 - TransactionGenerator - INFO - Generated 13500 transactions (115 fraudulent - 0.85%), Rate: 4.94 TPS
+2025-03-24 16:54:09,600 - TransactionGenerator - INFO - Generated 13600 transactions (117 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 16:54:29,884 - TransactionGenerator - INFO - Generated 13700 transactions (118 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 16:54:50,032 - TransactionGenerator - INFO - Generated 13800 transactions (118 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 16:55:10,164 - TransactionGenerator - INFO - Generated 13900 transactions (120 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 16:55:30,374 - TransactionGenerator - INFO - Generated 14000 transactions (121 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 16:55:50,504 - TransactionGenerator - INFO - Generated 14100 transactions (123 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 16:56:10,655 - TransactionGenerator - INFO - Generated 14200 transactions (124 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 16:56:30,880 - TransactionGenerator - INFO - Generated 14300 transactions (126 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 16:56:51,052 - TransactionGenerator - INFO - Generated 14400 transactions (126 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 16:57:11,228 - TransactionGenerator - INFO - Generated 14500 transactions (126 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 16:57:31,345 - TransactionGenerator - INFO - Generated 14600 transactions (128 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 16:57:51,475 - TransactionGenerator - INFO - Generated 14700 transactions (128 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 16:58:12,060 - TransactionGenerator - INFO - Generated 14800 transactions (130 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 16:58:32,376 - TransactionGenerator - INFO - Generated 14900 transactions (132 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 16:58:52,584 - TransactionGenerator - INFO - Generated 15000 transactions (134 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 16:59:12,824 - TransactionGenerator - INFO - Generated 15100 transactions (135 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 16:59:33,164 - TransactionGenerator - INFO - Generated 15200 transactions (137 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 16:59:53,438 - TransactionGenerator - INFO - Generated 15300 transactions (137 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:00:13,607 - TransactionGenerator - INFO - Generated 15400 transactions (138 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:00:33,798 - TransactionGenerator - INFO - Generated 15500 transactions (139 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:00:54,017 - TransactionGenerator - INFO - Generated 15600 transactions (141 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:01:14,249 - TransactionGenerator - INFO - Generated 15700 transactions (142 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:01:34,465 - TransactionGenerator - INFO - Generated 15800 transactions (143 fraudulent - 0.91%), Rate: 4.94 TPS
+2025-03-24 17:01:54,783 - TransactionGenerator - INFO - Generated 15900 transactions (143 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:02:15,040 - TransactionGenerator - INFO - Generated 16000 transactions (144 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:02:35,318 - TransactionGenerator - INFO - Generated 16100 transactions (144 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:02:55,629 - TransactionGenerator - INFO - Generated 16200 transactions (145 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:03:15,839 - TransactionGenerator - INFO - Generated 16300 transactions (147 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:03:36,171 - TransactionGenerator - INFO - Generated 16400 transactions (147 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:03:56,590 - TransactionGenerator - INFO - Generated 16500 transactions (149 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:04:16,956 - TransactionGenerator - INFO - Generated 16600 transactions (150 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:04:37,193 - TransactionGenerator - INFO - Generated 16700 transactions (150 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:04:57,436 - TransactionGenerator - INFO - Generated 16800 transactions (151 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:05:17,662 - TransactionGenerator - INFO - Generated 16900 transactions (151 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:05:37,861 - TransactionGenerator - INFO - Generated 17000 transactions (152 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:05:58,067 - TransactionGenerator - INFO - Generated 17100 transactions (153 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:06:18,206 - TransactionGenerator - INFO - Generated 17200 transactions (154 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:06:38,329 - TransactionGenerator - INFO - Generated 17300 transactions (154 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:06:58,485 - TransactionGenerator - INFO - Generated 17400 transactions (156 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:07:18,640 - TransactionGenerator - INFO - Generated 17500 transactions (157 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:07:38,776 - TransactionGenerator - INFO - Generated 17600 transactions (157 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:07:58,912 - TransactionGenerator - INFO - Generated 17700 transactions (157 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:08:19,030 - TransactionGenerator - INFO - Generated 17800 transactions (158 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:08:39,176 - TransactionGenerator - INFO - Generated 17900 transactions (159 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:08:59,314 - TransactionGenerator - INFO - Generated 18000 transactions (161 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:09:19,434 - TransactionGenerator - INFO - Generated 18100 transactions (162 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:09:39,570 - TransactionGenerator - INFO - Generated 18200 transactions (163 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:09:59,735 - TransactionGenerator - INFO - Generated 18300 transactions (164 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:10:19,859 - TransactionGenerator - INFO - Generated 18400 transactions (164 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:10:39,988 - TransactionGenerator - INFO - Generated 18500 transactions (164 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:11:00,120 - TransactionGenerator - INFO - Generated 18600 transactions (164 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:11:20,233 - TransactionGenerator - INFO - Generated 18700 transactions (164 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:11:40,363 - TransactionGenerator - INFO - Generated 18800 transactions (165 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:12:00,481 - TransactionGenerator - INFO - Generated 18900 transactions (165 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:12:20,623 - TransactionGenerator - INFO - Generated 19000 transactions (165 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:12:40,773 - TransactionGenerator - INFO - Generated 19100 transactions (165 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:13:00,893 - TransactionGenerator - INFO - Generated 19200 transactions (166 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:13:21,018 - TransactionGenerator - INFO - Generated 19300 transactions (168 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:13:41,147 - TransactionGenerator - INFO - Generated 19400 transactions (171 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:14:01,268 - TransactionGenerator - INFO - Generated 19500 transactions (171 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:14:21,384 - TransactionGenerator - INFO - Generated 19600 transactions (171 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:14:41,506 - TransactionGenerator - INFO - Generated 19700 transactions (172 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:15:01,641 - TransactionGenerator - INFO - Generated 19800 transactions (173 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:15:21,762 - TransactionGenerator - INFO - Generated 19900 transactions (173 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:15:41,899 - TransactionGenerator - INFO - Generated 20000 transactions (176 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:16:02,026 - TransactionGenerator - INFO - Generated 20100 transactions (177 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:16:22,147 - TransactionGenerator - INFO - Generated 20200 transactions (178 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:16:42,320 - TransactionGenerator - INFO - Generated 20300 transactions (179 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:17:02,430 - TransactionGenerator - INFO - Generated 20400 transactions (179 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:17:22,554 - TransactionGenerator - INFO - Generated 20500 transactions (179 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:17:42,679 - TransactionGenerator - INFO - Generated 20600 transactions (180 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:18:02,798 - TransactionGenerator - INFO - Generated 20700 transactions (183 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:18:22,933 - TransactionGenerator - INFO - Generated 20800 transactions (183 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:18:43,046 - TransactionGenerator - INFO - Generated 20900 transactions (183 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:19:03,175 - TransactionGenerator - INFO - Generated 21000 transactions (183 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:19:23,301 - TransactionGenerator - INFO - Generated 21100 transactions (183 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:19:43,446 - TransactionGenerator - INFO - Generated 21200 transactions (183 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:20:03,589 - TransactionGenerator - INFO - Generated 21300 transactions (183 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:20:23,738 - TransactionGenerator - INFO - Generated 21400 transactions (184 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:20:43,883 - TransactionGenerator - INFO - Generated 21500 transactions (184 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:21:04,004 - TransactionGenerator - INFO - Generated 21600 transactions (185 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:21:24,140 - TransactionGenerator - INFO - Generated 21700 transactions (185 fraudulent - 0.85%), Rate: 4.94 TPS
+2025-03-24 17:21:44,258 - TransactionGenerator - INFO - Generated 21800 transactions (186 fraudulent - 0.85%), Rate: 4.94 TPS
+2025-03-24 17:22:04,377 - TransactionGenerator - INFO - Generated 21900 transactions (188 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:22:24,497 - TransactionGenerator - INFO - Generated 22000 transactions (188 fraudulent - 0.85%), Rate: 4.94 TPS
+2025-03-24 17:22:44,622 - TransactionGenerator - INFO - Generated 22100 transactions (188 fraudulent - 0.85%), Rate: 4.94 TPS
+2025-03-24 17:23:04,741 - TransactionGenerator - INFO - Generated 22200 transactions (190 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:23:24,862 - TransactionGenerator - INFO - Generated 22300 transactions (191 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:23:44,993 - TransactionGenerator - INFO - Generated 22400 transactions (192 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:24:05,117 - TransactionGenerator - INFO - Generated 22500 transactions (192 fraudulent - 0.85%), Rate: 4.95 TPS
+2025-03-24 17:24:25,240 - TransactionGenerator - INFO - Generated 22600 transactions (194 fraudulent - 0.86%), Rate: 4.95 TPS
+2025-03-24 17:24:45,363 - TransactionGenerator - INFO - Generated 22700 transactions (198 fraudulent - 0.87%), Rate: 4.95 TPS
+2025-03-24 17:25:05,490 - TransactionGenerator - INFO - Generated 22800 transactions (199 fraudulent - 0.87%), Rate: 4.95 TPS
+2025-03-24 17:25:25,610 - TransactionGenerator - INFO - Generated 22900 transactions (201 fraudulent - 0.88%), Rate: 4.95 TPS
+2025-03-24 17:25:45,760 - TransactionGenerator - INFO - Generated 23000 transactions (201 fraudulent - 0.87%), Rate: 4.95 TPS
+2025-03-24 17:26:05,931 - TransactionGenerator - INFO - Generated 23100 transactions (202 fraudulent - 0.87%), Rate: 4.95 TPS
+2025-03-24 17:26:26,323 - TransactionGenerator - INFO - Generated 23200 transactions (202 fraudulent - 0.87%), Rate: 4.95 TPS
+2025-03-24 17:26:46,511 - TransactionGenerator - INFO - Generated 23300 transactions (206 fraudulent - 0.88%), Rate: 4.95 TPS
+2025-03-24 17:27:06,771 - TransactionGenerator - INFO - Generated 23400 transactions (206 fraudulent - 0.88%), Rate: 4.95 TPS
+2025-03-24 17:27:26,909 - TransactionGenerator - INFO - Generated 23500 transactions (206 fraudulent - 0.88%), Rate: 4.95 TPS
+2025-03-24 17:27:48,068 - TransactionGenerator - INFO - Generated 23600 transactions (206 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:28:08,987 - TransactionGenerator - INFO - Generated 23700 transactions (208 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:28:29,178 - TransactionGenerator - INFO - Generated 23800 transactions (209 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:28:49,292 - TransactionGenerator - INFO - Generated 23900 transactions (209 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:29:09,455 - TransactionGenerator - INFO - Generated 24000 transactions (209 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:29:29,609 - TransactionGenerator - INFO - Generated 24100 transactions (209 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:29:50,069 - TransactionGenerator - INFO - Generated 24200 transactions (209 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:30:10,361 - TransactionGenerator - INFO - Generated 24300 transactions (210 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:30:30,540 - TransactionGenerator - INFO - Generated 24400 transactions (210 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:30:50,701 - TransactionGenerator - INFO - Generated 24500 transactions (210 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:31:10,947 - TransactionGenerator - INFO - Generated 24600 transactions (212 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:31:31,208 - TransactionGenerator - INFO - Generated 24700 transactions (213 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:31:51,338 - TransactionGenerator - INFO - Generated 24800 transactions (215 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:32:11,501 - TransactionGenerator - INFO - Generated 24900 transactions (215 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:32:31,645 - TransactionGenerator - INFO - Generated 25000 transactions (218 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:32:51,814 - TransactionGenerator - INFO - Generated 25100 transactions (218 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:33:11,962 - TransactionGenerator - INFO - Generated 25200 transactions (221 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:33:32,314 - TransactionGenerator - INFO - Generated 25300 transactions (222 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:33:52,807 - TransactionGenerator - INFO - Generated 25400 transactions (222 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:34:13,098 - TransactionGenerator - INFO - Generated 25500 transactions (223 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:34:33,318 - TransactionGenerator - INFO - Generated 25600 transactions (223 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:34:53,512 - TransactionGenerator - INFO - Generated 25700 transactions (224 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:35:13,837 - TransactionGenerator - INFO - Generated 25800 transactions (224 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:35:34,187 - TransactionGenerator - INFO - Generated 25900 transactions (224 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:35:54,362 - TransactionGenerator - INFO - Generated 26000 transactions (225 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:36:14,595 - TransactionGenerator - INFO - Generated 26100 transactions (226 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:36:35,050 - TransactionGenerator - INFO - Generated 26200 transactions (227 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:36:55,486 - TransactionGenerator - INFO - Generated 26300 transactions (227 fraudulent - 0.86%), Rate: 4.94 TPS
+2025-03-24 17:37:16,105 - TransactionGenerator - INFO - Generated 26400 transactions (229 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:37:36,325 - TransactionGenerator - INFO - Generated 26500 transactions (231 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:37:56,526 - TransactionGenerator - INFO - Generated 26600 transactions (233 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:38:16,719 - TransactionGenerator - INFO - Generated 26700 transactions (236 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:38:36,918 - TransactionGenerator - INFO - Generated 26800 transactions (236 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:38:57,211 - TransactionGenerator - INFO - Generated 26900 transactions (237 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:39:17,392 - TransactionGenerator - INFO - Generated 27000 transactions (242 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:39:37,738 - TransactionGenerator - INFO - Generated 27100 transactions (242 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:39:58,021 - TransactionGenerator - INFO - Generated 27200 transactions (243 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:40:18,536 - TransactionGenerator - INFO - Generated 27300 transactions (244 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:40:38,734 - TransactionGenerator - INFO - Generated 27400 transactions (244 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:40:58,995 - TransactionGenerator - INFO - Generated 27500 transactions (244 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:41:19,423 - TransactionGenerator - INFO - Generated 27600 transactions (246 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:41:39,615 - TransactionGenerator - INFO - Generated 27700 transactions (246 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:41:59,769 - TransactionGenerator - INFO - Generated 27800 transactions (246 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:42:19,884 - TransactionGenerator - INFO - Generated 27900 transactions (246 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:42:40,065 - TransactionGenerator - INFO - Generated 28000 transactions (246 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:43:00,194 - TransactionGenerator - INFO - Generated 28100 transactions (246 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:43:20,322 - TransactionGenerator - INFO - Generated 28200 transactions (247 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:43:40,454 - TransactionGenerator - INFO - Generated 28300 transactions (249 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:44:00,661 - TransactionGenerator - INFO - Generated 28400 transactions (249 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:44:20,899 - TransactionGenerator - INFO - Generated 28500 transactions (249 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:44:41,102 - TransactionGenerator - INFO - Generated 28600 transactions (249 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:45:01,531 - TransactionGenerator - INFO - Generated 28700 transactions (251 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:45:22,573 - TransactionGenerator - INFO - Generated 28800 transactions (252 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:45:43,042 - TransactionGenerator - INFO - Generated 28900 transactions (252 fraudulent - 0.87%), Rate: 4.94 TPS
+2025-03-24 17:46:03,186 - TransactionGenerator - INFO - Generated 29000 transactions (254 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:46:23,318 - TransactionGenerator - INFO - Generated 29100 transactions (257 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:46:43,472 - TransactionGenerator - INFO - Generated 29200 transactions (258 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:47:03,584 - TransactionGenerator - INFO - Generated 29300 transactions (259 fraudulent - 0.88%), Rate: 4.94 TPS
+2025-03-24 17:47:23,721 - TransactionGenerator - INFO - Generated 29400 transactions (263 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:47:43,843 - TransactionGenerator - INFO - Generated 29500 transactions (263 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:48:04,020 - TransactionGenerator - INFO - Generated 29600 transactions (265 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:48:24,177 - TransactionGenerator - INFO - Generated 29700 transactions (266 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:48:44,347 - TransactionGenerator - INFO - Generated 29800 transactions (266 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:49:04,477 - TransactionGenerator - INFO - Generated 29900 transactions (266 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:49:24,610 - TransactionGenerator - INFO - Generated 30000 transactions (266 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:49:44,762 - TransactionGenerator - INFO - Generated 30100 transactions (268 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:50:05,081 - TransactionGenerator - INFO - Generated 30200 transactions (268 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:50:25,229 - TransactionGenerator - INFO - Generated 30300 transactions (269 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:50:45,461 - TransactionGenerator - INFO - Generated 30400 transactions (270 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:51:05,623 - TransactionGenerator - INFO - Generated 30500 transactions (271 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:51:25,739 - TransactionGenerator - INFO - Generated 30600 transactions (273 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:51:45,861 - TransactionGenerator - INFO - Generated 30700 transactions (274 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:52:06,291 - TransactionGenerator - INFO - Generated 30800 transactions (275 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:52:26,447 - TransactionGenerator - INFO - Generated 30900 transactions (275 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:52:46,641 - TransactionGenerator - INFO - Generated 31000 transactions (277 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:53:06,757 - TransactionGenerator - INFO - Generated 31100 transactions (278 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:53:26,870 - TransactionGenerator - INFO - Generated 31200 transactions (278 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:53:47,008 - TransactionGenerator - INFO - Generated 31300 transactions (279 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:54:07,156 - TransactionGenerator - INFO - Generated 31400 transactions (280 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:54:27,274 - TransactionGenerator - INFO - Generated 31500 transactions (280 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:54:47,693 - TransactionGenerator - INFO - Generated 31600 transactions (283 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:55:07,893 - TransactionGenerator - INFO - Generated 31700 transactions (284 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:55:28,119 - TransactionGenerator - INFO - Generated 31800 transactions (284 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:55:48,258 - TransactionGenerator - INFO - Generated 31900 transactions (285 fraudulent - 0.89%), Rate: 4.94 TPS
+2025-03-24 17:56:08,376 - TransactionGenerator - INFO - Generated 32000 transactions (287 fraudulent - 0.90%), Rate: 4.94 TPS
+2025-03-24 17:56:10,766 - TransactionGenerator - INFO - Generator stopped by user
+2025-03-24 17:56:10,780 - kafka.producer.kafka - INFO - Closing the Kafka producer with 4294967.0 secs timeout.
+2025-03-24 17:56:10,817 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-03-24 17:56:10,878 - TransactionGenerator - INFO - Generator shutdown complete
+2025-03-25 15:26:18,067 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-03-25 15:26:18,849 - kafka.conn - INFO - Broker version identified as 2.6
+2025-03-25 15:26:18,850 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-03-25 15:26:18,854 - TransactionGenerator - INFO - Generating 1000 customer profiles
+2025-03-25 15:26:20,505 - TransactionGenerator - INFO - Generated 1000 customer profiles
+2025-03-25 15:26:20,678 - TransactionGenerator - INFO - Starting transaction generator
+2025-03-25 15:26:20,678 - TransactionGenerator - INFO - Fraud ratio: 1.0%
+2025-03-25 15:26:20,679 - TransactionGenerator - INFO - Rate: 5 transactions per second
+2025-03-25 15:26:21,895 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-03-25 15:26:21,897 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9092 <checking_api_versions_send> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-03-25 15:26:21,897 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-03-25 15:26:41,810 - TransactionGenerator - INFO - Generated 100 transactions (7 fraudulent - 7.00%), Rate: 4.73 TPS
+2025-03-25 15:26:52,663 - kafka.client - WARNING - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]> timed out after 30000.0 ms. Closing connection.
+2025-03-25 15:26:52,664 - kafka.conn - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms
+2025-03-25 15:26:52,665 - kafka.producer.sender - ERROR - Error sending produce request to node 1: [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms
+2025-03-25 15:26:52,666 - kafka.producer.record_accumulator - WARNING - Failed to produce messages to topic-partition TopicPartition(topic='transactions', partition=0) with base offset -1 log start offset None and error [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms.
+2025-03-25 15:26:52,668 - kafka.producer.sender - ERROR - Error sending produce request to node 1: [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms
+2025-03-25 15:26:52,669 - kafka.producer.record_accumulator - WARNING - Failed to produce messages to topic-partition TopicPartition(topic='transactions', partition=0) with base offset -1 log start offset None and error [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms.
+2025-03-25 15:26:52,671 - kafka.producer.sender - ERROR - Error sending produce request to node 1: [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms
+2025-03-25 15:26:52,672 - kafka.producer.record_accumulator - WARNING - Failed to produce messages to topic-partition TopicPartition(topic='transactions', partition=0) with base offset -1 log start offset None and error [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms.
+2025-03-25 15:26:52,674 - kafka.producer.sender - ERROR - Error sending produce request to node 1: [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms
+2025-03-25 15:26:52,675 - kafka.producer.record_accumulator - WARNING - Failed to produce messages to topic-partition TopicPartition(topic='transactions', partition=0) with base offset -1 log start offset None and error [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms.
+2025-03-25 15:26:52,752 - kafka.producer.sender - ERROR - Error sending produce request to node 1: [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms
+2025-03-25 15:26:52,753 - kafka.producer.record_accumulator - WARNING - Failed to produce messages to topic-partition TopicPartition(topic='transactions', partition=0) with base offset -1 log start offset None and error [Error 7] RequestTimedOutError: Request timed out after 30000.0 ms.
+2025-03-25 15:26:52,757 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-03-25 15:26:52,760 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9092 <checking_api_versions_send> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2025-03-25 15:27:01,956 - TransactionGenerator - INFO - Generated 200 transactions (8 fraudulent - 4.00%), Rate: 4.85 TPS
+2025-03-25 15:27:22,074 - TransactionGenerator - INFO - Generated 300 transactions (11 fraudulent - 3.67%), Rate: 4.89 TPS
+2025-03-25 15:27:42,212 - TransactionGenerator - INFO - Generated 400 transactions (12 fraudulent - 3.00%), Rate: 4.91 TPS
+2025-03-25 15:28:02,339 - TransactionGenerator - INFO - Generated 500 transactions (13 fraudulent - 2.60%), Rate: 4.92 TPS
+2025-03-25 15:28:22,544 - TransactionGenerator - INFO - Generated 600 transactions (13 fraudulent - 2.17%), Rate: 4.92 TPS
+2025-03-25 15:28:42,730 - TransactionGenerator - INFO - Generated 700 transactions (15 fraudulent - 2.14%), Rate: 4.93 TPS
+2025-03-25 15:29:02,908 - TransactionGenerator - INFO - Generated 800 transactions (16 fraudulent - 2.00%), Rate: 4.93 TPS
+2025-03-25 15:29:23,069 - TransactionGenerator - INFO - Generated 900 transactions (17 fraudulent - 1.89%), Rate: 4.93 TPS
+2025-03-25 15:29:43,286 - TransactionGenerator - INFO - Generated 1000 transactions (19 fraudulent - 1.90%), Rate: 4.94 TPS
+2025-03-25 15:30:03,405 - TransactionGenerator - INFO - Generated 1100 transactions (21 fraudulent - 1.91%), Rate: 4.94 TPS
+2025-03-25 15:30:23,613 - TransactionGenerator - INFO - Generated 1200 transactions (23 fraudulent - 1.92%), Rate: 4.94 TPS
+2025-03-25 15:30:43,977 - TransactionGenerator - INFO - Generated 1300 transactions (25 fraudulent - 1.92%), Rate: 4.94 TPS
+2025-03-25 15:31:04,362 - TransactionGenerator - INFO - Generated 1400 transactions (26 fraudulent - 1.86%), Rate: 4.94 TPS
+2025-03-25 15:31:24,623 - TransactionGenerator - INFO - Generated 1500 transactions (27 fraudulent - 1.80%), Rate: 4.94 TPS
+2025-03-25 15:31:44,939 - TransactionGenerator - INFO - Generated 1600 transactions (29 fraudulent - 1.81%), Rate: 4.93 TPS
+2025-03-25 15:32:05,208 - TransactionGenerator - INFO - Generated 1700 transactions (29 fraudulent - 1.71%), Rate: 4.93 TPS
+2025-03-25 15:32:25,484 - TransactionGenerator - INFO - Generated 1800 transactions (30 fraudulent - 1.67%), Rate: 4.93 TPS
+2025-03-25 15:32:45,666 - TransactionGenerator - INFO - Generated 1900 transactions (32 fraudulent - 1.68%), Rate: 4.94 TPS
+2025-03-25 15:33:05,806 - TransactionGenerator - INFO - Generated 2000 transactions (32 fraudulent - 1.60%), Rate: 4.94 TPS
+2025-03-25 15:33:25,919 - TransactionGenerator - INFO - Generated 2100 transactions (33 fraudulent - 1.57%), Rate: 4.94 TPS
+2025-03-25 15:33:46,035 - TransactionGenerator - INFO - Generated 2200 transactions (34 fraudulent - 1.55%), Rate: 4.94 TPS
+2025-03-25 15:34:06,222 - TransactionGenerator - INFO - Generated 2300 transactions (34 fraudulent - 1.48%), Rate: 4.94 TPS
+2025-03-25 15:34:26,398 - TransactionGenerator - INFO - Generated 2400 transactions (35 fraudulent - 1.46%), Rate: 4.94 TPS
+2025-03-25 15:34:46,516 - TransactionGenerator - INFO - Generated 2500 transactions (36 fraudulent - 1.44%), Rate: 4.94 TPS
+2025-03-25 15:35:06,648 - TransactionGenerator - INFO - Generated 2600 transactions (37 fraudulent - 1.42%), Rate: 4.94 TPS
+2025-03-25 15:35:26,768 - TransactionGenerator - INFO - Generated 2700 transactions (37 fraudulent - 1.37%), Rate: 4.94 TPS
+2025-03-25 15:35:46,890 - TransactionGenerator - INFO - Generated 2800 transactions (38 fraudulent - 1.36%), Rate: 4.95 TPS
+2025-03-25 15:36:07,010 - TransactionGenerator - INFO - Generated 2900 transactions (39 fraudulent - 1.34%), Rate: 4.95 TPS
+2025-03-25 15:36:27,146 - TransactionGenerator - INFO - Generated 3000 transactions (39 fraudulent - 1.30%), Rate: 4.95 TPS
+2025-03-25 15:36:47,266 - TransactionGenerator - INFO - Generated 3100 transactions (39 fraudulent - 1.26%), Rate: 4.95 TPS
+2025-03-25 15:37:07,381 - TransactionGenerator - INFO - Generated 3200 transactions (41 fraudulent - 1.28%), Rate: 4.95 TPS
+2025-03-25 15:37:27,518 - TransactionGenerator - INFO - Generated 3300 transactions (42 fraudulent - 1.27%), Rate: 4.95 TPS
+2025-03-25 15:37:47,671 - TransactionGenerator - INFO - Generated 3400 transactions (43 fraudulent - 1.26%), Rate: 4.95 TPS
+2025-03-25 15:38:07,800 - TransactionGenerator - INFO - Generated 3500 transactions (43 fraudulent - 1.23%), Rate: 4.95 TPS
+2025-03-25 15:38:28,095 - TransactionGenerator - INFO - Generated 3600 transactions (45 fraudulent - 1.25%), Rate: 4.95 TPS
+2025-03-25 15:38:48,534 - TransactionGenerator - INFO - Generated 3700 transactions (45 fraudulent - 1.22%), Rate: 4.95 TPS
+2025-03-25 15:39:08,819 - TransactionGenerator - INFO - Generated 3800 transactions (46 fraudulent - 1.21%), Rate: 4.95 TPS
+2025-03-25 15:39:29,384 - TransactionGenerator - INFO - Generated 3900 transactions (46 fraudulent - 1.18%), Rate: 4.94 TPS
+2025-03-25 15:39:50,090 - TransactionGenerator - INFO - Generated 4000 transactions (48 fraudulent - 1.20%), Rate: 4.94 TPS
+2025-03-25 15:40:10,255 - TransactionGenerator - INFO - Generated 4100 transactions (48 fraudulent - 1.17%), Rate: 4.94 TPS
+2025-03-25 15:40:30,436 - TransactionGenerator - INFO - Generated 4200 transactions (49 fraudulent - 1.17%), Rate: 4.94 TPS
+2025-03-25 15:40:50,709 - TransactionGenerator - INFO - Generated 4300 transactions (50 fraudulent - 1.16%), Rate: 4.94 TPS
+2025-03-25 15:40:52,219 - TransactionGenerator - INFO - Generator stopped by user
+2025-03-25 15:40:52,220 - kafka.producer.kafka - INFO - Closing the Kafka producer with 4294967.0 secs timeout.
+2025-03-25 15:40:52,222 - kafka.conn - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2025-03-25 15:40:52,248 - TransactionGenerator - INFO - Generator shutdown complete

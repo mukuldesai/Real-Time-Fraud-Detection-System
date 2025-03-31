@@ -1,0 +1,45 @@
+# Fraud Detection System Configuration
+
+# Kafka Configuration
+kafka:
+  bootstrap_servers: "localhost:9092"
+  group_id: "fraud-detection-group"
+  topics:
+    transactions: "transactions"
+    fraud_alerts: "fraud-alerts"
+    processed_transactions: "processed-transactions"
+
+# Database Configuration
+database:
+  type: "postgresql"
+  host: "localhost"
+  port: 5432
+  username: "postgres"
+  password: "abcd@1234"
+  database: "fraud_detection"
+
+# Model Configuration
+model:
+  path: "models"
+  default_model: "xgboost_fraud_model.joblib"
+  retrain_interval_days: 7
+  threshold: 0.75
+
+# Flink Configuration
+flink:
+  job_manager_url: "localhost:8081"
+  parallelism: 4
+  checkpoint_interval_ms: 60000
+
+# Fraud Detection Rules
+rules:
+  amount_threshold: 5000
+  velocity_threshold: 3  # Max transactions per minute
+  location_jump_check: true
+  unusual_time_check: true
+
+# API Configuration
+api:
+  host: "0.0.0.0"
+  port: 5000
+  debug: true

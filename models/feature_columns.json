@@ -1,0 +1,1 @@
+["amount", "amount_log", "hour", "day_of_week", "is_weekend", "card_present", "amount_mean", "amount_std", "amount_max", "transaction_count", "fraud_rate", "amount_diff_ratio", "country"]

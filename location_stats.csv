@@ -1,0 +1,4664 @@
+location,transaction_count,total_amount,fraud_count
+North Robertstad,1,1413.86,0
+North Danielberg,1,110.39,0
+Port Evanside,1,139.59,1
+North Maria,5,71.50,0
+South Edwardland,1,43.96,1
+Richardsberg,3,22644.11,2
+Port Scottview,1,2209.30,0
+East Dawn,1,71.75,0
+South Robertchester,2,988.94,0
+Lake Ericville,1,143.66,0
+Littleton,1,3140.47,0
+North Andrew,1,52.52,0
+North Levimouth,2,130.56,0
+Paulville,2,559.06,0
+Dominguezland,1,54.91,1
+West Margaretland,1,341.97,1
+Tommyborough,1,32.81,1
+East Derekfurt,4,1592.84,0
+Henryport,1,63.48,0
+Lake Robinhaven,1,38.60,1
+Brandimouth,1,1042.30,0
+East Antoniofurt,1,172.40,0
+Kingville,1,22.90,1
+South Taylor,3,1087.25,0
+New Allen,1,12.39,1
+Timothychester,1,6410.62,1
+East Jon,1,448.55,0
+Aprilport,1,364.21,0
+Andreaville,4,8220.58,1
+Jennifershire,2,2488.04,0
+New Taylorburgh,1,28.18,0
+Sparkschester,3,116.33,0
+Port John,12,20702.53,0
+New Jasonborough,1,1303.34,0
+Alishaberg,2,180.50,0
+Parsonsberg,1,375.21,0
+Gregoryfort,2,950.89,0
+East Brandymouth,2,583.78,0
+Lake Joseph,1,43.76,0
+Darrelltown,2,86.47,0
+North Mariaberg,1,87.68,0
+Tabithatown,3,52.27,1
+Lihaven,1,7400.78,1
+South Gregoryville,5,634.33,0
+North Carmenside,1,94.27,0
+Obrienville,1,1903.97,1
+East Ashleefort,1,89.29,0
+Bennettfort,1,1926.92,1
+Huynhmouth,1,95.83,0
+Ellisside,2,155.62,0
+Gonzalezberg,1,39.01,0
+Port Nathanview,1,288.69,0
+Michaelmouth,5,6526.24,0
+Carrbury,1,52.75,0
+New Maria,1,2121.53,0
+Karentown,1,73.96,0
+North Tracy,2,163.88,0
+North Russellborough,1,173.65,0
+South Carolyn,1,9.50,0
+Lake Cherylborough,1,97.87,1
+Jacobstad,3,618.92,0
+Lake Jenna,1,44.88,1
+Tinamouth,1,150.27,0
+Evansberg,3,1514.39,0
+New Meagan,1,65.42,0
+Kathrynborough,4,1552.26,0
+Port Shellyborough,1,78.59,0
+Josephland,1,2852.15,0
+Harrisfurt,1,2519.31,0
+Williamsfort,4,241.36,0
+Johnville,1,308.03,0
+Richardville,1,976.06,0
+Edwardsborough,1,70.60,1
+East Matthewside,4,1843.25,0
+Carlsonberg,2,814.63,0
+North Hunter,1,88.57,0
+North Teresa,1,57.91,1
+Lake Richard,2,93.71,0
+North Randy,1,403.22,0
+New Tiffany,1,35.65,0
+East Ricky,1,43.90,0
+Davidfurt,3,554.41,0
+Virginiaport,1,59.32,1
+North Carolynview,2,1442.30,0
+Sarafurt,1,2214.63,0
+Lake Brandonshire,3,583.06,0
+Port Robertton,1,421.41,1
+North Billy,2,3931.30,0
+Stuartchester,5,1768.23,0
+Gomezville,1,1070.18,0
+Hollowayside,3,5671.20,0
+South Mitchell,2,33.04,0
+Kellyfurt,2,425.77,0
+South Laura,3,1961.24,0
+South Rebecca,2,2187.90,0
+East Jamesfort,2,201.65,0
+New Angelaview,1,91.65,1
+Martinville,3,874.64,1
+New Steveborough,1,193.20,0
+West Jacobhaven,1,85.00,1
+East Gavinfurt,2,102.23,0
+Gomezbury,1,1578.36,1
+Stephanieberg,7,1587.06,0
+Lake Randy,1,133.83,0
+Mcgeechester,1,84.42,0
+Perezport,1,11.83,1
+Williamsonton,1,191.58,0
+South Heatherstad,3,1015.16,3
+New Andrew,1,102.30,1
+West Norma,1,208.38,0
+North Darrell,2,966.77,0
+Underwoodtown,5,31.94,0
+New Josephburgh,1,50.33,0
+Baileyside,1,2966.36,0
+Port Zoeville,1,426.48,0
+Lake Darin,1,263.82,0
+Stevenfurt,1,80.38,1
+Paulton,1,87.15,1
+South Stephen,2,1255.86,0
+Rachelport,1,79.18,1
+East Terriland,2,991.65,0
+Robinsonshire,1,393.30,0
+North Brendaside,1,79.03,0
+South Aaronfort,1,292.12,0
+Port Gailmouth,2,301.56,0
+East Dennis,1,268.86,0
+South Shelleyshire,1,50.23,0
+South Heidi,1,310.74,0
+Sarahton,1,95.79,1
+Lake Juliafurt,2,5510.68,0
+Debrastad,2,158.02,2
+Lake Erika,2,406.82,0
+Kingfurt,1,157.38,0
+West Ericmouth,2,394.39,0
+South Mario,1,3104.30,0
+Sandrashire,4,228.76,0
+Annaside,2,3255.31,0
+Stephenshire,3,467.07,0
+Lake Kimberlyville,6,796.41,0
+New Jeremy,2,117.06,0
+West William,2,628.04,0
+Port Cynthiafurt,1,1279.32,0
+New Davidshire,2,5000.09,2
+Hunterville,1,0.01,0
+New Heidishire,1,69.25,0
+West Matthewbury,1,47.03,1
+Laraburgh,3,620.25,0
+Lake Diana,2,743.61,0
+Luishaven,1,119.80,0
+East Jacob,1,727.59,0
+Kristafurt,6,12374.59,0
+Wendyhaven,1,238.86,0
+Sheilaside,2,5296.97,0
+South Kyleburgh,1,149.15,0
+West Sarah,3,2741.40,1
+New Alexandraberg,1,7914.38,1
+West Philliphaven,2,5477.09,0
+Jessetown,2,919.93,0
+New Kennethton,2,166.23,0
+North Audreyhaven,3,94.42,0
+Sheltonview,3,1249.92,3
+Penningtonburgh,4,36056.03,4
+New Williamchester,9,453.42,0
+Port Tiffany,3,585.45,1
+Williamsside,2,1384.99,1
+Christinechester,1,62.64,1
+Port Debra,4,226.77,0
+Fosterport,1,75.37,0
+New Christina,4,292.27,0
+Douglaston,1,88.97,0
+Thomashaven,3,173.19,0
+Lake Caitlin,2,3452.67,0
+Port Anthonyhaven,1,345.07,0
+Wendyland,1,233.01,0
+South Laurahaven,1,217.60,0
+South Alan,4,283.52,0
+Port Jeffchester,1,491.27,1
+Vegaton,1,187.77,0
+East Dianachester,1,487.14,0
+Williamsmouth,9,4955.97,0
+Florestown,3,145.12,0
+Moorefort,2,13904.66,2
+West Matthewfurt,7,598.88,0
+New Jenniferbury,3,1047.28,0
+North Bryanton,1,413.49,0
+Priceshire,6,140.53,0
+Dunnfurt,9,3253.30,0
+East Elizabethburgh,1,443.31,0
+Port Robertburgh,2,131.87,0
+Bryanfort,3,1328.25,0
+Lake Georgeville,2,1200.68,0
+Port Michaelshire,2,137.39,0
+"Carlostown, Nigeria",1,3119.59,1
+Osborneville,2,585.23,0
+Daltonport,1,72.02,0
+Bairdview,1,78.18,0
+South Janetberg,3,354.41,3
+Deborahtown,1,78.67,0
+Christianton,1,83.66,0
+Odonnellshire,1,451.45,0
+Rebeccatown,1,99.69,1
+Kellyfort,7,9990.55,0
+Lake Danielleport,1,1596.50,0
+New Rodney,1,346.47,1
+Hernandezton,3,5116.95,0
+Lake Katherineberg,2,198.10,0
+Port Edwinport,1,7667.43,1
+South Kristy,1,2938.74,0
+Tanyafurt,1,1589.84,0
+Brownbury,1,74.41,0
+New John,12,2222.85,1
+North Elizabeth,12,9257.92,1
+Wheelerbury,1,153.70,1
+North Aprilborough,1,90.51,0
+East Martha,1,3537.09,1
+West Cesarbury,1,1189.31,0
+East Robyn,1,789.83,0
+North Paul,1,0.01,0
+Joshuachester,4,3144.61,0
+Jackhaven,1,78.23,0
+East Johnfurt,1,207.82,0
+Gordonport,1,214.05,0
+New Kimberlyburgh,2,34.24,0
+Myerschester,2,2385.40,1
+Robertsmouth,6,1941.28,0
+Michaelbury,4,3141.69,0
+Danielborough,4,139.92,0
+Lake Barbara,1,245.28,0
+New Lori,2,2432.88,0
+Anthonyborough,1,2142.21,0
+East Adamland,1,197.40,0
+Lake Jasonshire,6,32504.05,3
+Rileyfort,4,3062.74,0
+Ortizview,1,1959.55,0
+Lopezchester,3,634.41,0
+East Rebecca,4,2622.29,0
+East Alexis,1,73.47,1
+Dianehaven,1,175.11,0
+New Ellenview,1,980.49,1
+West Joshuamouth,1,95.15,0
+Thomaston,1,41.94,0
+New Nicholasside,1,0.01,0
+Rebeccaburgh,2,768.09,0
+New Victoria,1,123.43,0
+South Ashleyfurt,1,432.24,0
+New Monica,4,378.34,0
+Ryanport,1,382.95,0
+Simmonsborough,2,997.66,0
+New Jefferyfort,1,257.49,1
+North Vickichester,1,7067.71,1
+Norrismouth,2,621.95,0
+Kristinaport,1,907.50,0
+New Andrea,2,1020.54,0
+Heatherfort,2,602.56,0
+Port Jason,5,3789.25,1
+Lake Alisonview,1,507.77,0
+New Melissaberg,1,6746.95,1
+Timothymouth,2,582.90,1
+West Tiffany,1,114.03,1
+Shermanville,3,259.40,0
+Sanchezview,1,148.84,0
+South Charlesside,3,289.89,0
+Coltonstad,1,245.60,0
+Austinbury,1,87.66,1
+Allisontown,3,551.13,0
+South Kyleton,1,101.49,0
+Jacksonfort,1,251.84,0
+Heatherfurt,3,182.22,0
+North Carolyn,4,882.81,0
+North Rachelhaven,4,1179.34,0
+North Rachel,2,397.42,0
+Robinsonside,2,490.95,0
+North Patrick,1,41.28,0
+New Amber,4,5128.24,0
+Port Christinechester,4,1925.97,0
+Christinaport,3,227.46,0
+Deanhaven,2,711.61,0
+North Jennyland,2,171.49,0
+South Larry,5,325.10,0
+Timothyton,3,65.88,0
+West Charlesmouth,1,223.64,0
+New Jorgeton,1,248.69,1
+North Hailey,1,121.32,0
+Downsville,3,1280.51,0
+East Kellyfurt,1,68.03,0
+Nobleport,2,2061.57,0
+Shaneshire,1,90.68,0
+Warnertown,1,0.01,0
+Morganport,3,920.07,0
+East Marcustown,4,1433.84,0
+Bentleytown,1,2440.85,0
+South Christopher,5,1571.99,0
+North Kristafort,3,1241.15,0
+Lake Susan,2,98.59,0
+Fieldsberg,4,620.39,0
+Lynchland,1,33.78,0
+South Annamouth,2,2653.72,2
+North Robertview,1,197.22,1
+Josephton,2,639.55,1
+Heidiborough,3,32.78,0
+East Kelly,1,92.45,0
+Port Hollychester,2,60.95,0
+Ryanside,1,2349.06,0
+Martinezbury,2,641.48,0
+South Vanessamouth,1,40.75,0
+Simsshire,1,84.33,0
+Mcculloughfurt,4,302.23,0
+Heathermouth,1,29.16,0
+Martinezhaven,1,71.73,0
+Brianview,1,365.79,0
+West Susanfurt,1,158.63,1
+Robertabury,1,226.40,0
+North Victorton,1,381.38,0
+East Manuelside,5,1496.10,0
+New Erintown,1,13.92,1
+East Kennethburgh,1,40.73,0
+Robinsonburgh,2,243.00,2
+North Heatherview,4,378.74,0
+Lake Michaelmouth,3,2076.08,0
+Barnettfort,1,140.28,1
+North Pamelachester,1,59.33,0
+Shannonstad,5,421.41,1
+Port Lindsey,4,330.68,0
+Klineton,1,90.16,0
+East Aimee,1,266.34,0
+Johnsonchester,3,159.91,0
+Gomezside,2,137.45,0
+South Paulbury,1,102.03,1
+East Jason,2,12862.58,2
+Staceyfurt,1,74.44,0
+Fletchermouth,2,360.57,0
+Shaunport,3,386.02,0
+Robertville,7,132.86,3
+Adamsland,1,410.04,0
+Port Janet,1,289.91,1
+Port Chelseaport,2,2072.58,0
+Dianaburgh,2,5421.24,0
+Port Sarahside,1,294.33,0
+Cynthiaton,4,287.97,0
+Armstrongtown,2,2981.82,0
+Kaitlynport,2,376.38,2
+Johnton,2,155.61,2
+Lake Annette,1,213.39,0
+West Stephanie,7,4277.38,0
+East Katrina,2,178.85,0
+East Sarahland,1,232.72,1
+Shelbyfort,1,71.24,1
+North Dominiqueborough,1,237.03,1
+Schwartzton,2,3472.33,0
+East Joshua,2,527.13,0
+South Rachel,3,2996.14,0
+Brownchester,1,3060.42,0
+Port Clayton,1,464.48,0
+Port Tara,1,0.01,1
+Port Adamview,1,241.25,1
+Michellestad,1,106.11,0
+Lake Richardbury,1,376.95,0
+New Mark,2,2334.95,1
+Lake Stevenfort,2,795.57,2
+Port Laurenchester,2,1132.48,0
+Hannahstad,1,452.40,0
+North Michaelview,3,1596.58,0
+West Pamelamouth,1,50.88,0
+Paulbury,1,80.40,0
+Contrerastown,1,2302.37,0
+West Josephstad,1,373.86,0
+Robertstad,1,313.06,1
+East Matthewton,1,386.85,0
+New Johnny,1,38.18,0
+East Katherine,3,201.76,0
+Nathanport,1,332.58,0
+South Karamouth,1,2584.77,0
+Leonville,1,74.04,0
+Pattersonshire,1,101.75,0
+Diazside,2,127.00,0
+Boothview,4,4228.27,0
+Farleyland,2,876.95,0
+Meadowsfort,1,14.12,1
+Mathischester,1,1937.07,0
+Port Kimberlyfurt,1,82.49,0
+Dalefurt,3,1229.34,0
+Smithland,5,11529.79,0
+Beverlyport,1,6492.79,1
+Destinyborough,6,2757.93,0
+Jonesville,1,320.75,0
+Changburgh,1,357.56,0
+Smithmouth,3,810.09,2
+Port Cameron,2,135.09,0
+North Elizabethhaven,2,2561.50,0
+South Kimberlyberg,3,1079.75,0
+Lake Erica,1,1629.81,0
+Mayston,1,1922.02,0
+New Molly,3,248.63,0
+Port Steven,6,738.90,2
+Roymouth,1,324.21,0
+Cordovaberg,2,453.17,0
+New Charles,1,364.28,0
+Pittmanmouth,1,3320.36,0
+Nealview,1,354.00,0
+North Annhaven,5,694.05,0
+Port Kristinaland,2,290.62,0
+Lake Johnburgh,1,397.14,0
+West Randyton,1,107.63,0
+East Vanessaview,3,5354.22,0
+Clineland,1,51.51,1
+Catherineton,4,579.34,0
+Larsonhaven,1,428.60,0
+Lake Eric,1,270.24,0
+North Angelaborough,1,65.55,0
+Kimberlyburgh,1,173.87,1
+Rebeccamouth,5,639.67,2
+Patrickport,1,389.44,0
+New Georgefurt,1,1929.31,0
+Rebeccaville,1,7992.66,1
+Lake Andrewland,1,49.46,0
+East Kristen,2,42685.76,1
+Murphystad,2,3005.04,0
+Hubertown,3,1135.24,0
+North Danielmouth,1,73.68,1
+Walkertown,2,801.23,0
+South Roger,2,76.48,0
+Nicholemouth,2,921.06,0
+Grahamside,3,5545.10,0
+Haroldton,2,78.17,0
+South Karenland,1,111.20,0
+Port Johnton,1,1269.87,0
+Angelaburgh,1,121.50,0
+Greenton,1,1915.12,0
+Kathrynshire,1,1942.56,0
+South April,1,58.40,0
+Francomouth,1,0.01,1
+Phillipsfurt,1,1134.52,1
+South Megan,4,2164.37,0
+Rogersshire,1,103.58,0
+Gloverchester,2,126.35,0
+Jasonchester,1,94.31,0
+West Josephhaven,1,46.62,0
+North Krystalfurt,2,49.87,0
+Richmondburgh,1,370.44,1
+South Williemouth,1,95.71,0
+Thomasmouth,1,171.61,0
+Davisbury,5,2058.53,0
+East Robertomouth,1,1513.93,0
+Moorestad,4,3384.47,0
+Maryberg,4,1160.92,1
+Garnerville,7,6200.09,0
+Walkerburgh,3,6383.78,0
+North Jon,1,50.10,0
+Wallacestad,1,107.27,1
+West Brianbury,1,60.19,0
+Beckermouth,1,48.47,0
+Benjaminfort,2,842.54,0
+Port Mark,3,3562.24,0
+East Jennifermouth,2,715.69,1
+West Johnfurt,5,243.08,0
+Ortizberg,1,152.33,0
+Thompsonshire,2,2234.66,0
+East Christine,2,13014.04,1
+Lake Cody,1,186.34,1
+South Amyport,2,5608.82,0
+East Jasonhaven,1,290.11,0
+Wilsonview,1,63.58,0
+Frankmouth,2,387.58,0
+New Amyside,2,44.19,0
+West Jill,1,640.05,1
+Lake Karen,3,2585.17,0
+Bowmanside,1,648.23,0
+Donnatown,1,222.51,0
+Bowershaven,1,103.07,0
+Darrenburgh,1,28.76,0
+South Danny,9,928.26,0
+Deniseside,1,64.17,1
+West Mallorymouth,1,711.51,0
+Gregoryhaven,1,0.01,0
+Tylermouth,1,2043.71,1
+Kevinborough,1,2290.44,0
+Aaronmouth,2,2880.61,0
+North Jeremiahview,6,9486.91,0
+West Christinestad,1,324.68,1
+Port Anthonymouth,2,259.99,0
+South Joseph,1,25.39,0
+Parkstad,5,638.91,0
+Mendozamouth,1,769.31,0
+Davisport,1,5934.57,1
+North Andrewchester,3,1362.47,0
+West Kevin,4,316.34,0
+West Thomasshire,3,261.03,0
+Josephhaven,2,3229.23,0
+Kimberlyview,1,373.07,1
+East Jeremyhaven,1,152.37,0
+New Alyssaberg,2,3115.46,0
+Tinashire,1,201.16,0
+Carlfort,1,95.65,1
+Millstown,2,678.54,0
+Lake Bethstad,3,117.49,0
+East Lindaton,1,185.41,0
+Sarahview,1,2721.91,1
+South Kennethbury,2,1652.78,0
+West Madisonberg,1,61.35,1
+Baileyshire,1,5110.91,1
+Jacksonside,2,3025.39,0
+East Donaldstad,2,890.76,0
+Davidshire,1,75.28,1
+Parkhaven,1,2430.45,1
+Antoniotown,3,1207.83,0
+South Melissa,6,9875.19,3
+West Virginiaside,3,1041.55,3
+Sharpshire,1,65.63,0
+East Lorraine,3,5290.67,0
+Lake Jermaine,2,1011.05,0
+North Leroy,2,798.07,2
+New Catherineside,1,298.15,0
+Perezside,4,8126.07,3
+West Ryan,2,278.18,0
+New Michaelland,1,119.81,1
+Lake James,8,1715.80,2
+East Tina,1,9747.46,1
+Barnettberg,1,1618.61,0
+Jeffreyfurt,4,526.38,0
+East Tracy,1,1248.25,0
+West Hannahberg,1,257.91,0
+Gibbsville,2,180.56,0
+West Jesus,1,114.31,1
+Murphymouth,1,38.73,0
+Lake Donna,2,113.73,0
+West Kaitlyn,1,316.30,0
+New Nicolefurt,1,209.50,0
+East Dale,1,47.00,0
+Carrieshire,3,178.46,0
+Hamptonburgh,1,584.24,0
+Ortizstad,1,136.32,1
+Marthamouth,6,2784.72,0
+East Julialand,1,147.83,1
+New Josehaven,2,44.43,0
+North Samanthaview,1,85.94,0
+South Jillville,2,426.82,0
+South Andrew,3,322.61,0
+Stefaniefurt,1,404.20,0
+North Timothy,1,146.13,0
+East Sheena,8,6776.09,0
+Longbury,1,3203.63,0
+South Toniburgh,1,476.06,0
+Curtishaven,3,7375.42,0
+Harrischester,1,343.66,0
+East Davidstad,1,2549.74,0
+Carterport,3,219.67,0
+Ricardoberg,1,268.05,0
+Kylefort,1,225.13,0
+South Juan,1,109.22,0
+Pricemouth,1,56.71,0
+East Jasonport,2,133.11,0
+West Keithchester,1,81.27,1
+North Wendyfort,1,22.99,0
+East Nataliehaven,2,155.92,1
+Kristaport,2,21720.85,2
+Carlsonhaven,2,718.46,0
+Haneyview,1,291.32,0
+Woodfurt,3,22130.10,3
+Pattersonfurt,1,75.65,1
+Choiburgh,1,495.11,0
+West Matthew,3,465.57,1
+Port Juliaview,1,289.11,1
+South Katherine,1,217.47,0
+Lake Mckenzie,1,142.76,1
+South Angela,2,347.09,0
+Lake Glenda,5,4175.49,0
+Lake Corey,3,2768.40,0
+Claytown,1,356.80,0
+Miguelburgh,3,143.22,0
+Lawrencefort,2,163.95,0
+New Brianfort,2,448.27,0
+North Henry,1,386.63,1
+South Adamfort,3,71.34,0
+New Reneefort,1,80.28,0
+Lake Lisastad,1,83.34,0
+North Adamborough,1,192.49,1
+North Madisonburgh,1,278.46,0
+Andrewstown,2,317.27,0
+Owensfort,3,29.84,0
+New Caitlyn,1,19.07,1
+Campbellchester,2,315.38,1
+Prattville,1,123.02,0
+Holmesfurt,4,1423.79,0
+Lake Jared,2,5306.34,0
+Port Sierra,1,260.36,1
+Thomasborough,2,568.39,1
+West Angelachester,4,710.66,0
+Robertton,10,1626.32,1
+Williambury,1,90.78,0
+Dixonshire,1,317.57,1
+North Kelsey,1,239.84,0
+West Hectorport,1,1689.30,0
+Lake Heidi,1,57.42,0
+East Kenneth,3,699.40,0
+Jeffreymouth,2,1074.69,0
+New Kimberlyfort,2,14054.99,2
+West Kellyberg,1,2479.58,1
+Markmouth,2,9335.89,1
+South Kristinbury,2,82.81,1
+East Edgarton,1,489.85,1
+New Jessicaburgh,1,162.99,0
+Scottview,3,140.05,0
+Georgeville,4,617.05,0
+Maryfort,1,289.71,0
+Adamtown,3,241.26,3
+West Brandyfurt,1,249.75,0
+Lake Kim,1,33.97,0
+Marktown,1,253.88,1
+North Misty,4,1404.82,0
+Port Michelleside,2,46.17,0
+Rodriguezport,1,287.27,0
+Lake Chelseaview,1,121.61,0
+Jenniferbury,1,1899.56,0
+Joshuaberg,2,370.66,0
+Janetton,2,48.15,0
+North Jessica,5,407.03,0
+Reynoldsshire,1,30.55,0
+Banksmouth,1,282.70,0
+Andresview,3,713.57,0
+Frazierton,1,112.60,0
+Connerhaven,2,5328.85,0
+Port Davidborough,1,1338.73,0
+Rebeccastad,4,547.14,0
+East Williamshire,1,13.96,0
+Whiteton,1,369.65,0
+Lake Jenniferchester,3,177.59,0
+New Stephaniemouth,3,1131.60,0
+South Alyssa,1,53.26,0
+Lake Patriciabury,1,1648.74,0
+Josehaven,3,141.81,0
+East Patriciachester,1,259.22,1
+Cameronville,1,228.68,0
+Debbieborough,5,681.29,5
+North Rachelborough,2,634.72,0
+Port Wendybury,2,3188.70,0
+Geraldborough,6,1428.78,0
+Stacyville,9,810.80,0
+South Jennifertown,3,978.50,0
+New Joseph,4,5021.04,0
+North Matthewmouth,1,114.40,0
+Port Lisafort,1,1469.17,0
+Larryshire,1,1592.82,0
+North Brianna,3,265.62,0
+East Masonstad,1,91.81,1
+New Charleschester,5,2102.73,0
+Nathanielbury,1,277.48,0
+Kevinhaven,1,1509.03,0
+Toddmouth,1,318.18,0
+Kelleyville,5,9419.71,0
+New Christinechester,6,486.05,0
+Jessicachester,1,254.54,1
+Hendersonton,1,47.97,0
+Lake Jessicafort,2,944.62,0
+Ariasfurt,1,221.21,0
+Robertberg,6,12071.98,0
+East Sallyborough,2,65.08,0
+Ambershire,3,77.39,0
+North Keithshire,1,0.01,0
+Lake Anthony,1,2019.07,0
+Lindaview,2,198.10,0
+Katherineland,3,450.78,0
+New Connie,1,93.61,0
+North Joseph,2,465.39,0
+Port Jeffreystad,1,264.72,0
+West Audrey,1,36.48,0
+New Jaclyn,1,63.29,0
+Moorefurt,1,2345.59,0
+Rhondamouth,1,51.53,0
+"North Erinburgh, China",1,3644.36,1
+Terrimouth,1,92.00,0
+North Frankside,1,279.83,1
+Crosbystad,1,296.52,0
+West Claireshire,1,202.00,1
+Brianland,5,1210.75,0
+Pamelastad,2,969.72,0
+Lake Brianmouth,2,316.81,0
+North Donaldchester,1,3791.22,0
+Alexandraville,3,175.74,0
+Arellanoland,1,40.91,1
+North Brianaside,1,89.29,0
+West Jessicahaven,1,0.01,0
+Brooksview,2,827.90,0
+Rachelburgh,3,200.14,0
+Lake Natalie,1,314.30,1
+Joshuaside,4,285.13,0
+Tinastad,1,67.32,0
+Petersonstad,3,702.49,0
+Rachaelmouth,1,71.58,1
+Port Chris,1,3006.29,1
+New Aaron,2,3324.16,0
+New Darlenemouth,11,3083.19,0
+Lake Katelyn,1,196.31,0
+Port Kevinberg,3,152.32,0
+Angieborough,3,451.22,0
+North Catherinefurt,1,114.81,0
+Lake Darrenmouth,1,191.48,0
+New Sarahtown,1,201.58,0
+Rossmouth,1,60.74,0
+Cookhaven,3,8067.47,0
+Hurstport,2,686.64,0
+Josephchester,1,367.03,0
+North Seanview,2,10724.24,2
+Jordanburgh,3,5681.16,0
+Lake Bryan,2,1607.01,1
+Harrisonberg,1,64.92,0
+Sullivanburgh,1,145.07,0
+Lake Richardfurt,1,87.94,0
+East Troymouth,5,6122.68,0
+Port Connieton,2,3308.19,0
+Bondberg,1,86.76,0
+New Kevinhaven,1,71.08,0
+Walkerland,1,183.01,0
+Lake Frankhaven,1,1900.29,0
+Cunninghamview,2,864.82,0
+North Mario,2,815.12,0
+Lake Dominiqueton,1,18980.89,1
+South Donaldland,1,356.69,0
+Lake Timothyborough,3,385.68,0
+Brittanyhaven,3,520.22,0
+New Staceytown,2,134.17,2
+North Chad,2,96.30,0
+Christopherside,1,59.88,0
+Anthonyton,2,537.83,0
+Pinedaport,1,108.66,0
+East Michaelbury,2,633.53,0
+New Shelbyberg,4,1018.15,0
+Brownberg,7,1253.13,0
+Port Joshua,9,12920.17,1
+Jacksonton,2,478.15,0
+North Craig,6,2877.07,0
+Swansonmouth,1,44.07,0
+Chunghaven,3,82.16,0
+Lake Amy,1,96.27,0
+Meganview,1,2609.42,0
+Johnstonburgh,1,71.35,0
+Ramirezhaven,3,768.13,0
+Lynchbury,1,17.00,0
+Lake Jonview,2,184.93,0
+North Jonathan,6,1216.87,0
+Garnermouth,1,215.87,1
+Danielside,2,4561.26,1
+Lake Jill,2,963.94,0
+Port Alexandraside,1,804.25,0
+Madisonshire,2,932.48,0
+Morrisport,2,4806.72,0
+Millerburgh,1,343.73,0
+Edwardhaven,1,353.83,0
+New Kimberlyfurt,1,10.50,0
+North Amandamouth,1,26.17,0
+Stewartview,10,877.64,0
+Lopezfort,3,181.43,0
+Baileymouth,1,312.31,0
+Port Christopherfurt,1,73.72,1
+South Jamesmouth,2,227.76,1
+South Allison,1,269.22,0
+Port Andrewport,2,132.26,0
+Stevenhaven,2,6654.29,0
+Robinsonfort,1,182.75,0
+Lake Larry,1,199.21,1
+Port Williammouth,1,42.48,0
+Port Nicole,1,2688.44,0
+Lake Paul,1,2687.25,0
+Hoodside,4,837.66,0
+East Johnmouth,1,230.14,1
+Robersonton,2,426.23,0
+New Sherry,1,402.22,0
+Leeview,2,888.05,2
+Lake Justinborough,1,361.07,0
+Vickieborough,2,134.48,0
+Davidchester,5,3401.17,0
+Deniseburgh,1,47.04,0
+Port Danielland,2,544.63,0
+East Lukeview,5,321.99,0
+Joshuafurt,1,9.76,0
+Jasonview,1,344.90,0
+Calvinton,1,361.79,0
+North Douglas,2,63.66,1
+West Parkerport,3,123.71,3
+Lake Debbie,1,0.01,0
+New Sara,3,7962.89,0
+South Dennis,1,721.22,0
+New Joshua,1,2789.07,0
+South Kent,2,671.75,0
+East Edward,1,357.72,0
+West Briana,1,403.95,0
+Theodoreburgh,1,79.78,0
+East Hunterburgh,2,584.04,0
+Lake Joelshire,1,2501.52,1
+Hoffmanchester,1,607.21,1
+Port Jeremymouth,2,646.26,0
+Coxport,1,91.18,0
+Jamesbury,3,618.22,0
+Schroederfurt,2,675.41,0
+Conwaychester,1,61.91,0
+Lake Anne,1,220.77,1
+Spearshaven,2,137.23,0
+East Jennifer,18,15855.64,1
+Dunnmouth,1,285.65,1
+New Brian,1,244.56,0
+Garyburgh,1,304.54,1
+Lake Stacyfurt,2,175.76,0
+North Dylanburgh,1,11.20,0
+Lake Karenborough,1,284.75,1
+South Cynthiaborough,1,33.70,0
+North Bethfort,1,3022.76,1
+Sabrinafurt,1,1277.49,0
+South Robert,3,367.88,0
+South Nancybury,2,48.18,0
+North Arthurmouth,1,1056.78,0
+South Janice,1,94.54,0
+West Mariamouth,1,4156.66,0
+North Melody,1,1719.24,0
+Smithchester,4,878.16,2
+Lake Tinaville,1,775.61,0
+Port Jerryland,2,3743.26,0
+North Karen,1,321.18,1
+South Heatherburgh,1,2059.54,1
+Lake Nicholas,2,202.51,0
+Ibarrashire,1,87.18,0
+Chadbury,5,11833.05,1
+Stuartville,1,1849.96,0
+Branchbury,1,16.57,0
+Lake Tracey,1,26.34,0
+Darlenehaven,3,1162.89,0
+Guzmanchester,1,226.74,0
+West Joseph,3,4901.40,0
+Mikefurt,3,960.27,0
+East Shelby,3,721.25,0
+West Monicaview,1,486.62,0
+New Tina,3,551.05,0
+South Ryan,1,6.60,0
+North Stephanie,6,825.48,1
+Charlesshire,1,107.23,0
+Starkmouth,1,1379.25,0
+East Jessica,1,391.34,1
+Amychester,3,594.57,0
+Port Christopherfort,1,81.52,1
+Gonzalezland,4,2319.31,0
+West Williamport,2,368.12,0
+Burnsview,1,273.87,0
+South Johnport,2,615.40,0
+Sotomouth,1,1326.48,0
+Edwardberg,1,376.44,1
+East Vickiborough,4,4963.19,0
+Rodriguezland,2,591.66,0
+Lake Kenneth,4,262.05,0
+Leonardville,1,429.43,0
+Katieview,2,676.69,0
+Joshuaville,1,367.07,1
+Darrenmouth,4,426.92,0
+Schneiderview,2,575.31,0
+Lake Grace,2,601.99,0
+New Johnbury,5,398.46,0
+Port Clifford,1,5138.79,1
+Tiffanychester,1,5702.39,1
+Lake Alex,2,97.09,2
+Garzahaven,3,18388.13,2
+Mclaughlinhaven,2,1402.68,0
+New Sarah,3,5542.23,0
+New Eric,2,2992.06,0
+Vincentland,2,24.72,0
+Mccoyfurt,3,816.85,3
+Brendachester,1,90.63,0
+North Crystal,2,260.29,0
+Cassandrabury,1,2088.08,0
+Nicholasburgh,3,6397.40,0
+Jessicabury,1,9.87,0
+South Ericberg,2,355.85,0
+Daviston,1,59.26,0
+South Deborah,1,1295.66,1
+South Tammy,3,998.65,0
+East Allisonborough,2,5847.78,2
+Port Brianburgh,1,503.95,0
+Rioshaven,1,31.11,0
+Myersstad,2,160.27,0
+Wangport,2,430.68,0
+Moniquestad,6,11813.36,0
+Andersonmouth,11,1686.32,1
+West Jasminehaven,2,3458.93,0
+Courtneymouth,1,377.56,0
+Kaitlynfurt,4,7223.10,0
+Lake Madeline,3,1233.51,0
+Lake Tammy,4,8332.64,1
+Donland,1,203.23,0
+Victorialand,2,151.34,0
+South Caleb,1,321.55,0
+Hollowayborough,3,1242.95,0
+Kimberlybury,7,1553.76,2
+Port Brandonmouth,1,343.02,0
+North Davidmouth,1,48.28,0
+West David,4,425.65,0
+West Terri,2,560.50,0
+New Stevenchester,1,407.72,0
+Russellbury,4,23761.08,3
+Ianburgh,1,62.00,0
+Port Mollyborough,1,160.35,0
+North Ronald,2,520.40,0
+East Jack,1,2675.63,0
+South Hollyton,1,261.08,0
+East Karentown,3,335.89,0
+Wilsonborough,5,1271.91,0
+Aarontown,1,69.80,0
+East Latoya,1,71.19,0
+South Cassidytown,4,10227.61,0
+Hallshire,1,404.05,1
+Anthonychester,2,148.67,0
+Brianborough,1,177.36,0
+Williamsonville,2,163.26,0
+South Ralph,1,449.70,1
+Scotttown,4,204.56,0
+South Zacharymouth,3,1409.57,0
+South Edwin,2,921.02,0
+Karenview,4,556.18,0
+South Kristina,1,61.12,1
+Bakerfort,1,51.15,1
+Leonside,1,2197.51,0
+New Tylerburgh,1,5202.57,1
+South Patrick,2,5211.05,0
+Peterchester,1,37.48,0
+Port Michaelfort,1,2393.37,0
+Port Heathershire,1,2176.01,0
+Port Amberton,1,71.99,0
+South Antonioside,2,132.97,0
+Kathrynton,4,29949.77,4
+Lake Laura,1,294.29,1
+Newtonfort,2,289.34,0
+New Aliciaborough,1,46.53,0
+Port Tamara,2,877.96,0
+North Madisonborough,1,160.60,1
+Lake Carla,2,82.92,0
+South Christyside,3,117.06,0
+New Sarahton,2,365.09,0
+Wandamouth,2,780.25,0
+New Marthaborough,1,21.93,1
+Port Julian,3,1382.63,0
+Zunigamouth,1,241.96,0
+Sarahhaven,3,650.87,0
+Maryville,7,481.31,0
+New Kimberly,3,468.25,1
+Port Tina,2,488.56,1
+Peterborough,1,45.06,0
+Mariaton,1,478.45,0
+West Erinmouth,1,1754.44,0
+West Ericatown,1,216.31,0
+South Patricialand,1,353.88,0
+North Danielle,1,2139.76,0
+Sullivanland,1,209.30,1
+East David,4,1764.32,0
+Reeseberg,2,203.17,0
+South Kurtchester,1,1985.39,1
+Rosarioton,1,292.42,1
+Ryanfurt,1,91.61,1
+South Lindsayland,1,419.02,0
+South Nathan,1,417.92,0
+Fosterfort,2,155.44,0
+Lauraville,1,7536.79,1
+Tatefurt,1,90.46,0
+North Amyland,1,18.79,0
+East Kristy,2,561.68,0
+Pooleborough,2,542.06,2
+Lake Erichaven,1,4724.77,0
+Strongfurt,4,171.79,1
+North Gregburgh,2,3431.49,0
+New Williamstad,1,21.53,0
+Letown,1,830.42,0
+East Crystalchester,3,231.36,0
+North Matthewstad,1,108.46,0
+Lake Debbiefurt,1,76.67,1
+West Robert,11,6702.98,0
+Melindaborough,1,73.70,0
+Chloeland,3,136.82,0
+Lake Andrewstad,7,9535.08,0
+West Melissa,1,1281.31,0
+Diazberg,2,456.85,2
+Dwayneview,1,520.23,0
+East Joseph,1,248.68,0
+Sydneystad,1,85.30,0
+Glovermouth,6,644.14,0
+North Megan,2,265.06,1
+Whitemouth,2,4721.91,0
+North Ashley,2,2238.93,0
+North Natalietown,1,55.09,0
+Josephberg,1,78.99,0
+North Tylershire,1,78.85,0
+New Christophertown,4,439.20,0
+Lake Nancy,6,1124.55,0
+Morganstad,2,3796.96,0
+Alexandriaside,1,364.37,0
+Port Traci,1,417.24,1
+North Williamchester,1,204.27,0
+Lewisland,1,255.75,0
+South Amberport,1,39.49,0
+Johnsonhaven,2,1343.72,0
+"Shorthaven, Brazil",1,419.87,1
+Lisastad,2,75.03,0
+Robertburgh,3,892.53,0
+Williamsonmouth,6,1493.65,0
+Greenport,1,40.20,0
+East Mistyfurt,1,241.44,1
+Deannaville,1,0.01,1
+East Anntown,1,203.01,1
+East Chadmouth,1,332.28,0
+South Chris,1,87.05,0
+New Monique,1,56.41,0
+Port Cassidy,2,89.81,0
+Lake Douglasberg,3,30.63,0
+Mitchelltown,1,301.24,1
+Schmidtberg,4,4441.17,0
+Brownhaven,1,3059.17,0
+Hillshire,4,1584.68,0
+Oliviashire,2,109.50,2
+Kellyville,1,39.64,0
+North Tylerberg,1,216.25,1
+Claireside,1,59.15,1
+Jacksonberg,1,307.82,0
+Justinfurt,5,350.83,0
+Port Lauren,1,2317.01,0
+Jacquelineborough,2,166.37,0
+South Megantown,2,561.33,0
+New Victoriabury,1,49.19,0
+Dennistown,1,78.35,0
+Tiffanyport,3,3139.79,0
+New Michelle,5,1497.69,0
+Jonesfort,3,183.76,0
+South Brent,1,114.15,0
+Lake Bryantown,1,274.32,0
+North Destiny,2,60.19,0
+Amandaport,2,691.70,1
+South Georgeshire,1,5808.27,1
+Port Johnport,2,608.98,0
+New Danaton,2,129.75,0
+Andersonburgh,1,330.50,1
+South Lorrainefurt,1,60.20,0
+New Anthony,1,93.66,0
+Hannahport,1,0.01,1
+West Alanville,2,212.20,0
+Ericashire,1,389.99,1
+Joshuashire,1,35.62,0
+South Taraside,1,20.62,0
+Ethanfort,1,197.32,0
+North Sheila,2,66.03,0
+North Austinchester,1,1326.51,0
+Lawrencechester,3,1188.86,0
+Jasonport,2,873.23,0
+Port Ginatown,2,184.04,2
+West Miguel,4,6488.49,0
+Lake Robert,6,392.54,2
+Paulchester,4,294.16,0
+Loritown,1,439.96,0
+Michelleburgh,2,14811.16,2
+Sandraburgh,1,1387.49,0
+Garciaburgh,1,115.08,0
+Richardview,3,138.25,1
+South Alice,5,475.17,0
+Mitchellborough,1,2528.63,0
+Dixonbury,2,168.67,0
+West Jessica,8,562.55,1
+Hensonville,1,113.58,0
+Jessicahaven,2,619.63,0
+Shahchester,1,42.28,0
+Lisabury,1,1896.98,1
+Murphyville,1,1456.86,0
+Lake Kristina,1,84.17,0
+Strongburgh,1,1542.67,1
+Floydville,1,76.54,1
+Lake Wanda,1,50.34,0
+Pinedamouth,1,68.98,0
+Lake Tina,4,3273.10,0
+Port Sarahchester,1,382.17,0
+South Jennifer,1,62.14,0
+New Stevenmouth,1,73.43,0
+Lake Cory,2,34.47,0
+East Amychester,2,597.60,2
+Sarachester,2,177.76,0
+Lake Brian,2,517.66,1
+East Bradley,1,47.45,0
+New Stephanie,1,73.42,0
+Jesseland,1,18.44,1
+West Marilyn,1,994.14,0
+Vincentborough,1,62.30,0
+New Terryton,5,2583.22,0
+South Wesleybury,1,169.97,0
+East Brendabury,2,183.20,0
+West Christina,2,912.70,0
+Matthewstown,4,292.79,4
+Greenefort,1,372.01,1
+Salinasmouth,1,41.50,0
+New Stacey,1,189.29,0
+Port Ruben,2,559.19,0
+North Jason,2,237.91,1
+Ericview,2,1713.61,0
+Port Kristenfort,1,436.87,1
+North Darrelltown,1,26.26,0
+Vanceborough,1,48.93,0
+Glassland,1,1592.92,0
+Frankbury,1,332.41,0
+New Sheilaside,3,185.35,0
+Lake Travisborough,2,878.76,0
+New Dakotaburgh,1,234.05,1
+New Ivanfort,1,421.53,0
+Colleenborough,1,2127.13,0
+West Kathryn,3,965.08,0
+West Tammy,1,98.16,0
+Kevinfurt,1,98.85,0
+Markland,2,665.74,0
+Port Brianport,1,29.83,0
+Marybury,5,1875.43,0
+Victorland,1,69.58,0
+Marquezchester,1,258.60,0
+Amyfort,1,320.28,0
+Rowlandton,1,2055.22,0
+South Donald,2,127.38,0
+Dianastad,1,1145.75,0
+Port Amandafurt,1,213.40,0
+Clinefort,1,61.56,0
+Lake Briannastad,1,471.16,1
+Reedfurt,1,24.26,0
+Port Melanie,1,409.60,0
+Jacobshaven,1,12.16,1
+New Janiceville,1,1171.89,1
+Danielshire,2,544.26,2
+Barbaraview,1,5247.18,1
+Christopherhaven,3,7129.22,2
+New Karlton,1,54.23,0
+Riverafort,2,145.08,0
+Bartonfort,1,205.43,0
+Lisaberg,1,11250.24,1
+Lake Erinville,3,966.65,0
+Elizabethview,1,8195.64,1
+Eileenshire,2,235.63,0
+Port Loriville,1,2584.87,0
+Kellychester,1,426.04,0
+West Joshuatown,3,301.62,0
+South Danielfort,1,217.17,0
+Port Juanchester,1,249.12,0
+Port Brucemouth,1,424.73,0
+East Michelleview,2,1601.37,1
+North Christiantown,1,1892.68,0
+West Mary,3,301.34,0
+Port Haydenview,1,183.04,0
+Albertberg,1,60.31,0
+Conradland,1,87.32,0
+Kaylaport,6,13092.63,1
+South Janeview,7,560.89,0
+West Lanceborough,4,1539.66,0
+Mathewview,1,1329.52,0
+North Elizabethtown,1,129.69,1
+Kimborough,2,146.98,0
+North Christopherhaven,1,495.35,0
+Ortizville,1,65.06,0
+Patricktown,1,237.42,1
+Adamport,2,151.17,1
+Reynoldstown,1,122.14,1
+Newtonbury,3,1121.08,0
+Port Edgarstad,1,0.01,0
+West Shawn,1,1875.05,0
+Wintershaven,3,1079.95,0
+South Cynthiafurt,1,68.83,0
+Hartstad,3,36.65,0
+Walkerhaven,2,427.94,0
+Jasmineburgh,1,2045.89,0
+Leeberg,2,914.02,2
+Port Anita,1,10.12,0
+New Reginaton,2,160.10,0
+Carsonburgh,1,261.45,0
+Port Nicholastown,1,398.49,1
+Franciscochester,2,772.67,2
+Stephenside,1,415.80,1
+Jasonstad,1,2658.69,1
+South Stevenmouth,1,40.50,0
+Allenport,9,527.15,0
+Lake Michellehaven,1,86.22,1
+New Shanestad,1,300.69,0
+Millerview,2,227.12,0
+Lake Amyfort,1,54.71,0
+Lake Allisonberg,1,1233.32,0
+East Jessicaview,1,17.27,1
+Alexside,1,224.00,0
+Port Meghan,3,334.54,0
+Port Andrew,3,10541.24,2
+Hudsonhaven,1,4568.91,0
+Jamesfurt,5,4157.62,0
+South Rose,1,3470.78,0
+East Brittanyborough,1,12.76,1
+New Kathleenview,1,689.38,0
+Simpsonborough,1,61.40,0
+Christopherburgh,2,81.90,0
+Jeannebury,1,258.97,1
+Calderonborough,3,1242.00,3
+Baileyland,1,354.74,0
+South Mary,4,26818.47,3
+Donnafurt,3,186.30,0
+New Erin,1,351.25,1
+Garzaberg,2,985.28,0
+East Sydney,1,2785.43,0
+Alisonborough,1,401.74,1
+North Sydneychester,1,187.16,0
+Austinport,3,979.17,0
+Lake Wendy,2,1312.89,0
+Lake Robertfurt,2,63.98,0
+West Heatherfort,1,82.64,0
+Georgemouth,2,1729.79,1
+New Clairefort,1,116.43,0
+East Ginatown,2,7445.59,0
+Morrisbury,1,39.48,0
+New Nicoleton,2,4829.17,2
+Barreraville,4,1818.33,0
+Lake Michelle,3,917.12,1
+Elizabethtown,3,1890.28,1
+North Jasonburgh,1,97.16,0
+Tinaville,1,194.56,0
+West Ryanchester,1,413.55,1
+South Chelseachester,5,581.12,0
+Michaelland,2,46.13,0
+Port Shawn,7,4477.55,0
+New Jenniferport,2,187.16,0
+Ortizmouth,1,348.83,1
+Kleinfort,1,187.06,1
+South Cindyberg,1,123.27,0
+Meganmouth,9,637.32,0
+East Brandonton,1,2171.97,0
+South Claudia,1,201.98,0
+North Monicaborough,1,211.25,0
+Penningtonton,2,730.61,0
+North Jacob,5,870.83,0
+Angelaville,1,19.25,0
+Port Karenport,1,2052.67,0
+East Elizabethview,1,333.42,0
+Natalieland,1,156.17,1
+Port Hollyville,2,125.59,0
+East Lisastad,1,130.71,1
+Patrickbury,1,2124.70,0
+West Austintown,1,195.52,0
+Lake Bridget,2,160.45,0
+Lake Juan,4,295.74,0
+Davisshire,5,2437.25,0
+New Nicoleport,2,12330.26,2
+Alisonbury,1,51.26,0
+Goodmanview,2,414.27,0
+Madelinestad,1,64.62,0
+Hickmanhaven,1,540.03,0
+Carlsonmouth,1,291.31,0
+Juliemouth,1,173.82,0
+Woodsmouth,1,77.38,0
+Gainesbury,1,174.12,0
+Port Eric,1,28.97,0
+East Karen,4,709.67,1
+Lake Lauren,1,368.35,0
+Petersmouth,2,123.64,0
+South Nicole,6,2711.26,0
+Port Craigview,1,263.87,0
+South Debra,2,150.91,0
+New Monicaview,1,1177.24,0
+Port Philip,1,523.21,0
+Lake Emily,3,347.09,0
+Peterbury,1,64.60,0
+North Julia,2,40.53,0
+South Derek,3,2758.45,1
+East Traceytown,1,1950.43,0
+New Dawnfort,1,323.94,0
+Raystad,1,115.59,1
+Huntmouth,1,463.21,0
+Rodrigueztown,3,1019.18,0
+Kendrabury,2,490.22,1
+Scottside,1,372.96,0
+Debbieville,1,480.63,0
+West Deborah,2,50.97,0
+East Lindsey,1,106.66,0
+East Tammy,4,4131.15,0
+Flemingmouth,1,271.11,0
+Jakeside,1,982.39,0
+Romerotown,1,86.82,0
+Waltershaven,1,524.13,1
+East Lauraberg,1,84.15,0
+Amystad,3,181.40,0
+South Garyland,2,963.51,0
+West Eric,4,857.10,0
+West Mason,1,362.60,1
+North Anneburgh,4,634.00,0
+Villafort,1,579.27,0
+Port Dustinport,2,5253.61,0
+Tonyberg,1,10843.70,1
+Lewisbury,1,68.68,0
+Lake Kristinberg,4,544.52,0
+North James,7,871.80,2
+Brianfurt,2,5389.25,1
+Macdonaldborough,1,44.50,0
+Port Ashleyside,1,186.19,0
+Amandahaven,3,162.38,0
+Port Breannatown,2,953.04,2
+Ashleymouth,2,83.93,0
+Youngfurt,1,327.50,0
+Jamesstad,1,397.36,0
+Andreaburgh,3,1506.31,0
+East Wesley,1,85.20,0
+Heatherside,2,749.91,0
+New Kathychester,1,54.36,1
+Smithberg,7,4947.97,0
+South Josephberg,2,1997.18,0
+Danielsbury,1,338.55,0
+North Diana,1,96.66,0
+Veronicaville,1,93.69,0
+Hernandezville,1,394.15,1
+Nicholashaven,1,193.26,0
+Williamschester,3,394.39,0
+Lake Timothyfort,1,23.59,0
+Bradyview,4,6894.92,0
+Cabreraland,1,408.72,0
+North Katiemouth,1,482.36,1
+Lake Melanieside,1,315.13,0
+East Tanya,2,257.39,0
+South Kara,1,339.32,0
+East Jameschester,1,94.43,1
+Lake Colleen,1,491.41,1
+North Johnport,2,7546.64,1
+Deannafurt,3,164.25,0
+Kyleton,1,554.56,0
+Wheelerchester,4,173.20,0
+Lindsayburgh,1,148.95,0
+Jenniferstad,3,17325.17,2
+West Danielle,1,97.39,0
+West Charles,1,57.91,0
+East Edwardton,1,441.50,0
+Raymondton,1,382.16,1
+South Lawrenceburgh,1,48.60,0
+Tyroneport,3,394.75,0
+Ryanbury,6,5099.85,0
+Alvarezbury,2,517.21,2
+Williamshaven,4,1306.00,1
+Ochoashire,1,23.99,0
+Michaelport,7,948.36,0
+Harrishaven,6,2804.12,0
+Leebury,2,2900.17,0
+Crystalville,1,211.68,0
+North Christian,2,408.79,2
+Dennisburgh,2,902.54,0
+Kaylachester,2,7166.05,2
+Brittneyberg,3,9161.84,0
+South Sara,1,503.31,0
+Reyesborough,2,192.40,0
+Lake Taraview,2,1007.83,0
+New Lukeview,1,2640.34,0
+Perezberg,4,7784.96,0
+New Susan,3,355.10,0
+West Taylor,1,1770.95,0
+Lake Christinaville,5,9334.70,0
+New Monicaland,1,218.50,0
+Haneymouth,1,292.88,0
+Dominguezside,1,94.51,0
+Michealside,2,3648.91,0
+New Carla,1,259.89,0
+Lake Jason,4,593.86,0
+Rachaelchester,1,1347.39,1
+"Juliashire, Nigeria",1,176.35,1
+Walshville,1,99.11,1
+West Shane,1,442.97,0
+Cummingsland,1,218.69,1
+West Jeanfort,5,2511.13,0
+Hurleybury,1,64.18,1
+Annefort,1,445.47,0
+Dixonberg,3,925.87,2
+West Douglas,2,510.01,0
+Port Michaelstad,1,76.04,0
+Gordonhaven,3,8511.20,1
+Moorehaven,1,1788.82,1
+West Gabriela,2,17.61,0
+Lake Kimberlyborough,1,96.74,0
+East Waltermouth,3,435.69,0
+Lake Ann,1,1074.43,1
+New Logan,1,89.19,1
+East Steven,2,135.25,0
+Norristown,4,11230.20,1
+Jeffreyshire,1,2476.31,0
+Lake Kevin,2,442.97,0
+South Andrewshire,1,1714.35,0
+Garrettburgh,2,395.14,0
+North Nicholas,1,93.37,0
+Normanbury,4,2019.91,0
+Lake Amandabury,3,157.29,0
+Margaretview,2,93.26,2
+Sandovalfurt,1,92.50,0
+Catherinefurt,1,815.77,0
+Port Alyssa,1,64.94,0
+Port Denise,1,41.73,0
+Joycechester,1,1455.83,0
+New Robertberg,2,370.32,0
+Nicolasmouth,1,197.81,0
+New Kyle,4,1441.77,1
+Schmidthaven,2,715.70,0
+North Leon,1,6124.47,1
+Lake Ryanside,1,299.39,0
+Tuckerbury,3,548.02,0
+East Melissa,2,510.94,0
+South Audrey,1,55.02,0
+Patriciaville,1,150.58,0
+South Gary,1,2388.22,0
+Murphyhaven,1,1457.80,1
+Ryanhaven,1,132.20,0
+Clarkefort,1,400.00,0
+West Jefferyville,2,105.72,0
+East Juanfort,1,118.80,0
+Port Peter,2,268.53,0
+Port Julie,3,1028.30,1
+West Colleenfurt,1,2435.28,1
+Port Robert,4,652.50,1
+South Brandyfort,2,366.63,0
+New Dana,1,207.41,0
+New Samuel,2,94.23,0
+Atkinsonview,1,8.03,0
+Lauraborough,2,18.51,0
+Stephanieville,1,2755.46,0
+Kathleenland,1,63.67,0
+South Erinfort,1,98.16,1
+Port Jeffreyshire,1,5199.17,1
+Leeside,1,457.90,0
+Lake Scottview,1,2589.76,0
+Lopezberg,2,442.94,0
+West James,2,907.39,1
+West Tammymouth,1,49.73,0
+Lake Kristinebury,3,224.80,0
+Chelseachester,1,404.72,1
+West Paul,1,1558.42,0
+North Justinstad,2,127.19,0
+Perezville,1,404.18,0
+Avilamouth,6,174.47,0
+Johnbury,1,2768.55,1
+Watsonfurt,1,75.82,0
+New Michelleshire,2,70.45,0
+Jasonfurt,2,1966.77,1
+West Billyburgh,1,1171.27,0
+Port Robertview,1,485.77,0
+East Christinaton,1,2986.98,0
+Port Meaganchester,3,1045.53,0
+North Tracybury,2,653.57,0
+Port Thomas,1,195.33,0
+Carrfurt,1,42.37,0
+East Alexandriashire,1,23.79,1
+Fisherstad,2,970.41,0
+South Julieshire,1,7194.12,1
+Petershire,2,309.27,0
+Lake Dominique,3,955.88,0
+Lake Josemouth,1,314.71,0
+Jameston,1,240.52,0
+North Amberberg,2,552.88,0
+West Sandramouth,1,405.25,1
+Danielleberg,6,2843.14,0
+Lake Davidchester,1,772.58,1
+Nelsonfurt,8,459.72,0
+North Josephside,2,679.31,0
+Mitchellmouth,2,507.44,0
+Lake Davidberg,1,404.32,1
+Ryanstad,1,255.20,0
+Lake Laurieview,1,308.72,1
+Laurafort,1,379.55,1
+Lake Andrewberg,1,143.65,0
+Carterfurt,2,948.32,0
+North Vickiport,1,268.31,0
+South Meganbury,3,1061.34,0
+Andrewhaven,2,685.01,0
+Carolynland,1,70.31,0
+Millerstad,1,1925.14,0
+Cooperport,1,9609.37,1
+Toddville,3,801.84,0
+West Christine,1,76.41,0
+West Juliemouth,1,5904.04,1
+Port Nicolefort,2,5051.98,0
+South Gerald,2,2557.61,0
+Port Sandra,2,462.20,0
+Kathyport,2,2845.86,0
+New Matthewmouth,1,2378.96,0
+Travisberg,4,524.51,0
+South Brandon,1,115.76,1
+Lake Frankchester,1,216.47,0
+Lake Nathan,2,1358.68,0
+Sandraview,1,151.05,0
+Roblesberg,1,201.23,1
+Sanfordmouth,1,355.40,0
+Griffithshire,1,223.71,1
+East Brentmouth,3,599.38,0
+East Kylestad,2,1676.04,0
+Hicksshire,1,22.38,0
+North Jenniferbury,1,27.71,0
+East Kaylafort,4,597.00,0
+Jasonmouth,4,16022.90,2
+Natalieton,2,472.05,0
+Tonyshire,1,491.27,1
+Blakemouth,2,93.27,0
+West Karenshire,1,742.98,0
+Hoffmantown,1,522.00,0
+Barrville,1,5.51,0
+Rodriguezside,3,224.93,0
+Alexandriaton,2,903.03,0
+Kingshire,2,932.18,0
+Bartonberg,2,566.43,1
+West Christopher,6,34153.33,5
+Ortizbury,1,213.24,1
+West Bryanstad,2,118.13,0
+Jessicatown,1,6202.18,1
+South Davidville,9,2020.97,0
+New Josephberg,5,279.80,0
+Port Margaret,1,95.21,0
+Port Susanmouth,4,4164.60,0
+North Scottmouth,2,811.77,0
+Reyeschester,1,358.60,0
+Lake Keith,1,34.81,0
+Washingtonfurt,1,82.89,0
+South Carrie,2,119.54,2
+Mitchellport,1,241.01,0
+Crawfordshire,1,1735.19,0
+Marshallmouth,3,519.60,0
+Kaisertown,6,1203.33,0
+Port Brett,1,127.84,0
+North Cindy,1,408.35,0
+Moranview,2,8292.88,1
+West Tommyville,1,524.85,0
+Lake Kathleen,3,491.71,2
+North Leslie,1,342.24,0
+East Curtisport,2,3062.45,0
+East Ernest,2,2297.76,1
+Sanchezberg,3,189.91,0
+New Matthew,6,4393.65,0
+Lake Sarah,1,71.71,0
+Wolfville,5,34580.09,5
+West Kimberlyshire,1,8136.36,1
+Walterfurt,1,129.79,1
+South Jamesberg,1,68.44,0
+Kimview,1,66.72,0
+Port Emmaburgh,2,116.39,0
+Hansenborough,1,1812.61,0
+Walkerfurt,1,90.62,0
+Guerrachester,1,82.02,0
+Morrismouth,3,776.05,0
+West Michealside,1,6861.90,1
+Churchbury,2,101.48,0
+Port Wandatown,2,326.12,0
+Simsmouth,1,362.59,0
+Lake Jeremy,1,178.90,0
+Colemanburgh,2,5930.80,0
+Lake Craigborough,1,2606.32,0
+Port Kelseystad,4,193.38,0
+Port Craig,2,193.28,0
+New Marissa,2,953.30,2
+North Leestad,1,330.48,0
+East Miguel,1,9.45,0
+Shawmouth,1,429.93,0
+Floresville,3,727.18,0
+Michaelton,1,42.92,0
+Port Nicolemouth,1,657.08,0
+Richardmouth,6,800.87,0
+South Mariahaven,1,2165.67,0
+Port Davidfurt,1,25.34,0
+Port Danny,1,3575.47,1
+South Ashleyshire,2,116.30,1
+South Timothyview,1,1231.48,1
+South Ruthberg,1,7250.43,1
+Reedtown,6,1090.49,0
+Suzanneburgh,1,379.35,0
+Aaronview,1,1019.08,1
+Timothyhaven,2,4269.23,0
+Emilyfort,1,280.65,1
+Millsport,1,4195.59,0
+South Katherinebury,1,67.01,1
+East Colinchester,3,166.36,0
+South Nicholasmouth,2,87.57,0
+Port Davidville,1,1138.93,0
+West Johnland,4,1837.00,1
+Williamburgh,5,3325.98,0
+Hillview,3,6938.74,1
+South Charleshaven,2,646.01,0
+West Thomashaven,1,767.33,0
+Jacquelineberg,1,2983.46,0
+East Jonathon,6,2162.52,0
+North Christina,3,2270.51,0
+South Emilyfurt,2,164.29,0
+Lake Anitahaven,4,1283.12,0
+Frederickport,1,1766.48,0
+Beasleychester,4,72.19,0
+Mooreborough,1,1554.31,1
+North Cynthiaberg,1,38.56,0
+Garciaview,2,9565.83,1
+Curryview,1,1834.50,0
+Marcustown,3,200.35,0
+Wongmouth,1,128.89,0
+Port Adrian,1,24.38,0
+Port Gloriaborough,1,333.08,1
+North Christineberg,1,97.99,1
+West Christopherhaven,3,4572.38,0
+Trevorland,2,159.21,0
+Teresashire,1,76.92,0
+North Miguelland,1,222.62,0
+Wellsberg,4,1919.44,0
+Murilloborough,1,133.66,0
+Port Victoriaside,2,902.42,2
+Lake Melanie,1,72.28,0
+Patrickfort,2,116.46,0
+West Marie,1,814.74,0
+West Juan,1,551.14,0
+Williamsbury,3,389.06,0
+South Brian,3,3200.83,0
+East Christinaberg,1,1921.07,0
+New Jonathan,1,146.75,0
+North Michaelmouth,4,1553.11,0
+East Sarahmouth,1,464.04,1
+North Elizabethmouth,3,354.41,2
+East Andreamouth,3,269.99,0
+South Mirandamouth,1,359.31,0
+Port Alexandraburgh,1,55.74,0
+North Kimberlybury,3,1584.50,0
+Morganshire,1,25.78,0
+New Colleen,1,261.03,0
+Ortegachester,1,1965.40,0
+East Shawnshire,2,602.76,0
+Sharonland,2,614.66,0
+Michaeltown,1,93.51,0
+Francisbury,1,117.88,0
+North Brandonland,1,52.62,0
+New Sonia,1,157.39,0
+West Randall,1,88.40,0
+Victoriachester,2,520.62,0
+Meganbury,1,366.23,0
+Port Benjamin,3,4848.96,1
+West Debrahaven,1,430.93,0
+Christinamouth,3,1214.43,0
+Alexandermouth,1,2586.62,1
+Sawyermouth,1,307.15,0
+Emilyport,2,562.04,0
+New Jamesberg,2,4711.61,0
+Goldenberg,4,2396.03,0
+New Rebeccaland,1,4191.29,0
+Port Brenda,2,972.37,0
+South Mariatown,1,83.14,0
+Port Jeremy,1,262.27,0
+New Richardburgh,1,2043.53,0
+New Douglasview,3,866.04,0
+Samanthamouth,2,2164.31,1
+Valeriemouth,2,124.05,0
+Amyburgh,1,487.96,0
+East Suzanne,1,35.03,0
+South Daisy,3,4297.52,0
+Millerfurt,1,15.96,0
+Port Sydneyberg,2,100.71,0
+Caldwellfort,1,3252.90,0
+Petersonfort,1,65.66,0
+South Richardfort,5,323.11,0
+Port Martin,1,501.45,0
+"Mcintoshtown, Brazil",1,265.83,1
+Chadfort,2,337.95,0
+Holmesfort,1,80.95,1
+Port Bradley,1,314.30,0
+Gilbertstad,1,30.11,0
+Loweryport,1,3941.21,1
+Schultzmouth,6,436.64,0
+"New Jacob, Russia",1,158.17,1
+Henryberg,1,1753.64,0
+Johnburgh,1,14.42,1
+Newmanshire,4,763.26,0
+Port Kevin,1,1587.31,1
+Joannhaven,1,2114.17,0
+North Kristina,1,8137.62,1
+Wrightchester,6,14727.97,0
+Kimburgh,1,1138.84,0
+Brookefort,2,9016.57,1
+North Anaborough,1,201.72,0
+West Paigeberg,2,2606.64,0
+East Robinfort,3,137.81,0
+Morrisberg,2,403.17,2
+North Hannahmouth,4,850.44,0
+Port Jameshaven,1,262.36,0
+Clarkport,1,411.74,0
+Martinezfort,3,876.59,3
+Derekside,1,0.01,0
+Robertmouth,4,1847.33,0
+Jillchester,1,175.22,0
+Jessicafort,1,567.66,1
+South Jeffreyfort,2,475.17,0
+Rossburgh,1,1571.89,0
+Lake Bob,3,1382.39,0
+North David,3,168.69,1
+Palmerbury,1,31.96,0
+Brettchester,1,63.93,1
+Peggyside,1,56.68,0
+North Amy,3,975.96,1
+Port Dannymouth,3,4834.44,0
+Lake Zachary,2,983.69,0
+Kurtborough,1,344.06,0
+Melissamouth,1,1770.56,0
+South Maryton,7,1552.15,0
+Crawfordfort,1,7329.96,1
+North Robertbury,1,274.50,0
+New Anthonyview,1,192.72,0
+New Lisa,6,6481.58,0
+Robertsshire,3,840.85,0
+North Brenda,1,44.57,0
+North Andrewstad,5,1343.20,0
+Zacharyberg,1,55.17,0
+Elizabethstad,5,1250.86,0
+South Amberfurt,1,2809.17,0
+New Melissaview,1,57.55,0
+Jasmineside,1,62.35,0
+North Amber,2,138.75,0
+New Kristinland,4,1079.41,0
+North Jasonton,1,1960.65,0
+West Jose,1,280.34,0
+Campbellfort,4,9461.89,0
+South Amberhaven,1,69.75,0
+Dennisview,4,2485.22,0
+New Christopher,7,9139.78,0
+East Michelle,1,448.10,0
+Barronbury,1,155.03,1
+Kylebury,1,426.88,1
+Meganberg,4,266.47,0
+Port Miatown,2,220.83,0
+Coryfurt,3,203.85,0
+Jacksonbury,1,74.51,1
+Coryport,1,41.71,0
+Austinshire,1,513.77,0
+Lake Leslieshire,5,223.47,0
+Murphychester,3,576.38,0
+Port Kellyton,1,197.56,0
+New Katiemouth,1,68.55,0
+Port Dana,4,1654.17,0
+Catherinefort,3,1416.85,0
+Lewisside,2,348.70,0
+South Christina,1,161.26,0
+Debbieside,3,210.71,1
+Port Tammyland,2,61.52,0
+Jordanmouth,3,103.68,0
+North Melissa,1,67.94,0
+New Lindaberg,1,14.44,0
+Carsonfurt,2,107.04,0
+Christinemouth,1,98.31,0
+Aguirreland,1,47.99,0
+North Philliptown,1,374.56,0
+Browningport,1,1709.65,0
+Stephenville,2,382.67,0
+Karlafurt,3,959.47,0
+Lake Michaelville,5,238.27,0
+New Jason,6,16905.63,0
+Colleenfurt,2,816.04,1
+Doughertyfort,1,418.59,0
+Suarezton,2,130.26,0
+Danaborough,1,64.95,0
+Lake Kristenshire,2,758.79,2
+Port Patrickstad,2,2137.68,0
+Port Coreyland,1,8757.36,1
+Robertshire,3,3934.43,0
+Brownmouth,2,862.26,1
+North Trevorside,3,72.23,3
+North Lonniefort,1,27.58,0
+Lake Jimmy,2,473.67,0
+East Brandonport,3,300.28,3
+South Xavierview,2,751.22,0
+New Gregoryburgh,1,86.47,0
+Jennifermouth,4,872.61,0
+Andrewberg,1,60.82,0
+Lloydland,3,485.26,0
+Wilsonfort,5,2442.06,0
+Brandyberg,1,63.83,0
+Smithburgh,1,36.25,0
+West Audreymouth,1,97.53,1
+Wadetown,2,60.72,0
+Cheryltown,1,255.05,0
+North Mallory,1,98.71,0
+Barbarafort,1,336.05,0
+Jacksonport,3,2089.01,0
+Hayneston,1,355.37,0
+Jonview,1,424.07,1
+Lake Erikside,1,297.20,0
+Nicolestad,3,754.95,0
+South Michelleland,2,189.56,0
+Barbaraburgh,2,133.15,0
+South Edward,2,5382.03,0
+Riveraside,3,1793.42,0
+Stacyberg,1,452.08,1
+Wilsonberg,5,63.03,0
+South Dean,1,78.46,0
+Gilbertmouth,3,181.64,0
+New Scott,8,11157.99,2
+West Andrew,1,1.41,0
+North Brent,2,126.55,0
+South Brendaberg,2,353.65,2
+East Pamelamouth,2,593.68,0
+Amyfurt,1,118.44,0
+Lake Antoniochester,1,21.47,0
+Cookechester,1,117.36,0
+Sheltonstad,3,1634.62,0
+Josephmouth,7,5525.21,0
+South Timothy,5,1606.84,0
+North Lisa,1,320.16,1
+Port Anthony,1,451.32,0
+West Jerrytown,1,75.03,0
+Haleyberg,1,35.78,0
+West Nicoleville,1,32.30,0
+South Robertton,3,7067.11,3
+New Masonberg,1,1323.34,0
+Port Jonathanton,1,1105.77,0
+Ronaldmouth,2,6151.53,0
+Lukestad,4,1912.75,0
+North Jesseburgh,2,55.68,0
+South Jonathantown,1,797.61,0
+West Jessicaview,1,384.41,1
+Pamelaville,2,538.87,0
+Baldwinport,2,4968.12,0
+Port Megan,1,393.13,1
+North Joshualand,1,53.22,0
+Natalietown,3,846.64,0
+New Patriciaton,3,387.49,0
+Valdezville,2,1546.20,2
+Sanchezmouth,4,226.71,0
+Patrickmouth,1,485.83,0
+South Sarah,5,2072.58,0
+Pruittside,1,336.40,0
+Bryanport,1,851.63,0
+North Edward,2,183.94,0
+Ericchester,2,702.93,0
+Cooperview,4,355.89,0
+South Heatherton,2,55.70,0
+West Alisha,1,38.54,0
+South Stephanie,9,7599.62,0
+South Alyssahaven,1,74.77,0
+South Andrewfort,2,6450.13,0
+Sheafort,1,211.48,0
+Stevenmouth,2,2899.68,0
+Port Hannah,1,184.96,0
+Hensleymouth,3,293.92,0
+Dennisfort,1,199.07,0
+Blackshire,1,418.87,1
+Brownborough,2,327.59,0
+South Christian,1,149.25,0
+North Tonyamouth,3,272.17,0
+Carlborough,1,80.68,0
+Virginiaborough,2,515.64,0
+South Donaldburgh,1,76.77,0
+Sandersside,1,60.42,0
+South Lonnie,3,968.79,0
+Nguyenland,1,17.19,0
+New Alan,3,904.07,0
+North Kevin,1,86.17,1
+North Carlosfurt,2,782.82,0
+South Melissaland,1,160.36,0
+Port Alyssaberg,1,463.09,1
+Port Derek,1,192.11,0
+Timothyberg,3,4355.87,0
+West Joel,1,146.10,0
+South Judychester,5,182.96,0
+Bradleyshire,3,5855.34,0
+Lake Scott,2,202.68,0
+New Renee,1,378.33,0
+New Tamiside,2,716.61,0
+West Katrinaview,1,91.15,0
+New Edward,1,41.29,0
+Lake Karenfort,1,4237.11,0
+Sellersland,2,114.18,0
+Terristad,2,384.52,0
+South Anna,1,34.81,0
+North Vernonshire,1,344.92,0
+Port Samanthaside,1,17.67,0
+Garciamouth,1,259.48,0
+New Amberbury,1,239.09,0
+South Leslietown,2,957.25,0
+North Donna,1,261.53,0
+Lake Kelseyberg,3,244.66,0
+Port Susan,2,155.44,1
+Whitneyborough,4,2120.67,1
+Webbside,2,830.93,0
+East Monicaville,2,985.31,0
+New Meghanfurt,1,9.87,0
+New Bryan,2,123.31,0
+Port Jefferyland,1,301.91,0
+Johnsonstad,1,405.26,0
+Carlafort,1,313.84,0
+Lake Julieburgh,1,148.13,0
+Grossville,2,682.30,0
+East Cynthiaview,1,67.83,0
+West Jack,1,42.10,0
+Lake Michelleville,1,714.30,0
+Richardsonville,5,1788.29,0
+South Omarberg,1,143.09,0
+Lake Jamie,3,2941.74,1
+West Amymouth,1,224.42,0
+Bryanbury,1,436.41,1
+Hancockbury,2,376.28,2
+Johnberg,2,162.35,0
+Leeshire,5,1389.34,0
+Port Christianton,1,2063.01,0
+New Krista,1,56.30,0
+Banksstad,1,2767.40,0
+New Joshuastad,1,23.43,0
+North Joshua,3,207.53,0
+Lake Lesliemouth,1,215.08,1
+Charlesstad,1,393.36,0
+North Jessicaborough,2,630.25,0
+East Nathaniel,1,515.85,0
+Leestad,2,407.86,0
+Armstrongstad,1,31.16,0
+Lake Shannon,2,6177.42,2
+Andersenport,1,1165.84,0
+New Kylestad,1,337.61,1
+Josephtown,3,358.23,1
+Manuelfurt,1,31.77,0
+West Williamchester,1,274.25,0
+Mccormickborough,3,93.00,0
+New Elizabethfort,2,5978.47,0
+Port Earlborough,1,111.80,1
+Port Kevinstad,3,218.70,0
+Deannamouth,1,355.36,1
+Ramosville,2,161.96,0
+New Thomas,2,163.06,0
+North Michelle,3,107.39,1
+Port Codymouth,3,888.10,0
+Stevenchester,1,1008.75,0
+Jenniferfort,4,2642.39,4
+Williamtown,4,438.71,0
+Lake Christinemouth,2,363.55,1
+Grantberg,1,49.19,0
+Carlsonfort,3,718.35,0
+Warnerberg,1,2017.06,0
+West Alexandraberg,2,305.60,0
+Lake Cathy,1,78.29,1
+Shelbychester,1,5764.21,1
+Perryberg,2,6093.02,0
+Cynthiaside,2,512.16,0
+Daleville,1,224.49,0
+Frederickberg,1,367.46,0
+Millermouth,4,1775.66,0
+Angelastad,1,256.56,0
+South Melissamouth,1,402.52,1
+North Gabrielafurt,1,33.98,0
+Karenland,1,69.56,0
+Williamport,5,5532.06,0
+West Luis,2,9267.44,2
+Pricehaven,1,212.13,0
+Romeroport,1,2582.70,0
+Millshaven,1,13.63,0
+South Dominiqueshire,1,430.71,0
+North Johnberg,2,294.43,0
+West Melanieburgh,5,414.55,0
+Connortown,1,204.80,0
+West Jason,4,2701.20,1
+Hayeschester,3,5680.71,0
+South Howard,1,482.20,0
+Teresatown,1,2488.62,1
+Mikechester,2,800.26,0
+Port Stephanie,1,0.01,1
+West Thomas,2,367.44,1
+Danielport,2,889.75,1
+South Sheri,3,1322.13,3
+New Karen,3,7765.66,0
+South Angelaside,4,4170.97,0
+Lake Kristihaven,2,87.12,0
+Russellshire,1,20.47,0
+New Abigailton,1,160.25,0
+Kennethmouth,7,2927.31,0
+Cordovafort,3,277.83,0
+Port Jaredmouth,3,8685.80,0
+North Danny,1,35.13,1
+East Jose,2,759.54,0
+South Michaeltown,1,320.74,0
+Wilkinsonville,1,350.66,1
+Lake Andrew,4,2739.67,0
+Joneschester,3,5794.88,1
+East Johnberg,3,51.31,0
+Davidhaven,7,2609.85,0
+Popeport,1,171.03,1
+Maddenmouth,2,630.96,0
+Lake Heatherborough,2,636.91,0
+East Rachel,3,133.83,0
+West Emilytown,1,141.47,1
+Lake Davidfort,2,63.48,2
+Sierraburgh,1,459.47,0
+Harrisonton,1,71.15,0
+Lake Julieland,2,5.03,0
+West Robertborough,1,66.65,0
+West Adam,2,583.93,0
+East Tracyburgh,2,102.59,2
+Paulborough,2,83.44,0
+Lisashire,2,430.01,1
+New Jamieborough,2,348.52,0
+Katherinemouth,3,1271.82,0
+North Tiffanyside,1,140.51,1
+New Joy,1,12005.75,1
+New Laura,1,193.78,0
+Jamestown,2,485.12,0
+Mariahaven,6,7209.09,0
+West Danielbury,1,171.22,0
+Michaelaville,1,111.78,0
+Hensonfort,1,416.05,0
+West Sheryl,1,80.06,1
+South Tara,3,541.85,0
+South Denise,1,2965.70,1
+Jerryview,2,291.55,0
+Ortegafurt,1,11.24,0
+Jamesview,3,3112.33,0
+East Ronald,1,3756.00,0
+East Abigail,1,766.08,0
+Hughesmouth,1,56.32,0
+Davisside,5,987.41,0
+East Heatherhaven,1,51.77,0
+North Veronica,1,79.96,0
+Khanburgh,1,65.59,0
+Sanchezside,1,1881.59,0
+Jonesborough,4,465.11,2
+East Daniel,2,766.62,0
+Williamsonview,2,23492.60,2
+Briannaview,1,43.93,0
+North Jessestad,1,230.06,0
+South Kathleenland,1,427.73,1
+South Hayden,1,72.56,0
+West Tony,2,162.86,0
+Jenniferland,1,293.17,0
+Port Nathanburgh,1,2918.55,0
+East Jesusview,1,75.11,0
+South Theresaview,1,106.92,0
+Erinview,2,997.57,0
+Tommyberg,2,597.53,0
+North Kari,2,190.77,0
+Singletonbury,1,1539.76,0
+Williamstad,4,18029.87,2
+New Gregoryfort,1,958.45,0
+South Brianside,1,262.98,0
+East Ericberg,1,81.06,0
+Hortonton,1,418.39,0
+New Mary,4,264.30,0
+West John,6,2069.31,0
+Hollandtown,1,146.96,0
+West Valerie,4,780.40,0
+Jessicashire,2,65.28,0
+New Jamesstad,1,0.01,1
+West Abigailborough,1,201.90,1
+East Jaimehaven,1,30.06,1
+Singhville,1,73.79,0
+Samanthaside,1,427.64,0
+Tamaramouth,4,239.24,0
+Jonathanshire,3,26511.31,3
+Westmouth,3,6148.93,0
+Tammyland,1,155.25,0
+Youngberg,1,298.63,0
+Williamsborough,1,226.04,1
+Timothyview,2,772.85,0
+Port Dominiqueview,1,2933.30,0
+West Jacquelinebury,2,55200.08,1
+Stephenchester,2,123.93,0
+Stevenshire,1,3378.07,0
+Lake Sabrinaberg,1,84.61,1
+Cannonborough,1,2211.51,0
+West Emilybury,1,341.14,0
+East Deanhaven,1,110.78,0
+New Mariamouth,5,401.95,0
+Raymondmouth,1,13.15,1
+East Eric,5,1724.24,1
+Port Peggyfurt,1,232.44,0
+Suarezstad,2,175.42,0
+Lake Angela,2,2204.64,0
+Vasquezland,1,41.57,0
+Port Carlyfurt,1,177.29,0
+South Jeffreyport,1,331.54,0
+Gordonborough,1,148.13,1
+Walterberg,4,1157.18,0
+East Dawnport,1,940.95,0
+East Josephland,1,40.93,1
+Davidborough,3,344.74,0
+South Brooke,1,8.72,0
+North Rachelstad,1,443.53,0
+Douglasville,1,2902.62,1
+Port Hollyfurt,3,1137.16,0
+Christinebury,2,331.04,2
+East Calvin,2,233.45,0
+West Duanestad,1,79.73,0
+East Cassandra,1,202.49,0
+East Bethany,4,81.48,0
+East Stevenview,1,409.03,0
+Coleburgh,2,1946.16,0
+South Terri,1,245.67,1
+Albertfurt,4,891.56,0
+Margaretburgh,1,261.18,0
+Watkinsburgh,1,5081.42,1
+Priceland,1,1979.71,0
+Gonzalesport,1,155.60,0
+Singletonland,1,270.77,0
+South Raymondburgh,1,89.46,0
+Jeremiahside,1,281.95,0
+Lambberg,1,224.69,1
+Russoborough,1,238.28,0
+North Stacychester,3,649.46,0
+Port Williechester,3,275.76,0
+Yatesport,5,5137.45,0
+New Douglasfurt,4,6471.01,0
+Port Johnmouth,1,393.03,0
+Lake Jasonfort,1,478.90,1
+Port Bobby,2,799.91,0
+Lake Ericberg,1,360.16,0
+Port Pamela,2,483.75,0
+North Nathanmouth,1,169.30,0
+Richardsonside,1,2703.26,0
+Georgeshire,1,393.71,0
+Harrisborough,2,277.75,0
+East Billyview,2,615.47,0
+Matthewville,1,79.45,0
+South Justin,1,2183.51,0
+North Timfurt,1,2040.17,0
+Jaredberg,1,214.62,0
+Wallacechester,1,2195.12,0
+Wileyfurt,1,1235.27,0
+West Nancyville,2,80.99,0
+Jeffmouth,1,43.14,1
+South Angelicatown,7,1087.04,0
+Heatherland,1,366.56,0
+South Johnville,5,10708.92,0
+Paulmouth,1,1464.28,0
+Lake Tiffanyhaven,3,530.85,1
+East Holly,1,4222.79,0
+Elizabethside,3,466.71,0
+Vincentchester,2,27.35,2
+West Krystal,1,275.08,0
+Lake Dustin,1,72.34,0
+New Erica,7,919.77,0
+South Brittneybury,1,259.21,0
+Port Jonathan,1,1184.89,0
+Mariafurt,4,8471.30,0
+South Peter,2,213.74,2
+Geoffreyborough,1,73.94,0
+Peckville,1,2768.07,0
+North Dianaview,3,97.32,0
+East Jeromehaven,1,24.80,1
+Thomasview,2,110.82,0
+Edwardsshire,1,382.97,1
+New Austin,3,699.31,0
+Port Jerry,1,248.13,1
+Vanessaport,3,1163.57,0
+Fitzgeraldborough,1,272.33,0
+Scottbury,1,63.70,0
+Leslieberg,1,1089.83,1
+Lorimouth,3,1135.65,0
+"Carlton, Russia",1,319.48,1
+Vickiburgh,1,471.46,1
+South Mark,1,70.34,0
+Bettyborough,1,72.57,0
+Lake Thomas,2,151.10,0
+Cummingstown,1,81.75,0
+Port Sheri,4,1759.64,0
+Lewistown,1,250.82,0
+West Samanthastad,1,19.95,1
+Port Lisaview,3,146.16,0
+North Scottfort,1,36.60,0
+Lake Calvinside,1,46.26,1
+Moorechester,2,78.86,0
+Port Cynthia,2,471.36,0
+New Kathyside,1,36.99,0
+Timothyfurt,1,2465.94,0
+East Brittneyshire,5,44334.13,5
+South Kennethborough,1,489.69,1
+Moranberg,1,108.03,0
+Flemingside,1,2599.40,0
+Clarkstad,2,5119.56,0
+Cooperland,2,1673.88,0
+South Garyfort,2,122.70,0
+Ramirezside,2,205.52,2
+West Kellyshire,1,81.63,0
+Mistyfurt,1,194.97,1
+Lake Sharon,2,2838.65,0
+South Markshire,1,264.26,0
+Charlesfort,1,493.14,0
+North Malik,5,268.50,0
+Dominguezmouth,3,287.20,0
+Tinatown,3,1559.70,0
+Kristinefort,1,53.59,1
+Hoganland,1,52.84,0
+North Tamara,1,296.23,1
+Pattersonborough,2,112.44,2
+Rachelmouth,1,3037.21,0
+Lake Samuelview,1,123.25,0
+Bobbyside,4,294.21,0
+Lake Jennifertown,3,200.78,0
+Lake Philip,1,283.81,0
+Valenzuelaton,1,128.53,1
+West Troy,1,1648.43,0
+North Bryan,1,262.56,0
+Penastad,1,3.05,0
+Archermouth,1,398.81,0
+North Adam,2,700.57,0
+Shelbyfurt,2,4396.37,0
+South Jacquelinestad,2,4136.18,1
+Scottberg,1,545.57,0
+Reyesville,2,547.73,0
+North Laurastad,1,343.14,0
+West Kennethhaven,1,440.55,0
+Port Michael,8,3743.51,1
+Bassport,1,25.83,0
+Valdezchester,1,63.46,0
+Benjaminview,1,9971.82,1
+Osborneside,1,31.88,1
+Larsenburgh,2,190.12,0
+East Shelley,4,961.24,0
+Port Loriview,1,18.15,0
+Lake Catherineport,1,127.32,1
+East Michellemouth,1,361.52,0
+Brianaside,1,1841.36,0
+North Danielton,1,68.01,0
+Port Danielbury,3,1524.37,0
+Nealmouth,1,73.75,1
+Shannonchester,8,31719.94,2
+West Mario,1,57.47,0
+New Katelyn,1,494.55,0
+Dunlapton,4,1702.24,0
+South Kurtview,1,130.38,0
+North Marissaburgh,1,406.19,0
+Nolanburgh,2,3969.65,0
+Kingtown,2,78.57,0
+North Hollyland,2,504.33,2
+Jademouth,1,84.10,0
+North Kayleefurt,1,64.57,0
+Millerbury,3,340.92,0
+Yatesberg,1,448.14,0
+Costaside,2,74.02,0
+North Maryshire,6,2307.67,0
+Theresaview,1,425.04,1
+Chenmouth,1,18.12,0
+Lake Heather,1,37.85,0
+Port Teresa,2,168.00,0
+"East Joshuaborough, India",1,100.45,1
+Leonview,2,868.03,0
+North Kimberlystad,2,170.50,0
+North Keithfort,4,1553.01,0
+Davisborough,6,4346.51,1
+Bowenborough,1,1364.84,0
+Lake Alicia,2,107.93,0
+West Joshua,6,12838.22,1
+West Denise,1,67.74,0
+Cookmouth,1,840.39,0
+West Jasmine,1,367.94,1
+New Richardmouth,1,58.55,0
+North Richard,2,1006.87,0
+Bobbyfort,1,109.20,1
+Danielchester,1,232.12,0
+East Jessicaside,1,146.67,0
+North Stevenmouth,3,969.74,0
+Port Amandabury,1,338.65,0
+South Jenniferburgh,1,323.20,0
+Riveraton,8,1944.65,2
+Seanside,1,0.01,1
+Lopezport,2,594.73,0
+West Tylerbury,1,107.06,0
+Jacksonshire,2,684.02,0
+"Lake Josephmouth, Russia",1,32.49,1
+Port Matthew,1,245.42,0
+Lake Michelefort,4,1769.81,0
+Rayview,1,304.88,0
+Lisaport,1,10586.02,1
+Chadton,9,1603.65,1
+East Kathleen,7,231.25,0
+Martinmouth,4,4254.90,0
+East Nicholasburgh,1,340.26,1
+Schaeferview,1,18.65,0
+Blakeport,1,101.18,0
+New Marcusview,1,99.55,0
+Amandachester,3,297.12,0
+Juanmouth,2,30.80,0
+West Sabrina,1,42.43,1
+South Joshuaville,1,1666.08,1
+Wandastad,2,515.50,0
+Frankborough,1,233.93,0
+Harriston,2,154.44,0
+Graymouth,1,915.99,0
+Lake Jamestown,1,1684.74,1
+Staceybury,3,863.26,0
+East Juanshire,2,2130.47,0
+South Lauraside,1,987.45,0
+Sarahside,2,5439.03,0
+Rebeccaland,2,114.90,0
+Grantfort,1,57.15,0
+South Cindyport,1,48.82,0
+South Jillview,2,41839.08,2
+North Charlesview,1,222.76,1
+Matthewborough,3,607.67,1
+Perryborough,1,5385.77,1
+South Brettfort,2,702.54,0
+Olsonborough,1,46.81,0
+East Danielberg,1,2626.63,0
+Port Alejandrashire,5,5197.96,5
+East Donald,2,2354.87,1
+Christinaton,1,49.58,1
+Douglasside,1,119.19,0
+Jessicaborough,1,384.43,0
+Ashleyland,2,370.78,0
+West Phyllismouth,2,20.78,2
+Patrickland,3,398.75,0
+Cooperhaven,1,88.87,0
+Patriciamouth,1,1658.75,0
+West Jaclynview,8,63.17,0
+Jeremiahberg,1,421.89,0
+Lake Ryantown,2,31.94,0
+East Richardfort,4,284.22,0
+Howechester,1,370.02,0
+Port Masonburgh,4,761.18,0
+Michellemouth,4,819.28,1
+Lake Sharonland,1,37.50,0
+West Ronaldhaven,1,94.01,1
+South Albertside,1,47.08,1
+Lake Billyfort,1,509.04,0
+New Toddbury,1,549.71,1
+Natalieborough,1,58.47,0
+Colleenburgh,1,6562.11,1
+Zimmermanbury,4,1272.09,0
+Maryburgh,1,2034.31,0
+Marytown,4,1825.85,0
+Nicoleburgh,2,329.18,0
+Gordonshire,1,466.46,1
+Tonyahaven,1,180.91,0
+Port Katherinefort,2,29.95,0
+Jessicafurt,1,98.05,0
+South Tylerfort,2,687.94,0
+Katrinamouth,2,24.79,0
+South Danielville,1,47.35,0
+Lake Lisa,3,219.63,0
+Davisberg,1,268.34,0
+Lake Kellyfort,1,264.98,0
+North William,4,1297.16,0
+East John,2,4346.74,1
+Collinshaven,1,43.05,0
+New Charleston,1,57.83,0
+Camposfort,1,57.83,1
+New Paul,1,397.16,0
+Silvabury,1,187.31,1
+West Dianeside,2,700.00,0
+South Sandraberg,2,148.33,0
+East Lindsayview,5,2353.33,0
+Lynchview,1,391.95,0
+Ochoafurt,1,8004.26,1
+Tiffanyfort,1,1912.49,0
+East Rosestad,1,19.75,0
+Scottstad,1,2171.51,0
+North John,1,203.67,0
+South Joshua,1,225.16,1
+Lake Aimee,3,220.57,0
+Klinechester,2,9515.23,1
+Stephanietown,1,460.36,1
+West Megan,1,80.22,0
+South Frankchester,1,70.40,0
+Kennethhaven,2,415.33,0
+Lake Emma,7,987.54,0
+North Gregory,2,553.43,0
+West Ianville,4,1991.77,0
+East Christinastad,1,0.01,0
+Lake Jessica,4,2858.49,0
+East Annette,6,1101.68,0
+West Zacharyville,2,169.12,2
+Desireetown,4,894.25,0
+Phillipston,1,51.15,0
+South Danielle,1,32.44,0
+Lake Davidmouth,1,344.97,0
+East Samanthahaven,1,9090.74,1
+South Barbaraborough,1,247.02,0
+Hughesport,1,46.16,0
+Port Micheletown,1,63.64,0
+Lake Tyler,2,2625.11,1
+South Benjaminburgh,3,24985.14,3
+North Michael,5,923.18,1
+South Michele,4,1935.77,0
+Josephfurt,1,3014.97,0
+East Davidburgh,1,84.71,1
+Port Brianland,1,1007.08,0
+North Courtney,2,827.54,0
+Lake Jennytown,3,1157.03,0
+South Matthewfurt,1,165.70,1
+Lisaton,1,322.87,1
+Laurashire,4,2876.32,0
+Sandersview,1,25.13,0
+Dixonmouth,1,272.74,0
+Morganberg,1,188.22,0
+New Lisaton,1,357.96,0
+West Kennethchester,1,96.15,0
+Port Ethan,3,1133.49,0
+South Ryanport,1,401.83,0
+Amandaberg,3,355.41,3
+New Tammy,2,203.99,1
+Dustinburgh,2,60.10,0
+Kellyhaven,2,63.28,2
+Morganmouth,8,755.92,0
+North Davidville,2,88.15,0
+North Christopherland,2,128.52,0
+West Jessicaton,3,955.81,0
+Shanestad,1,177.02,0
+Smithhaven,1,294.04,1
+New Patricia,2,4596.63,0
+Lake Ashley,3,2512.15,1
+Dorothyberg,1,266.55,1
+Stephensstad,1,199.74,0
+Noahshire,1,1360.51,0
+Rachelview,1,57.23,1
+Bennettport,2,551.84,0
+Lunashire,2,862.92,0
+West Stephentown,1,888.11,0
+Kennethburgh,3,802.42,0
+Port Andrewshire,2,762.70,0
+Beckerfort,2,436.64,0
+West Christianborough,1,48.95,0
+Owenston,1,242.23,0
+East Juliemouth,2,941.45,2
+Lake Richardberg,1,34.43,0
+New Robert,16,7921.69,1
+Jasminland,1,813.90,1
+East Vincentborough,1,83.67,0
+Maynardview,1,116.39,0
+Lindseyside,1,2614.72,0
+Codyshire,1,303.75,0
+Geraldtown,2,3677.90,0
+Smithville,3,848.31,1
+South Victorside,2,3416.37,0
+North Samantha,1,9.25,1
+Brownport,1,2555.01,1
+Kiddhaven,1,73.13,0
+West Josephtown,5,326.12,0
+Greeneton,2,2903.96,0
+North Stephenton,1,456.88,1
+Port Joe,1,1201.29,0
+Port Jessica,5,1956.93,0
+Bauerville,1,24.50,1
+Ibarraberg,2,460.99,0
+Adamsport,3,879.01,0
+Garciashire,1,7465.62,1
+New Nicole,2,435.12,1
+Veronicaport,4,8637.63,0
+Amberville,1,133.79,1
+Fordfurt,1,510.61,0
+Port Breanna,3,274.82,0
+South Natasha,3,811.25,0
+Paulland,3,6749.12,1
+Lake Amychester,5,577.84,0
+Proctorfurt,1,2204.22,0
+Estradaview,1,303.85,1
+Jonathanfurt,2,277.29,2
+Port Jordanmouth,2,16.49,0
+Port Thomasfurt,1,67.83,0
+Stacybury,1,59.32,1
+South Kenneth,3,1597.29,0
+Jonesmouth,4,653.64,1
+North Ronaldfort,1,197.26,0
+North Mark,4,267.59,0
+Brittanystad,2,2705.73,0
+Curtisberg,1,418.67,0
+North Saraland,1,422.05,0
+Howardhaven,3,136.97,0
+Port William,4,13974.84,2
+Courtneyhaven,3,23.65,0
+Walshfort,2,6031.36,0
+Lake Tamara,2,951.15,0
+North Sarafurt,1,357.51,0
+Foxmouth,1,75.22,0
+Ashleyside,1,488.46,0
+Loriview,1,272.95,0
+Russellberg,3,2171.99,0
+Jeffreyton,1,131.29,0
+West Kathleenfurt,3,7567.62,0
+East Tinaville,5,294.50,0
+Lynnside,1,119.83,0
+Diazstad,1,5495.89,1
+West Aprilview,1,756.38,0
+Port Nathaniel,1,128.64,0
+South Cheryl,1,1552.36,0
+New Lindsay,1,1835.17,0
+Sarahchester,3,71.83,0
+Lake Deanna,3,209.08,0
+East Gary,1,341.73,0
+East Richardside,1,148.13,0
+South Kellyfurt,4,1034.31,0
+Michaelshire,11,6839.12,1
+Mooremouth,3,100.45,0
+Carterfort,1,4733.66,0
+Burketon,1,483.10,0
+Sharonton,1,1568.31,0
+Meyerchester,1,110.96,0
+Bellhaven,1,422.31,0
+Michaelchester,3,8481.58,0
+Rubenland,1,133.26,1
+North Denise,1,91.52,1
+North Russell,1,469.62,0
+Port Mallorychester,1,81.05,0
+Port Melinda,3,137.17,0
+Martinbury,1,322.70,1
+Davidview,2,3283.10,0
+Dianachester,1,74.34,0
+New Reginaside,4,2000.06,0
+Amytown,3,177.80,1
+North Phillip,1,69.06,0
+Emilyborough,1,2860.09,0
+East Brianna,6,2556.90,0
+Simsburgh,1,39.41,0
+Lauraton,1,1280.74,1
+North Ronaldview,3,386.35,0
+Matthewport,1,8392.15,1
+North Raymond,1,0.01,0
+Cruzchester,2,95.01,2
+Robinsonton,1,249.58,1
+New James,5,4011.43,2
+West Mollyhaven,1,416.77,1
+East Aliciaberg,2,629.76,2
+Port Crystalhaven,2,63.21,0
+Moraleschester,1,234.14,0
+Jerryhaven,1,290.76,0
+New Peter,3,145.36,0
+Leahstad,1,185.50,0
+West Dorothyfurt,1,601.56,1
+East Bruce,2,903.98,0
+Lake Kristaport,3,2733.91,0
+Millertown,1,2559.23,1
+New Josephhaven,1,485.95,0
+Gordonside,4,281.28,4
+Port Seanside,1,1839.27,0
+Port Danielchester,1,25.37,0
+New Robertborough,1,453.46,0
+North George,1,82.89,1
+West Francisco,3,77.82,0
+Evansfort,4,1324.85,0
+East Haydenside,1,301.05,0
+Justintown,1,79.19,1
+Port Bryan,3,217.33,0
+Brookeberg,4,475.90,0
+Simpsonmouth,1,178.82,0
+Port Charlesborough,1,1337.40,0
+West Jaclynmouth,1,339.42,0
+East Nancy,2,79.94,0
+West Mark,2,130.52,0
+Williamfort,1,146.79,0
+East Jeremyview,1,61.03,0
+Nicoleshire,1,40.13,0
+South Justinchester,2,363.56,0
+Nathanieltown,6,559.42,0
+Lake Kimberlyfurt,1,117.93,0
+Allenview,1,1593.11,0
+Sandovalchester,1,95.89,0
+Rebeccaberg,2,153.05,0
+New Lindatown,2,120.70,0
+Davidburgh,3,2765.80,0
+East Triciatown,1,254.90,1
+Selenaside,1,54.00,0
+North Jennifer,6,4782.13,1
+Lawsonmouth,1,206.03,0
+Lake Emilytown,1,348.56,0
+Simsview,1,0.01,1
+Sonyamouth,1,105.34,1
+Chapmanfurt,1,68.74,1
+Gibsonport,1,474.54,1
+Gonzalesfurt,1,302.35,1
+Bethton,3,1394.88,0
+Cameronmouth,1,49.68,0
+Cannontown,3,509.51,0
+South Robertborough,2,154.69,2
+West Christymouth,2,141.19,0
+Branditown,7,2050.56,0
+North Christopher,2,411.69,0
+Stephenborough,2,489.43,0
+Baileyfort,2,84.64,0
+New Derek,1,28.02,0
+Andrewland,2,645.93,0
+Jamesberg,5,510.64,0
+Foleychester,3,26421.51,3
+Campbellport,1,87.14,0
+West Conniefurt,1,61.33,0
+Vazquezville,2,654.50,0
+Meyerborough,1,1759.31,0
+North Alan,2,250.65,0
+North Matthew,2,465.11,0
+Carsonside,2,180.56,0
+Katherineton,1,58.57,0
+Sheilashire,2,455.63,0
+Grantview,1,1887.04,0
+Shannonbury,1,214.24,1
+Jordanside,1,57.33,0
+Williamsfurt,1,361.13,0
+Schmidtfurt,1,8815.94,1
+Marshside,1,761.31,0
+Alexanderton,1,245.80,0
+Gonzalezmouth,3,2110.74,0
+South Cynthiafort,3,177.79,0
+South Ginaborough,4,91.71,0
+Bensonfurt,1,80.20,1
+Leechester,2,66.94,0
+South Alfredburgh,1,16.17,0
+West Robertbury,3,2772.21,0
+Klineport,1,77.49,0
+Lake Wayneview,2,54.47,0
+Castillofurt,1,56.20,0
+Kristyborough,1,116.26,0
+Brandonfurt,2,195.18,0
+Glorialand,1,502.72,0
+Johnfort,4,453.41,0
+Starkfort,2,62.42,0
+Christopherview,2,3828.26,0
+Port Sarahhaven,1,124.05,1
+Melissaville,4,1293.59,0
+Lake Michael,5,865.73,1
+East Scott,1,51.78,0
+Victormouth,1,144.99,0
+South Tammietown,1,482.09,1
+North Sherylchester,1,138.82,1
+Rayburgh,1,191.84,1
+East Rick,1,51.47,0
+South Williamtown,1,239.10,0
+Jamesmouth,7,7374.14,1
+West Wesleytown,1,221.08,1
+Katrinafort,2,2268.57,0
+South Danielside,4,2458.95,0
+South Lori,1,3023.15,0
+Caitlinton,1,20.37,1
+North Tiffany,4,709.33,0
+Port Carolynside,4,89.16,0
+Beckberg,1,98.43,0
+North Eric,6,1130.59,0
+Port Haileychester,1,92.60,0
+Jonathanville,2,739.21,2
+Port Alexandraport,2,126.02,0
+East Alexandermouth,1,4295.02,0
+South Zachary,6,2691.64,0
+Dianeview,2,2130.07,0
+"Kelliemouth, Brazil",1,167.74,1
+South Jill,4,5487.63,0
+Fullerstad,3,4810.17,0
+Lake Cassidytown,4,181.69,0
+Pachecoport,1,0.01,0
+Johnmouth,1,488.64,1
+Lake Danielmouth,4,53.14,0
+North Nicole,1,61.90,0
+Moniquefurt,1,2007.04,0
+Eileenton,6,1338.05,0
+Port Donnaburgh,1,11.50,0
+Port Amanda,2,487.38,2
+Mcdonaldville,2,87.15,0
+Chenberg,3,191.71,0
+North Robinside,1,243.68,0
+New Carolmouth,1,347.78,0
+North Deborahton,4,8203.01,0
+West Williamtown,2,3003.16,0
+Benjaminburgh,4,1628.14,0
+New Adam,3,667.20,0
+North Brianastad,1,84.38,1
+Port Sarah,5,1359.71,0
+South Laurieton,1,1228.18,0
+Jamesport,2,1723.31,0
+Grahammouth,1,6.83,0
+Munozbury,1,309.34,0
+"Johnsonton, Brazil",1,213.41,1
+New Nicholas,1,77.64,0
+Colemanbury,1,44.93,1
+Brucefort,2,172.78,0
+East Stephanie,7,2815.70,0
+Alexandramouth,1,460.78,0
+West Breanna,1,35.68,0
+Wilkinsonhaven,1,92.89,0
+"Leefurt, Russia",1,195.18,1
+New Nicholasberg,2,46.19,0
+Rachelfurt,2,1307.34,1
+Lake Sharonfort,1,5409.52,1
+Lake Stephanieburgh,1,189.37,0
+Elizabethmouth,5,1334.17,0
+New Pamela,2,534.47,1
+Lake Shelbymouth,1,361.49,0
+East Danielstad,1,341.29,0
+East Amandaside,2,78.38,0
+Michelleport,2,1593.48,1
+Jacksonstad,1,101.70,0
+West Shelleyburgh,1,483.96,0
+New Brianmouth,1,186.13,0
+South Heatherfort,4,1132.78,0
+West Laurenville,1,399.97,1
+Lake Jasonport,1,84.14,0
+West Richard,3,8881.86,1
+North Davidbury,1,25.41,0
+East Kayla,3,610.46,0
+Jenkinsport,1,46.49,0
+East Jasmine,1,4.23,1
+Port Katherineville,1,436.24,0
+Vargasfort,1,86.48,0
+Shaneland,1,2333.15,1
+North Meredith,1,93.96,0
+Lake Renee,3,2468.74,0
+South Chrisbury,1,133.09,1
+Lake Kimfort,1,357.37,0
+East Sean,4,1528.25,0
+North Sarabury,1,346.65,0
+Graychester,1,5459.02,1
+Lake Cynthiahaven,1,397.09,0
+Ramosbury,1,530.39,0
+Lake Josephfurt,1,279.22,1
+Dennismouth,3,453.78,0
+New Ashleyport,1,114.10,0
+Mendozaport,1,157.04,1
+Jaredfort,1,363.02,1
+Gonzalezside,2,837.99,0
+Arnoldside,1,447.52,0
+Katherinechester,4,1554.61,0
+East Ivanchester,2,2222.06,0
+Geraldmouth,7,1251.41,0
+Mirandaton,5,1205.99,0
+Phamstad,3,1313.84,0
+Reedmouth,1,2695.02,1
+Davisstad,1,2613.20,1
+Strongbury,1,748.28,0
+Brittanyborough,1,404.44,1
+East Aliciahaven,1,93.33,0
+Port Theresa,1,323.65,0
+Matthewton,1,111.85,0
+Autumnstad,1,205.17,0
+Lake Robin,2,9798.67,2
+South Brittany,5,766.76,2
+Gomezfurt,1,571.85,0
+East Terri,1,270.19,0
+Youngbury,1,409.99,0
+Arellanohaven,3,7594.71,0
+Horneshire,1,86.19,1
+Martinezstad,1,31.16,1
+North Malloryborough,1,66.23,0
+New Katie,1,223.16,0
+Lake Sherri,1,74.32,0
+West Rebeccachester,1,86.03,0
+East Virginia,7,2579.23,0
+Lake Jesse,2,1621.63,0
+Jessicaport,1,256.69,0
+New Monicaton,2,158.58,0
+Patriciafort,6,317.83,0
+Arielland,1,270.65,1
+West Shirley,2,9123.75,1
+Ritaton,1,277.39,0
+Martinborough,1,314.26,0
+Lake Ana,1,38.10,0
+Leeburgh,1,371.39,0
+Rodgershaven,6,60.84,0
+West Dannystad,2,612.55,0
+North Timothyside,1,101.43,0
+Jacksonhaven,3,8108.02,0
+Port Danabury,1,89.86,0
+Eileenberg,1,325.77,0
+Lake Catherineville,1,1283.54,0
+North Marc,1,91.92,1
+Karenchester,1,1648.64,0
+Walshchester,2,1951.97,0
+Lake Shawn,1,191.44,0
+South Anthonyport,1,6870.18,1
+West Carmen,1,47.96,0
+Melanieland,1,76.56,0
+Joeburgh,1,200.11,1
+South Josemouth,2,178.82,2
+New Nicoleburgh,2,272.64,0
+Greenchester,1,1282.65,0
+Lake Candice,1,59.17,0
+Longfort,2,144.99,1
+Mcculloughtown,1,1508.36,0
+Jasonhaven,1,25.61,0
+Bruceport,2,630.04,0
+South Ruth,1,91.79,1
+Kathleenmouth,2,558.69,0
+West Faithberg,1,31.12,0
+Lake John,1,277.27,0
+East Brian,5,4401.81,0
+North Kristenville,1,351.96,0
+New Wendyberg,2,503.62,0
+Beckmouth,1,415.04,0
+North Jamie,2,189.25,0
+North Brian,2,714.64,0
+Robinberg,1,425.45,0
+Mendozaborough,1,1887.17,0
+Lake Bethany,3,640.58,0
+Port Kristin,2,2429.63,0
+Snydermouth,2,332.36,0
+Khanhaven,1,2141.83,0
+Amberview,1,320.23,0
+Lake Anthonyview,1,413.22,0
+Nealland,2,2828.04,0
+South Kirkmouth,2,719.35,0
+South Scottville,3,918.24,0
+Owenport,1,162.30,1
+Sethshire,4,2124.00,0
+Vanceshire,3,105.75,0
+Lake Kylefurt,1,1689.70,1
+New David,1,2237.51,0
+East Derrickfort,1,448.88,0
+Audreychester,1,107.37,0
+Stephensborough,2,3492.73,0
+North Debbiefurt,3,261.21,0
+Castilloland,3,248.85,0
+Wallaceland,3,1207.62,3
+South Aaronchester,2,33.76,0
+North Kristin,1,49.90,0
+West Kristastad,1,58.94,0
+Anthonymouth,3,298.52,1
+East Robert,1,256.21,0
+South Georgeville,1,94.44,1
+Lake Maria,8,4307.70,1
+South Amy,3,225.17,0
+Wardchester,1,151.61,0
+New Michaelmouth,2,5663.82,0
+Ashleyview,4,3689.59,0
+North Hollyville,2,633.91,0
+Brownton,3,15081.13,2
+Collierfort,1,101.14,0
+Jenkinsmouth,4,2453.16,0
+Jeffersonland,1,52.21,0
+Noahchester,3,74.99,0
+Port Meghanport,1,41.13,0
+South Marcoborough,2,211.24,0
+North Ericashire,1,9303.68,1
+East Markborough,3,634.05,0
+East Benjamin,4,2413.63,0
+Port Erinborough,3,4.14,0
+Scottland,2,3324.50,0
+South Robin,3,57.17,0
+West Mauriceton,2,517.46,2
+West Davidfurt,1,2673.06,0
+Fernandoburgh,1,1877.12,0
+Lewiston,6,207.84,1
+East Richardport,2,1628.21,0
+East Ashley,4,399.73,0
+South Gina,1,0.01,0
+Aliciachester,1,316.69,0
+West Suzanne,3,454.28,0
+Robinsontown,1,72.10,1
+Joyceshire,1,76.55,0
+Johntown,6,2796.00,0
+Kaylafort,3,1046.99,0
+Susantown,2,73.95,0
+West Vicki,3,214.43,0
+South Heather,2,282.66,0
+Castilloberg,1,47.25,0
+Port Robertshire,1,3162.86,0
+New Vanessafort,1,432.60,0
+South Phillip,1,146.97,0
+East Troyburgh,1,54.97,0
+Edwardsfurt,4,918.11,0
+Nicoleton,1,59.05,0
+Aaronstad,1,1141.00,0
+Barberhaven,3,56.30,0
+East Aliciaport,3,1166.44,0
+Port Rubenside,1,70.46,0
+East Nataliefort,1,256.78,0
+New Angela,3,661.78,1
+West Elizabethport,1,342.99,0
+Lake Wesleyberg,1,439.95,0
+Carlosville,6,214.56,0
+Garystad,1,82.01,0
+Morganhaven,1,574.35,0
+Port Gloria,4,2142.22,0
+New Michaelhaven,1,80.59,0
+Emilytown,3,15441.92,2
+Jefferyburgh,1,92.78,0
+Barbaratown,1,1348.14,0
+Loveburgh,1,470.52,0
+Nicolemouth,1,1890.84,0
+Lake Adrian,2,558.92,0
+East Tammie,1,2587.87,0
+South Deannashire,2,121.15,0
+New Davidland,4,6432.24,3
+Vargasberg,1,312.47,0
+East Williamberg,1,455.38,0
+Garrettville,1,166.28,1
+Jacquelineton,1,102.89,0
+Thomasshire,5,180.62,0
+South Brianport,1,53.86,0
+Larsonbury,1,174.75,0
+North Andrewshire,1,51.38,0
+New Jamiemouth,1,2548.18,0
+Port Sharon,3,17948.45,3
+South Anthony,1,392.01,1
+Lake Rebeccaville,1,1176.78,0
+Port Jasonberg,3,224.58,0
+Youngstad,3,46.34,0
+North Angelaside,2,498.26,0
+West Sean,1,262.31,0
+South Jesusshire,3,298.06,0
+Tommyburgh,1,332.78,0
+Lake Elizabethshire,5,1312.46,0
+New Samanthaburgh,1,315.33,1
+Erikafort,4,361.02,0
+East Marissa,1,270.85,0
+East Tinafurt,4,78.69,0
+Parkerport,1,2476.50,0
+South Stevenbury,1,186.86,0
+Lake Laurafurt,1,27.37,1
+Buckleyside,1,16.66,0
+Millerton,1,282.16,0
+Edwardsberg,5,5815.70,0
+Joelberg,2,321.51,0
+Sabrinaberg,1,31.03,0
+New Michaelview,1,99.11,1
+Port Matthewberg,6,732.14,0
+Ryanburgh,2,4016.27,0
+Port Andrewchester,1,67.04,1
+South Kyle,1,360.77,1
+Jenniferhaven,1,1057.27,0
+North Richardside,1,77.57,0
+Theresatown,4,403.39,0
+North Alexandermouth,2,2576.92,0
+Haynesburgh,4,1922.55,0
+Tuckershire,1,1464.01,0
+Lake Derek,4,268.25,0
+New Timothy,1,104.81,0
+Kirstentown,1,68.43,0
+New Alex,1,499.69,0
+New Christine,3,5213.13,0
+East Danielmouth,2,853.28,0
+Leefort,2,2517.65,1
+New Kevinberg,1,497.53,1
+New Joshuaborough,1,65.06,1
+Kathrynmouth,2,45.19,0
+Aprilfort,1,263.89,1
+Markchester,1,2271.02,0
+Port Lauramouth,1,104.14,0
+North Reginamouth,5,282.86,0
+New Ashley,1,93.91,1
+Gutierrezmouth,1,304.53,0
+Kingland,3,408.48,0
+Bethside,1,2348.20,0
+Frankberg,1,287.60,0
+New Bryceville,1,64.04,1
+Edwardburgh,4,265.82,0
+East Lindaland,1,1798.32,0
+Meganside,1,231.76,0
+Maryfurt,1,1357.62,1
+Sabrinaton,5,2492.65,0
+Stephenfort,1,277.73,0
+Bridgetfurt,4,485.53,0
+Robertborough,1,52.97,0
+Thomasburgh,1,51.05,0
+Lake Oliviaborough,6,1082.67,0
+Jenniferchester,2,349.90,1
+Shaneville,1,1197.49,0
+Lake Davidville,1,98.33,1
+Josephside,1,313.71,0
+Anthonystad,3,154.42,0
+South Laurenmouth,1,53.52,0
+Port Kristen,3,6896.14,0
+Johnsport,2,498.71,0
+East Katherineshire,2,140.08,0
+Port Joshualand,4,879.48,0
+Ericborough,2,177.77,0
+Nicholeville,5,391.57,0
+Lauramouth,2,4449.92,0
+Carrilloport,1,208.39,0
+Lopezland,13,5496.02,0
+Schwartzfurt,3,185.18,0
+Lindastad,1,100.76,1
+East Ronnie,1,38.68,0
+Port Jasonmouth,1,46.98,1
+Dianetown,1,2407.77,0
+East Juliechester,2,117.43,2
+Clarkside,1,971.35,0
+Port Thomashaven,1,156.90,0
+Cameronborough,5,1872.87,0
+West Stacy,1,483.71,0
+North Johnmouth,3,153.12,0
+Ninaport,6,2401.41,0
+West Amandaburgh,4,1153.93,0
+Waynestad,1,35.05,1
+New Melissa,1,248.07,0
+Sandramouth,1,149.09,1
+Justinburgh,1,247.76,0
+Jacobsmouth,1,167.72,1
+Derekberg,2,915.98,0
+North Michelletown,3,111.67,0
+East Brianberg,2,319.48,0
+New Jefferystad,1,2566.71,0
+"New Mario, Romania",1,467.08,1
+Ibarrafort,4,26566.78,4
+West Timothyshire,1,67.77,1
+Rayton,1,0.01,0
+Lindahaven,2,1477.04,0
+Martinside,1,83.07,0
+Hernandezburgh,1,1685.66,0
+Port Renee,1,60.78,0
+West Angela,4,1293.48,0
+Michaelview,9,16576.74,1
+New Joe,2,859.42,0
+Edwardschester,1,520.64,0
+East Keithport,1,77.12,0
+Marietown,1,305.71,0
+Wileyland,1,687.84,1
+Butlerfort,1,4573.91,0
+Lake Christine,3,254.58,0
+Wendyville,1,339.40,0
+West Jasonchester,3,754.57,0
+North Douglasbury,1,2306.85,0
+Bakerville,1,4154.89,0
+Joelhaven,1,170.79,0
+Parksport,2,3723.68,0
+Normaburgh,3,8474.04,0
+Hollyside,1,113.84,1
+East Brianton,1,53.68,1
+South Philip,1,3280.75,0
+Ortegatown,1,6082.83,1
+Stevenberg,1,361.25,0
+Bradton,1,475.47,0
+New Christinaton,1,92.78,0
+Stokesmouth,1,1775.76,0
+East Justinmouth,1,6.02,0
+Dakotaville,1,721.49,0
+Kimberlyborough,2,294.91,0
+Kristinatown,1,64.48,1
+Rodriguezton,1,42.74,0
+Port April,1,722.07,0
+Robertfurt,2,172.25,0
+Randyton,1,70.19,0
+West Lisabury,1,2239.75,0
+West Timothyton,5,201.16,0
+Maryton,7,9904.56,0
+Stephanieshire,2,996.51,0
+East Adrienne,1,82.42,0
+Port Heatherburgh,2,51.84,0
+Kennethland,2,16385.52,2
+East Thomas,2,147.07,1
+West Jennifer,1,257.75,1
+Skinnerton,1,516.86,0
+New Reginaldburgh,1,282.39,0
+East Davidmouth,1,161.22,0
+North Jeffreyhaven,1,72.32,0
+Cunninghamstad,5,6103.38,0
+Brittanyview,2,143.65,0
+Simonfurt,2,223.31,0
+Mcclainland,5,192.28,0
+Lake Scottport,1,467.86,0
+Huntbury,1,59.98,0
+Carlosmouth,4,1202.22,0
+Sawyershire,2,165.21,0
+Derekfurt,2,5449.43,0
+Gordonfurt,1,61.51,0
+North Williamland,1,3856.75,1
+Medinaland,1,2870.27,0
+Schmidtmouth,1,1095.69,0
+South Yvonnebury,1,1475.77,0
+Lake Pamelachester,2,141.13,0
+Port Louis,2,194.07,0
+New Elizabethton,1,138.64,0
+New Kristentown,1,28.84,0
+Tylerside,3,699.49,1
+North Stephaniestad,1,3213.17,0
+Nicholasmouth,2,1757.76,0
+East Paul,2,7458.84,2
+Zacharystad,2,38.51,0
+Joshuaborough,2,135.90,0
+North Jamesview,1,59.15,0
+North Tiffanyville,1,2942.56,0
+Mindybury,1,79.59,1
+Cookville,1,203.26,0
+Deannahaven,1,2143.04,0
+New Kristine,1,210.42,1
+North Thomasfort,2,1387.63,0
+Port Elizabethbury,1,463.54,1
+Nancychester,3,42.05,0
+West Gabriel,2,696.00,0
+Kimberlyport,3,1542.99,0
+Cindymouth,1,3111.72,0
+Lake Valerie,1,370.05,0
+Villegasside,1,275.57,0
+Travisburgh,1,270.70,0
+West Kyle,2,498.29,0
+West Karinamouth,1,61.49,0
+East Anthonyfort,1,2000.99,1
+East Lisachester,4,330.28,0
+North Katherine,1,42.32,1
+New Justinmouth,1,395.82,0
+Darrellside,1,153.31,1
+Obrienhaven,3,363.52,0
+Randybury,4,1429.17,0
+Harperton,1,61.32,0
+Lake Georgeview,9,670.65,0
+Lynnburgh,2,149.41,0
+New Zachary,6,1311.96,0
+Melindaland,1,281.24,0
+East Amber,1,2320.24,0
+West Cheryl,1,1250.74,0
+Johnsonville,5,3826.84,1
+South Rodneymouth,1,35.51,0
+New Edwardland,1,1931.21,0
+West Clinton,2,143.45,0
+New Tracy,1,337.59,0
+Jermaineside,1,466.99,1
+Oliverland,1,5438.25,1
+North Christine,3,7938.49,0
+Fredericktown,1,450.12,0
+West Tammyland,1,39.07,0
+Danielleport,1,28.68,0
+West Lynnmouth,1,262.91,0
+East Nicole,2,908.86,2
+Smithport,6,3026.38,1
+Robertsberg,1,486.16,0
+Port Zachary,1,1057.35,0
+Port Wendyland,3,1327.74,0
+South Lisaborough,1,1252.40,1
+Diamondville,1,24.57,0
+East Tinatown,1,108.08,0
+Frankfort,1,42.55,0
+Port Stephanietown,1,167.84,1
+Port Brian,3,2671.60,0
+Miabury,5,272.75,0
+Valenzuelaview,1,68.78,0
+Harringtonmouth,3,192.63,0
+Shannonton,4,760.53,0
+Parkerborough,4,1497.48,0
+Lake Aaronmouth,4,325.45,0
+Robinsonborough,1,81.81,1
+Barkerberg,1,179.10,0
+Castilloborough,3,987.69,0
+Lake Williamchester,1,410.79,1
+Patriciabury,1,88.91,0
+Michaelfurt,2,158.53,2
+Grayside,1,5868.66,1
+Foleymouth,1,195.83,0
+Fletcherhaven,2,385.43,2
+Hensleyville,1,746.12,0
+West Jacobville,2,41.83,0
+North Allen,1,0.01,1
+Robertsburgh,1,485.67,0
+South Jimmy,2,915.14,0
+Andrewmouth,1,174.09,0
+Newtonfurt,4,6248.33,0
+Brianfort,2,1029.39,2
+Jonesstad,2,154.06,0
+Walkermouth,1,11.84,0
+Valerieshire,1,995.65,0
+Jonesshire,3,90.33,0
+Jonesfurt,2,1098.58,0
+Martinezview,5,401.76,0
+Port Christopherstad,1,128.59,0
+Lesliehaven,1,173.95,0
+Port Katherinechester,1,9.39,0
+Amandatown,1,305.09,0
+West Kristin,1,695.85,0
+Manningville,1,4671.16,0
+Port Oscarbury,1,265.23,0
+Lake Tammymouth,1,144.18,0
+Delgadobury,1,243.80,0
+Foxbury,1,17.97,0
+New Melanieview,1,351.93,0
+East Troyton,1,4253.75,0
+Port David,8,14147.72,4
+Hernandezstad,2,882.69,1
+Sandraport,4,1254.54,0
+Morenochester,3,4984.47,0
+Port Bethany,2,185.68,0
+North Marcus,2,999.04,0
+West Stephen,1,364.86,1
+Dianaport,3,1203.37,0
+Port Carrie,1,61.75,1
+Autumnbury,1,4711.03,0
+Kelleyport,1,227.91,0
+Ethanstad,1,99.63,0
+West Anthonyton,1,374.79,1
+Bethport,1,32.67,0
+North Catherine,2,26.81,0
+Gonzalezville,1,218.37,0
+South Allenmouth,1,2850.31,0
+New Amandatown,4,241.53,0
+Susanborough,1,67.44,1
+West Paula,2,1049.02,0
+Port Kelly,3,6321.47,0
+South Andrewhaven,1,355.74,0
+New Susanchester,1,98.94,0
+West Brianfort,1,452.63,0
+Kochberg,2,167.58,0
+Port Kimberly,1,237.47,0
+Debramouth,2,504.45,0
+North Aliciaport,2,4914.52,0
+South Scott,2,579.71,1
+Joannview,2,60.73,0
+Davismouth,6,145.14,0
+Lake Michaelberg,1,50.43,0
+Christopherport,7,2064.49,0
+Conradport,3,755.85,0
+South Keithville,1,39.40,0
+Greenview,1,315.19,0
+South Steven,1,326.35,0
+Kristinland,1,406.90,0
+South Patrickland,1,226.08,0
+Andersonview,1,85.99,0
+East Stephanieville,2,188.59,0
+Ayersborough,5,169.71,0
+Gainesmouth,1,42.54,0
+Julieville,1,2188.48,0
+West Michaelchester,2,1138.13,0
+West Haleyville,1,82.66,0
+West Kathy,1,388.91,0
+Jessicamouth,7,2634.17,0
+South John,7,2267.56,2
+South Robertside,1,101.46,1
+West Joanville,1,58.64,0
+Brittanyland,3,615.63,0
+Lake Timothy,4,2288.46,0
+Markfurt,5,1332.43,0
+South Wesleyville,8,3015.10,0
+Russellstad,4,857.16,0
+Clayhaven,1,1150.21,0
+Oneillland,1,437.04,0
+West Katherine,1,50.10,0
+New Lindabury,2,782.42,0
+Tarashire,5,462.33,0
+Judithmouth,1,73.69,1
+Port Jamie,1,353.08,0
+Kirktown,1,13.22,0
+Powellview,2,138.22,0
+South Jeremybury,1,181.80,1
+Jenniferborough,4,372.27,0
+South Stevenland,5,2395.64,0
+Lopezburgh,2,1356.29,0
+Lake Alexanderview,3,320.50,0
+East Lisaland,4,1245.76,0
+East Stephenhaven,1,8103.35,1
+South Paula,1,60.41,1
+Victorfort,1,429.07,0
+Port Amy,6,12956.54,1
+New Luis,1,18.77,0
+North Amandachester,1,111.05,0
+South Bryan,2,409.92,0
+Mendozatown,2,819.35,0
+South Nicholas,2,3033.97,0
+New Crystal,5,583.06,0
+New Kellie,1,7795.70,1
+Lake Felicia,1,1842.07,0
+West Emilyshire,2,697.72,0
+Walshmouth,4,66.59,0
+Billhaven,1,162.05,0
+Martinezburgh,1,34.54,0
+Lake Roger,2,475.61,0
+Kathleenview,1,419.05,0
+Reyesberg,4,213.19,0
+South Jessicaside,1,74.40,1
+New Karenmouth,1,96.83,0
+South Richard,1,116.77,0
+New Deannafurt,1,51.67,0
+Lake Andrewside,1,815.58,0
+Brianchester,2,471.67,1
+Masonborough,2,831.49,0
+South Joyfort,1,41.65,0
+Davidport,1,76.82,1
+Lake Amandaville,1,422.08,0
+Peterhaven,3,868.72,0
+Dorothyfurt,1,99.25,0
+New Glenda,1,48.89,1
+Port Andrewborough,1,122.86,0
+New Kara,2,128.91,0
+Port Wesleyshire,2,204.27,2
+Mathewsshire,3,241.53,0
+Port Ashley,1,48.56,0
+Floresbury,3,951.63,0
+Nealhaven,2,178.87,0
+Cameronview,1,99.01,0
+Port Thomasburgh,2,110.27,0
+Clarkhaven,1,179.89,1
+West Elizabethmouth,1,2244.81,0
+New Ryanville,1,283.24,0
+Riceport,1,84.03,0
+Doyleberg,1,2713.94,0
+Simpsonchester,1,180.98,1
+Aprilland,3,12039.27,2
+Brianmouth,1,27.01,0
+North Joshuaberg,1,74.30,1
+Richardport,3,157.45,0
+Port Elizabeth,7,1921.50,0
+Thomastown,5,13742.82,3
+Cainton,3,546.21,0
+Stephensville,2,652.19,0
+Port Jeffreymouth,1,4.63,0
+Cartermouth,1,89.77,0
+Huntertown,1,476.10,0
+Johnsonview,7,2110.86,1
+Shannonfort,2,923.48,0
+New Elizabethmouth,4,1001.53,0
+New Jerrymouth,1,6728.23,1
+East Timothy,1,886.87,0
+Lake Barbarahaven,1,339.56,0
+East Chris,2,358.00,0
+West Michael,9,10581.09,1
+Guzmanton,1,4184.61,1
+Jessicaland,5,423.69,0
+Elizabethshire,7,2122.78,0
+Wendyshire,2,165.11,0
+Kennethville,1,49.89,1
+Billyfort,2,159.80,0
+Angelachester,1,2628.20,0
+Annton,2,42.27,0
+Port Chad,1,272.78,0
+South Melvin,1,412.41,0
+Mirandatown,1,9.02,1
+Wagnerbury,1,52.71,1
+Port Keith,2,557.96,0
+New Michael,6,2727.92,0
+Martinhaven,1,151.74,0
+Warrenberg,1,433.93,0
+Patrickhaven,1,1311.45,0
+South Paulport,4,372.11,0
+Port Jill,6,482.93,0
+Allenmouth,1,179.37,1
+Russellview,2,851.22,0
+Tammyview,1,104.47,0
+Sharonfort,1,438.07,0
+Hoside,1,452.94,0
+North Denisefort,1,2988.64,0
+Petershaven,2,825.76,0
+Lake April,1,12.72,1
+Everettside,1,75.21,0
+Williamton,1,1410.66,1
+Chadburgh,7,2087.96,0
+West Bradley,1,72.12,1
+Hollyberg,2,197.57,0
+East Karamouth,2,752.93,0
+West Abigailland,2,28.15,0
+Paultown,3,1276.38,0
+West Travis,1,379.75,0
+Brockville,2,78.92,0
+Jeffreyview,1,187.38,0
+Petersborough,3,1369.24,0
+Annachester,1,140.59,0
+Lake Kimberlystad,1,314.84,0
+Lake Stevenfurt,6,27938.82,1
+South Devon,3,18265.62,2
+Leahshire,1,85.45,0
+Boyerside,1,21.37,1
+Ashleyville,2,1179.21,0
+Willieview,1,51.36,1
+Brianbury,4,1020.22,0
+Brianhaven,5,1322.89,0
+Ruizland,7,1738.04,0
+Grayborough,2,489.60,0
+Richville,2,186.39,0
+Hornview,1,28.18,0
+West Stephanieberg,3,689.12,0
+Port Tracey,1,74.57,0
+New Darryl,7,17929.34,0
+Hornborough,5,2079.90,0
+Jefferyfurt,1,381.81,0
+Caldwellmouth,1,2187.01,0
+South Michael,18,8302.36,1
+Matthewhaven,6,2295.66,0
+Stephanieview,4,3803.95,0
+Annaport,1,61.59,0
+North Williammouth,1,79.30,0
+North Jeremytown,1,38.44,0
+Jacobland,2,33.84,0
+Kellyshire,1,112.71,0
+Jamesshire,1,288.52,0
+Hendersonmouth,1,165.72,0
+Jacksonborough,1,439.78,0
+Gregoryside,1,25.20,1
+South Margaretmouth,1,66.44,0
+North Ian,2,514.76,0
+Garciaport,2,2529.08,1
+New Katherineborough,1,285.09,0
+Welchstad,1,29.87,1
+West Kim,1,54.82,0
+East Hector,3,396.41,1
+West Emilymouth,2,761.51,0
+North Sandrabury,1,1089.13,0
+Luischester,2,263.93,2
+Haleburgh,2,171.70,2
+West Allison,1,404.44,0
+South Marvin,1,88.36,0
+Matthewtown,1,54.35,0
+Parkermouth,1,503.10,0
+South Maryfurt,1,237.07,0
+East Marcus,1,277.20,0
+Port Jenniferborough,2,3669.35,0
+Dylanton,1,256.11,0
+Kristastad,3,792.56,0
+East Jenna,1,125.98,0
+West Nicholas,2,508.29,0
+North Angela,3,1271.81,0
+Brandonchester,1,394.40,0
+Dicksonshire,3,2849.03,0
+Zacharyton,4,102.13,0
+South Ashley,2,306.35,0
+Tanyastad,1,526.54,0
+New Kevinshire,1,386.91,1
+Carsonberg,1,73.34,0
+Kimland,3,693.60,0
+Port Alexander,1,5105.24,1
+Reyesstad,3,3335.11,0
+Robertview,1,75.41,0
+Montgomerybury,1,3103.15,1
+Kylefurt,1,36.63,0
+Markshire,5,302.54,0
+Jakefurt,1,409.72,0
+Ashleyborough,1,347.76,0
+Wattsview,2,685.00,0
+North Patrickfort,1,298.26,1
+Port Lorifort,1,86.14,1
+Clementsborough,2,335.50,2
+Vanessabury,1,387.78,0
+Nelsonville,1,95.56,0
+Lake Dustinside,2,55.07,0
+West Ann,3,5210.31,0
+Sandersville,1,77.82,0
+Payneville,5,2611.25,0
+Lake Alanmouth,3,1080.45,0
+Lake Josephmouth,1,342.86,1
+Michaelhaven,4,2393.29,0
+North Vickifurt,1,372.29,1
+North Kristi,1,2689.41,0
+Lake Sarahborough,2,5481.99,0
+Lindseyview,5,334.49,0
+Cynthiastad,1,200.67,0
+Brownstad,3,12199.05,2
+Blanchardmouth,1,72.93,0
+Jasonberg,1,22.64,0
+Steventown,3,16353.32,3
+South Rebeccaville,2,229.79,0
+Fordmouth,1,243.58,0
+Bakerfurt,1,124.59,1
+East Annefurt,3,9281.94,0
+New Stevenhaven,1,56.52,0
+Port Christinaland,6,1179.08,0
+Robbinsfurt,3,1044.76,0
+Krystalside,1,169.31,0
+Pottston,1,182.36,0
+Annettestad,1,479.42,0
+South James,6,1052.25,1
+Cynthiabury,1,39.73,0
+East Angela,5,5853.95,0
+Lake Daniellemouth,1,418.58,0
+Alvarezburgh,2,660.01,2
+Port Laurenmouth,1,18.86,1
+Martinezmouth,2,62.94,0
+New Wendy,2,10.36,0
+Tracyport,6,12146.20,1
+Port Russelltown,1,365.97,0
+Alexanderborough,3,279.68,0
+Castroshire,1,456.18,0
+Joseborough,1,7106.26,1
+South Amber,3,1286.95,0
+Longburgh,1,73.61,0
+Lopezmouth,2,365.42,0
+South Thomas,5,705.27,0
+Lake Bobbytown,1,236.15,0
+Port Sarahfort,2,3682.23,0
+Solomonmouth,3,1157.40,0
+West Frankhaven,2,501.72,0
+Patriciaview,2,37.30,0
+Christopherville,1,392.60,0
+Taylorstad,1,941.88,0
+Dennisside,1,2678.39,0
+North Noahfort,1,3366.86,0
+West Sheila,1,2357.45,0
+South David,2,443.45,0
+West Joyce,1,238.98,0
+Abbottburgh,1,352.41,1
+Wolfchester,1,413.91,0
+Donaldshire,2,379.02,0
+Pamelashire,1,558.45,1
+Stephenmouth,1,104.25,0
+Vincentbury,1,63.86,0
+West Dawnmouth,3,215.62,0
+South Sandra,4,1344.37,0
+Lorifort,2,1015.24,0
+West Miranda,2,47.13,0
+Reneeview,4,524.75,0
+South Sharon,1,219.63,0
+Port Kurt,1,2539.48,1
+Lake Melissafort,1,216.82,1
+Lake Stephanietown,2,219.24,0
+South Joanstad,1,77.57,0
+Reginashire,3,917.70,0
+East Adamhaven,2,266.48,0
+New Linda,1,200.50,0
+Lake Tammyport,3,1245.08,0
+Barberberg,2,9205.50,1
+Alyssatown,2,185.30,1
+Lake Tanyaville,1,1613.79,0
+Kellyburgh,1,20.62,0
+Terrychester,1,86.82,1
+West Mercedes,7,8598.63,1
+Goodview,2,696.45,0
+Boydstad,2,844.38,0
+Larsonberg,1,222.35,1
+Goodwinshire,1,5346.24,1
+South Tommy,1,741.75,1
+East Margaretstad,2,544.35,0
+Port Daniel,3,915.81,2
+Deanside,1,131.97,0
+Jodifurt,1,82.04,0
+West Vanessa,2,36.21,0
+Julieberg,5,198.83,0
+Port Crystalburgh,1,13.30,0
+Youngside,2,283.14,0
+Rachelshire,5,102.98,0
+Quinnview,1,296.48,0
+Port Isaiahmouth,1,17.69,0
+Jackieside,1,99.89,0
+Carpenterville,4,268.38,0
+Johnsonborough,1,43.63,0
+Navarroview,2,5850.57,0
+Adkinsfurt,2,207.20,0
+East Tanyamouth,1,3.94,0
+North Thomasport,1,55.85,1
+West Benjamin,1,86.35,0
+Claytonfurt,1,299.25,1
+East Melissabury,3,132.87,0
+West April,1,398.09,0
+North Anthony,4,36259.63,3
+Mcfarlandstad,1,41.14,0
+New Brianberg,1,689.69,0
+Lake Jessicastad,3,1723.15,0
+Lake Kylehaven,1,544.63,0
+South Barbara,1,86.87,0
+Michelleton,2,363.85,0
+Gregorychester,1,176.69,0
+New Ryan,4,11263.95,1
+North Whitney,1,215.68,1
+Lake Mark,3,1453.21,1
+Marthahaven,1,304.05,0
+Port Nicolechester,3,206.94,0
+Port Jacob,1,272.70,0
+Weberberg,6,5299.80,0
+Port Williamville,1,52.63,0
+Zhangmouth,1,246.84,0
+Ashleybury,1,2468.01,1
+Blairmouth,1,3452.02,1
+Rogersborough,1,2013.28,0
+Robertsborough,3,734.73,0
+Willisstad,1,394.41,1
+North Chelseyview,4,242.76,0
+West Patricia,1,2915.11,0
+New Jenna,3,3823.22,0
+Lake Gerald,1,51.95,0
+West Andre,1,131.22,0
+Kleinville,4,245.89,0
+Boothmouth,1,337.92,0
+New Brittany,2,61.21,0
+Carlastad,2,1660.11,0
+New Sarahstad,1,7.67,0
+Juarezburgh,4,8287.50,0
+West Stephaniefort,2,14949.79,2
+South Michaelland,1,166.02,1
+Port Briannatown,1,33.02,0
+South Justinfort,1,143.39,0
+New Jacobmouth,2,976.29,2
+New Sharonton,1,189.08,0
+Davisland,1,125.88,1
+East Sherrifurt,1,495.83,0
+West Alexisside,2,574.33,0
+Paigeview,1,112.29,0
+South Omarport,1,4.19,0
+Vegahaven,2,4896.90,0
+Alexafurt,1,239.61,1
+Connorhaven,4,7609.24,0
+Singletonburgh,1,263.92,0
+Lake Tonyamouth,1,2119.60,0
+North Robert,7,1711.77,0
+New Davidburgh,1,4689.21,0
+West Karina,1,2476.19,0
+Lake Timothybury,6,538.62,0
+South Stacy,2,141.43,2
+South Rhondabury,1,76.28,0
+West Lisa,3,197.67,1
+Johnview,2,466.44,0
+Justinville,1,2297.19,0
+Nashbury,1,1443.55,0
+West Janice,1,1017.76,0
+Kathleenbury,3,236.67,0
+East Jacquelineshire,2,143.49,0
+Bakermouth,3,742.47,0
+Briggsborough,1,85.01,0
+West Stacey,3,52.04,0
+East Mariafurt,2,4873.94,0
+"Gonzalesstad, Ukraine",1,216.68,1
+Sophiastad,1,219.87,0
+East Brittany,4,4818.94,0
+Romeroberg,2,297.84,0
+North Bradleyburgh,1,153.78,0
+South Coreymouth,1,1926.72,0
+Ericport,3,584.50,0
+Lake Jasonmouth,1,454.42,0
+South Edwardstad,1,59.32,0
+Whitetown,6,7728.42,0
+Port Christopherport,1,2268.69,0
+Bryantfort,4,7188.78,0
+East Andreafurt,1,60.48,0
+Newtonview,2,160.09,0
+West Matthewton,1,244.85,0
+Hollyfort,2,791.40,0
+New Timothyshire,1,91.99,1
+Mitchellstad,2,192.89,0
+Lake Melissa,1,352.22,0
+Maxwellmouth,3,1051.02,0
+Port Paulmouth,1,184.33,0
+Yolandafurt,1,31.78,0
+Hahnfurt,1,450.86,0
+Port Jenniferfort,2,1110.15,0
+Simmonstown,1,1639.31,0
+West Jerry,1,1796.40,1
+West Michelle,1,111.66,1
+New Tommy,1,227.49,0
+Lindseyfurt,2,21.68,0
+West Amanda,1,988.25,0
+Grayland,2,1872.11,0
+Bucktown,1,45.57,0
+Thompsonmouth,1,176.85,0
+New Rebeccashire,1,1603.44,0
+Brandonborough,1,357.93,0
+Adamshaven,3,1281.37,0
+Ronaldshire,1,210.87,0
+New Richard,2,78.53,0
+Matthewshire,1,220.45,0
+East Margaret,3,876.94,0
+Orrmouth,1,314.99,1
+Miguelton,1,272.38,1
+Lake Amanda,2,415.87,1
+East Christopher,4,1430.93,2
+East Charles,2,618.81,2
+South Jon,1,283.72,0
+South Donaldmouth,5,517.17,0
+East Danielside,3,214.37,3
+Joseside,3,224.37,0
+East Elizabethland,1,7664.14,1
+Lake Chasestad,3,3351.27,0
+Lake Joshuamouth,1,2232.41,1
+Staffordmouth,1,4650.41,0
+West Bethany,1,66.28,0
+Williamston,4,769.76,0
+Greerstad,1,672.13,0
+East Cynthiaberg,2,535.61,0
+Lake Andrewview,4,1582.86,0
+Burkemouth,1,211.79,0
+North Candiceshire,2,5534.97,0
+Jamiechester,4,12063.38,0
+Harristown,1,8003.33,1
+Jodibury,4,87.00,0
+Stoneborough,2,124.13,0
+North Kathryn,1,313.01,0
+Goodmanmouth,4,22956.64,4
+New Kristin,3,1215.81,0
+Lake Jamieland,2,48.82,0
+New Nathan,1,340.99,0
+Port Spencertown,1,494.63,0
+Lake Samanthachester,1,400.76,1
+Henrytown,2,42.51,0
+New Johnmouth,2,399.30,0
+New Terri,6,271.80,0
+New Tylershire,2,1953.07,0
+South William,4,997.28,0
+East Victoria,1,4171.08,0
+Derekhaven,1,149.52,0
+New Amanda,2,2419.07,0
+New Jenny,2,540.95,0
+Lake Brandi,1,2399.58,0
+Yorkville,1,13.30,0
+Lake Jeremiah,1,12.80,0
+Brianshire,1,1121.52,0
+Lake Jamesburgh,1,33.24,1
+West Gregoryhaven,1,402.75,0
+Charleston,2,322.03,0
+Bridgetside,3,462.61,0
+South Ronaldberg,2,478.02,0
+East Franklin,1,320.77,0
+Jonesport,2,44.61,0
+West Linda,2,568.92,2
+Port James,2,603.53,0
+North Jenniferstad,1,369.70,0
+Toddfort,3,2046.68,0
+Montgomeryport,1,349.69,0
+South Susan,2,85.44,1
+Stephaniefort,1,221.06,0
+New Autumn,2,3898.91,2
+East Christinamouth,1,69.92,0
+Jamieburgh,3,69.52,1
+North Maryport,1,279.04,0
+Chrismouth,1,0.01,0
+North Jean,2,624.54,0
+North Jamieborough,1,47.52,0
+West Larry,5,2839.84,0
+Rivaston,1,272.81,0
+Port Teresaport,1,93.31,0
+North Tara,1,53.67,0
+North Crystalville,1,418.81,0
+West Caitlinhaven,2,402.49,0
+New Jeremyshire,3,21966.08,3
+Port Amymouth,4,271.22,0
+Lake Stephanie,2,823.57,0
+East Courtney,1,629.25,0
+East Abigailfurt,3,2885.04,0
+North Sherryhaven,2,161.76,0
+Seanmouth,1,439.74,0
+Mariachester,1,61.82,0
+North Melanie,1,64.65,0
+South Jessicaland,1,0.01,1
+East Marthaborough,5,269.97,0
+Port Joelland,1,149.19,0
+Derrickchester,2,89.72,0
+Lake David,7,4495.32,1
+Craigburgh,2,1709.61,2
+Lake Katiechester,1,18.59,0
+New Darrell,1,1153.47,0
+South Scottborough,1,191.85,0
+Tylerborough,1,1087.76,0
+New Lindafort,2,6308.93,0
+New Vanessaland,4,3245.23,0
+Hernandezborough,2,417.84,0
+Hernandezmouth,1,332.27,0
+Pattersonview,1,0.01,0
+Jonmouth,1,205.86,0
+New Cheryl,1,57.16,0
+New Melvinmouth,3,677.31,0
+East Brandon,1,376.97,0
+West Meganchester,3,560.38,0
+East Sharonport,8,644.61,0
+Rayland,3,1117.86,0
+Joshuatown,1,495.11,0
+Beckerview,1,993.45,0
+Patrickshire,3,229.10,0
+Sarahfort,1,22.59,1
+Ericastad,3,14885.66,1
+South Vickihaven,1,1991.14,0
+Parkertown,1,16.42,1
+Milesstad,3,1293.33,0
+Edwardsport,1,80.84,0
+Boyerton,1,60.15,1
+Tonyamouth,1,113.49,0
+New Heather,1,72.48,0
+Thomasside,1,94.14,1
+Masonberg,1,78.41,0
+New Markland,1,119.18,0
+Howardfurt,1,20.03,0
+East Debra,5,180.27,0
+North Paulmouth,1,369.47,0
+West Nicholasshire,1,88.59,1
+Port Allison,1,330.11,0
+Cooperchester,1,3.49,0
+Huntstad,3,1307.62,0
+Lake Steven,2,395.30,0
+Rhodesmouth,3,382.24,0
+South Jillstad,1,31.18,0
+West Davidton,1,308.33,0
+Cruzport,3,2592.29,0
+Richardfort,3,1103.82,0
+East Cynthiamouth,1,167.69,0
+East Jill,3,4731.95,0
+Josephfort,1,151.22,0
+Myersside,4,124.92,0
+Port Gregory,1,79.50,0
+New Lorettamouth,1,7037.07,1
+Washingtonborough,1,87.39,1
+Alanville,1,372.67,1
+Lake Michaelshire,1,65.58,0
+West Bruceshire,1,354.33,1
+South Jackieview,1,3715.80,0
+Kristyside,1,0.01,1
+North Carla,1,2484.81,0
+West Randy,3,279.67,0
+Curtisport,1,44.64,0
+Deniseview,2,695.40,0
+South Samanthabury,2,794.62,0
+West Destiny,5,3162.34,1
+West Patrickhaven,1,91.19,0
+Julianchester,2,4572.51,0
+Williamsonside,1,326.88,1
+New Luke,1,501.29,0
+Port Jasonborough,1,419.72,0
+Port Holly,1,319.16,0
+East Timothyview,1,1774.98,0
+Phillipmouth,3,3463.55,0
+Warrenton,1,446.46,0
+New Jill,2,5370.94,2
+Robinsonview,1,1296.47,0
+Edwardsmouth,7,2929.65,0
+Edwintown,6,14375.49,0
+Victoriaborough,1,704.69,0
+New Sandra,2,485.48,1
+East Natalieburgh,1,109.24,0
+Melissaland,3,133.59,0
+Brettton,3,7761.24,0
+Castillomouth,1,322.76,0
+Sweeneyville,3,25.00,0
+Port Melissamouth,1,294.91,1
+Port Brianhaven,1,411.18,1
+Danaburgh,1,177.55,0
+Austinberg,1,37.93,1
+Carlaberg,1,55.24,0
+New Angel,1,1971.91,1
+West Jacobview,1,422.91,0
+Orozcoshire,2,743.95,1
+New Annaview,10,886.57,0
+Karenmouth,1,6.05,1
+Warnerfurt,1,270.48,0
+East Lori,4,346.12,0
+West Teresahaven,3,672.48,0
+Matthewside,1,40.48,0
+Earlbury,1,2.84,0
+"Port Lawrenceport, Ukraine",1,244.02,1
+Lake Ronnieland,1,351.04,0
+Franklinhaven,1,70.50,0
+New Brittney,3,194.78,0
+Elizabethville,1,217.07,1
+South Jimmyfurt,2,99.59,0
+Elizabethhaven,3,1883.77,0
+West Raymond,1,359.79,0
+West Scotttown,1,35.29,1
+New Donna,3,96.61,0
+Jakestad,6,164.06,0
+Wiseburgh,2,60.79,0
+Joemouth,1,52.22,1
+Mcdonaldberg,1,266.38,0
+West Sharonbury,2,12950.20,2
+Bestbury,1,69.24,0
+Michaelburgh,2,2117.62,1
+South Samanthafort,5,2134.34,0
+Summerland,1,148.59,0
+Carrillotown,1,308.51,1
+New Haleybury,1,316.31,0
+Jonesland,1,478.47,0
+Wilsonbury,5,9970.70,0
+East Phillip,2,524.00,2
+Hillberg,1,30.94,0
+South Alexis,1,93.45,0
+North Elizabethberg,1,1312.66,1
+Leonardstad,1,218.25,0
+Weaverville,3,149.14,0
+Hurleyside,1,302.38,0
+Cookebury,3,223.58,0
+Kristinaburgh,2,8805.51,1
+New Wendyville,5,194.10,0
+Chavezview,1,276.72,0
+Hickmanside,1,120.60,0
+North Stephaniefurt,1,87.21,0
+West Ambermouth,1,29.81,1
+Brownfurt,17,44769.02,5
+Victorfurt,1,90.33,0
+Allenside,2,191.60,0
+Davisburgh,1,539.63,0
+Davidside,3,4189.84,0
+Maxwellborough,1,142.33,0
+North Thomas,1,96.24,0
+Smithtown,1,425.20,0
+Westside,1,1122.48,0
+Port Adam,1,14.78,0
+Port Christinafort,1,57.77,0
+Shelbyside,1,53.19,0
+New Wayneshire,1,33.91,1
+West Antonio,8,178.32,0
+"Normanville, Romania",1,20.75,1
+North Alexstad,2,412.48,0
+South Michelle,1,1599.81,0
+Vancetown,2,272.76,0
+New Susanborough,7,209.96,0
+Joshuaview,3,361.89,1
+North Sherryborough,2,169.83,0
+East Joantown,1,22.72,0
+Coletown,1,102.23,0
+Larryside,1,3969.96,0
+East Paula,2,633.70,0
+Timothyland,1,152.35,0
+Lake Kathleenville,1,288.90,0
+Murrayview,1,42.27,1
+Henrymouth,1,128.96,0
+Taylorshire,2,106.52,0
+East Tara,3,211.68,1
+North Travisbury,2,2892.78,0
+Chavezberg,1,355.87,0
+Lauraberg,1,219.51,1
+Cookbury,1,69.69,0
+Lake Zacharyfurt,2,162.86,0
+Joannport,1,1053.67,1
+North Sheilaland,1,7301.98,1
+Brianburgh,2,105.42,0
+New Debbie,1,0.01,0
+Bradyside,1,3607.53,1
+North Mary,2,95.09,0
+Lake Daniel,1,6805.86,1
+Lake Jonathan,8,7877.77,1
+Martinezberg,1,54.22,0
+North Autumn,2,169.10,0
+Andresmouth,2,20252.72,2
+Harrisonfort,1,374.11,0
+New Pedro,1,400.23,0
+South Julie,13,3975.44,0
+Drewbury,1,745.85,0
+Cruzside,2,1041.34,0
+Robertsonberg,1,76.72,1
+East Biancahaven,1,51.22,0
+West Graceburgh,1,59.32,0
+Lake Rayville,1,118.81,0
+Washingtonfort,4,666.00,0
+South Vickiburgh,10,535.13,0
+New Christopherchester,3,11430.89,1
+New Kevinfort,4,614.21,0
+Kelseyside,1,18.68,0
+Erikatown,1,281.39,1
+Stanleyburgh,1,66.28,0
+East Troyside,9,3543.70,0
+West Michaelland,1,239.16,1
+South George,2,3235.40,2
+Joshualand,3,1743.49,0
+Williamborough,1,4402.32,0
+Ericksonton,1,16.77,0
+Robertshaven,3,511.20,0
+Franklinstad,1,37.13,0
+Brendafurt,3,305.14,0
+Barneschester,2,39.29,0
+Hayesborough,1,67.31,0
+Rogersside,1,3766.68,1
+Port Steveland,4,4867.62,0
+Port Laurie,2,32.86,0
+West Seanchester,1,107.59,0
+South Charlesstad,2,421.67,0
+Natalieberg,3,3637.62,0
+Jameshaven,2,330.99,0
+West Davidberg,2,1276.47,1
+North Kenneth,1,59.92,1
+Christianmouth,1,2868.81,0
+Mckenziechester,3,261.77,0
+Port Wendy,2,956.23,0
+Hannaberg,3,235.74,0
+Lake Lauraside,1,52.15,0
+South Connie,5,4664.80,0
+Port Ninaview,3,134.76,3
+New Louis,1,126.80,0
+West Jillshire,1,445.37,0
+South Darrellberg,5,125.36,0
+North Travis,3,7314.55,0
+Lake Jeffrey,6,2967.85,0
+New Jacob,2,496.98,0
+Williammouth,1,362.49,0
+Wernerborough,1,1158.50,0
+Annaview,2,43.96,0
+Johnsonton,1,189.94,0
+West Tina,1,79.27,0
+North Daniel,5,1460.77,0
+Barkerside,1,35.78,1
+Port Benjaminfurt,1,48.63,0
+North Logan,1,571.56,0
+Davidstad,2,194.17,0
+South Jenniferfort,2,132.20,0
+Brookstown,4,959.15,4
+Floresfort,1,382.88,0
+Gibbsview,2,161.92,0
+North Patricia,2,807.16,0
+Port Scott,1,465.39,0
+Lake Kristiland,2,8.81,0
+Lake Donaldville,3,983.14,0
+South Johnfort,1,455.39,0
+Waltonberg,2,2384.35,1
+Lake Kathleentown,1,277.02,0
+North Lauraside,1,1455.41,1
+Bridgesborough,1,23.51,0
+Stoutstad,1,2285.00,0
+West Steven,3,8498.11,0
+Ashleeborough,1,440.70,0
+Devonfort,1,182.76,0
+Lake Lindsayport,1,97.37,0
+Transhire,2,459.52,0
+Lake Jaredchester,3,25984.55,3
+Michellefort,5,21355.29,0
+Anthonyfurt,1,191.23,0
+Raymondtown,1,428.44,0
+Port Justin,2,466.90,0
+South Williamton,4,1115.69,0
+Silvafurt,5,244.01,0
+New Christopherburgh,1,2929.97,0
+Brownfort,4,369.54,1
+Marksmouth,1,2720.38,0
+Melanieborough,2,56.14,0
+East Stephanieshire,3,1249.62,0
+Port Robertmouth,1,378.60,0
+Port Jeffery,1,76.67,0
+Kaitlynborough,1,211.04,0
+East Danielle,1,82.72,0
+Glenmouth,1,878.97,0
+Lake Veronica,1,458.03,0
+Gonzalezview,2,290.88,1
+West Erika,1,81.09,0
+Roberttown,1,2082.91,0
+Fishertown,4,317.49,0
+West Daniel,1,92.41,0
+Mathewsfurt,1,64.43,0
+Kerrborough,1,472.76,0
+Lake Donald,2,81.58,0
+West Alexis,1,51.37,0
+Christopherstad,2,515.34,0
+Evanfurt,1,38.82,0
+Danielmouth,1,13.55,0
+New Charlesville,1,3707.02,0
+Smithview,2,537.33,0
+Smithstad,6,297.72,0
+West Isabel,1,67.47,0
+South Paul,2,2436.50,0
+New Andrewshire,1,303.11,0
+Spearsville,6,1585.52,0
+Wolfeton,1,551.78,0
+New Jeromeview,1,47.48,0
+Fisherport,4,994.47,0
+North Larry,1,1909.13,1
+Randallside,1,431.74,0
+East Manuelville,3,800.27,0
+Williamsstad,1,2664.44,1
+East Davidton,4,1535.64,0
+Johnsonland,1,249.97,0
+Donnachester,1,1934.25,0
+Delacruzport,1,292.23,0
+New Jordanfurt,1,34.15,0
+North Kristimouth,5,1106.69,0
+Eddiefort,1,390.47,1
+East Hayleyport,1,323.69,1
+Lake William,4,811.05,3
+West Caitlin,1,60.13,0
+South Justintown,1,1103.37,0
+South Jeffreyside,2,145.26,2
+South Johnbury,1,51.70,0
+Wayneport,1,270.02,1
+West Keith,1,409.04,0
+Andreamouth,1,50.92,0
+West Brianside,1,2632.07,0
+Port Krista,2,99.76,0
+East Rhonda,3,2915.85,0
+North Edwardmouth,1,95.70,0
+South Elizabethfort,2,112.80,0
+Robertchester,2,513.53,0
+West Beth,1,99.53,0
+North Marcusfort,2,712.61,0
+New Hannahmouth,2,114.22,0
+South Sonya,1,439.19,1
+"Dickersonmouth, Russia",1,308.16,1
+Debbiestad,3,733.30,0
+Lake Louis,1,400.91,0
+Amberhaven,3,1150.26,0
+Flemingfort,1,10655.79,1
+Morrisshire,6,187.03,0
+New Nicholasland,1,495.23,0
+South Teresa,2,2656.82,0
+Nicholeton,2,64.32,0
+South Leonchester,2,153.49,0
+New Brittneyport,1,72.70,0
+Fisherburgh,2,43.88,0
+Ellischester,1,328.20,0
+East Kari,1,1977.74,0
+Simpsonfurt,1,2651.90,0
+South Earlchester,5,1448.49,0
+East Rodneyfort,1,8447.78,1
+New Jeffery,1,282.05,0
+North Ricardostad,3,295.04,3
+Grantshire,1,56.17,0
+Jasonborough,1,82.02,0
+Lake Alexandermouth,1,255.32,0
+Mcmahonville,1,562.54,1
+West Jacob,1,0.01,0
+North Ann,1,59.16,0
+Lake Danielberg,1,149.34,1
+West Timothyberg,2,52.48,0
+Tracyton,1,265.05,0
+Saraville,1,108.70,0
+New Kelly,2,1055.46,1
+Carlview,1,53.70,1
+East Barbaramouth,1,218.63,1
+Lake Ashleyton,1,1275.60,0
+New Andrewmouth,1,73.70,1
+Tiffanyfurt,1,364.82,0
+Hardybury,3,6576.32,0
+Michaelberg,2,694.62,1
+Alexanderbury,1,62.88,1
+Maciaston,2,2322.79,0
+West Allisonfurt,2,247.33,0
+Chapmanmouth,2,666.08,0
+Duffyville,1,345.16,0
+Jameschester,1,1199.80,0
+East Claudiaton,1,437.80,1
+West Stephanieport,1,330.80,0
+Tinaburgh,1,215.91,0
+Randyfort,1,8.63,0
+Fisherbury,1,386.86,0
+Peggybury,2,448.13,0
+Rodriguezview,1,192.43,0
+Steveshire,2,594.02,0
+New Jasonland,1,62.83,0
+Townsendfort,2,67.96,0
+North Erika,7,370.94,1
+East Mathew,1,2853.81,0
+Davidbury,2,16370.54,2
+Conleyshire,2,187.09,0
+East Davidville,1,1940.41,0
+South Pamela,3,9937.46,1
+East Audrey,1,97.94,0
+North Christybury,1,1134.38,0
+Port Austinport,1,407.31,0
+Christophermouth,3,3699.24,0
+New Candice,1,421.76,0
+West Cherylhaven,1,489.22,0
+Kennedyville,1,477.51,0
+Port Jocelyn,2,140.61,0
+Williamsburgh,1,112.89,0
+New Robertburgh,1,400.10,0
+Teresaside,2,5171.20,0
+Hardinside,1,409.66,1
+Coryville,1,48.99,0
+East Jonathan,1,70.87,0
+New Douglas,1,94.60,1
+Ryanton,3,592.83,1
+Billymouth,1,267.92,0
+New George,2,1334.50,0
+East Dennisland,1,45.10,0
+North Kelly,1,0.01,1
+Port Shannon,1,231.92,0
+Wilsonmouth,6,1512.20,0
+Jonesview,4,2410.54,0
+Port Heatherhaven,2,60.28,0
+Port Melissa,1,37.54,0
+Lake Sonia,1,195.62,0
+"Port Bryanstad, China",1,272.33,1
+Bakerberg,1,179.89,1
+Port Michaelchester,1,1852.16,1
+New Gary,2,78.16,0
+Lisafurt,2,21555.02,2
+Lake Mackenziehaven,2,903.66,0
+Port Tracyview,3,839.75,0
+Bradleyton,1,312.88,0
+Romerochester,2,122.63,0
+Port Davidview,1,1972.88,0
+Kelleymouth,1,374.58,1
+Vincentshire,4,237.55,0
+Andersonstad,1,14.01,1
+New Jameschester,2,81.58,0
+West Dan,4,1272.53,0
+Fullerton,1,3136.18,1
+Lake Teresa,1,394.35,0
+West Emily,1,282.09,0
+Lindamouth,1,40.40,1
+Howellton,1,182.20,0
+East Bryan,1,107.04,0
+West Savannah,1,268.39,0
+West Terrychester,3,352.66,0
+Littlebury,1,102.78,0
+Port Claytonborough,1,54.39,0
+Eddieville,1,248.38,0
+Amberstad,6,3976.45,0
+Jimmyfort,1,183.69,0
+Mooreburgh,1,83.70,0
+Carolborough,1,404.89,1
+Myersborough,1,69.11,0
+Taylorville,5,8227.90,0
+North Markton,1,372.81,0
+Boyerbury,2,162.69,0
+West Robertomouth,9,2155.12,0
+East Molly,5,1178.17,0
+Samanthaview,1,48.80,0
+Debbiefort,1,67.29,0
+West Russell,1,400.96,0
+Gutierrezside,3,1150.85,0
+Turnerport,4,83.01,1
+West Gabriella,2,154.98,0
+Lindseyborough,1,2085.42,1
+East Alexander,2,3826.24,0
+Warnerton,1,94.22,0
+Toddfurt,1,48.07,1
+Gonzalesmouth,2,357.48,0
+Chrisview,3,206.31,0
+Victoriastad,1,455.99,0
+Morrisstad,1,6481.63,1
+Medinaport,1,102.80,0
+Jamiehaven,2,299.87,0
+South Morganstad,1,82.63,1
+Danielhaven,4,1340.23,2
+Lake Mary,1,307.39,0
+West Patrickstad,1,66.12,0
+Lake Sherritown,1,46.59,0
+East James,4,393.44,0
+Tammyport,1,287.30,1
+New Sonyaton,2,47.52,0
+East Elizabeth,2,2753.13,0
+Grantbury,1,86.71,0
+Lake Andrea,1,283.93,1
+Maxwellview,1,445.26,0
+Arthurberg,3,288.36,0
+"Higginschester, India",1,14.89,1
+East Stacey,1,47.43,0
+Hamiltonfurt,3,1219.49,1
+West Edward,1,110.52,0
+Lake Michellefort,4,1023.64,0
+Geraldview,3,2788.73,0
+New Davidhaven,3,224.78,0
+Johnside,1,262.01,0
+South Jeffrey,1,7250.58,1
+East Sarahberg,1,100.23,0
+Jenniferfurt,1,34.23,0
+South Christinaside,2,958.44,0
+"East Craigside, China",1,2309.69,1
+Thompsonfurt,1,235.76,0
+Mcmillanview,2,302.12,2
+Williamsonfort,2,834.49,0
+Manuelhaven,3,4836.88,2
+Justinberg,4,797.47,0
+Pamelaburgh,1,74.72,0
+East Bianca,1,1946.65,0
+Williamsville,1,74.57,0
+North Alexander,1,399.06,0
+Clarkechester,2,146.50,0
+Port Kristabury,1,89.09,0
+Ashleystad,2,363.55,0
+Port Zacharychester,1,2201.76,0
+South Meganmouth,3,763.45,0
+Foxchester,1,176.09,1
+South Bridget,1,84.47,0
+East Hayden,1,56.74,0
+Port Alexanderstad,1,443.35,0
+Port Jessicabury,3,57.97,0
+Reyesburgh,1,357.23,1
+Port Gabrielle,1,5210.59,1
+Rodriguezshire,1,501.99,1
+New Danielshire,1,64.54,1
+Chapmanbury,1,1079.16,0
+Lake Jeffreyville,1,188.09,1
+Samanthahaven,1,440.45,0
+West Melvin,1,180.75,0
+West Tim,6,540.77,0
+Kurtberg,1,258.37,0
+Bethmouth,3,561.61,0
+Port Anna,1,195.39,0
+Justinchester,1,174.99,0
+Kimberlyhaven,3,864.24,0
+Port Janehaven,2,509.51,0
+Floresmouth,1,74.25,0
+West Kevinfort,1,419.74,0
+Arianaview,3,77.84,0
+Tranview,2,4573.48,0
+Browntown,1,7032.18,1
+Fisherfurt,1,23.17,0
+New Alexisstad,1,213.14,0
+Lake Emilyton,3,958.52,0
+Jenniferport,1,19.94,1
+Murrayport,2,4473.03,2
+Villegasland,1,217.27,1
+Lake Markstad,1,375.19,0
+Loriborough,1,0.01,1
+Lake Coreyfurt,2,508.31,0
+Burnsside,1,289.48,0
+Toddtown,1,235.68,0
+West Monicaland,1,8.43,0
+Michaelville,4,5070.48,0
+Joshuaburgh,1,398.91,0
+Karenside,6,437.15,1
+Greenbury,1,2053.00,0
+Nicolefort,3,67.37,0
+Teresamouth,8,1954.34,0
+New Joanne,1,226.38,0
+Schroederland,1,505.52,0
+Nicholasport,1,585.69,1
+Lake Matthewbury,1,31.16,0
+Aliciatown,2,791.46,0
+Port Christina,1,613.49,1
+West Sharonchester,1,17.58,0
+East Thomaston,2,1508.77,0
+Starkbury,1,148.50,0
+New Jessicaport,1,170.84,0
+Kingmouth,2,35.73,0
+Port Jacobberg,1,124.36,0
+North Margaretbury,2,4895.10,0
+New Sethside,1,7339.24,1
+Port Kaitlyn,1,94.83,0
+Thompsonton,1,48.07,0
+Lyonsport,1,271.64,0
+Scottborough,1,51.69,0
+Whiteport,3,345.07,0
+Yangchester,1,104.65,0
+Wuburgh,1,76.03,0
+Rogerschester,1,55.16,0
+South Amytown,2,211.88,0
+New Kevin,8,7670.53,5
+Lake Christopher,1,72.77,0
+Nancyton,5,1356.71,0
+West Sharon,1,95.05,0
+North Williamside,1,66.26,1
+Robinsonland,2,340.94,0
+Conleyburgh,3,2731.71,0
+East Hailey,2,221.77,0
+Georgeburgh,1,2527.66,1
+Weissland,2,194.68,0
+Lake Loriland,2,2729.64,2
+Port Christopherbury,1,23.05,1
+East Brianchester,6,1717.07,0
+Laurafurt,1,210.53,1
+Johnsontown,5,4928.29,1
+Johnsonmouth,6,10266.47,1
+Johnborough,3,5175.91,2
+East Nicholasshire,2,2965.68,0
+North Isaiah,1,20.42,0
+Lake Sabrina,2,2741.40,0
+Lake Juliatown,2,137.60,0
+West Justinland,1,127.26,0
+East Gabriel,4,1016.91,0
+Reneeland,1,427.97,0
+West Williamland,1,404.47,0
+North Sandraville,1,49.67,0
+Kevinfort,1,3878.54,0
+West Zacharybury,1,37.94,0
+Johnchester,3,2034.07,1
+Gallaghermouth,4,1001.04,0
+Campbellview,3,1163.09,0
+North Jonathanmouth,1,363.74,0
+West Karenview,2,131.24,0
+Karahaven,1,19.83,0
+Lake Anita,1,331.73,0
+South Rachael,3,1014.44,0
+Kaiserhaven,1,84.99,0
+West Gina,1,371.83,1
+Normanport,1,21.47,0
+Josephbury,1,79.78,1
+Catherineport,2,98.13,2
+Port Tiffanyland,1,65.18,0
+Joneshaven,4,4032.61,0
+Lake Angelland,1,43.23,1
+Velasqueztown,2,138.84,0
+Kellymouth,3,1537.62,0
+Angelaview,2,1702.80,2
+Port Branditown,2,550.11,0
+West Michellebury,4,1291.71,0
+Port Christopher,2,712.23,2
+Perrymouth,1,2575.34,0
+Lake Crystal,3,779.18,0
+Evansside,4,5967.41,0
+North Dawnfurt,5,314.08,1
+Davisfurt,1,9884.91,1
+Oconnorborough,1,258.57,0
+South Kevin,2,1579.85,0
+Montesfort,1,391.09,1
+Kaitlynville,2,1077.05,0
+Andreafort,3,926.97,0
+New Kaylamouth,2,662.05,1
+New Kyleport,1,327.74,0
+Torreshaven,1,55.46,0
+Lake Ivanview,2,188.99,0
+South Jocelynview,1,1865.24,0
+Sawyerland,1,539.73,0
+Davisville,1,1886.20,0
+Grayberg,1,465.60,0
+Feliciaborough,1,1868.17,0
+West Bryan,1,44.81,0
+"Lake Glennside, Brazil",1,39.55,1
+Port Amandaburgh,1,145.06,0
+West Michelleville,1,274.94,0
+West Christinaborough,1,179.24,1
+Whiteview,1,15262.36,1
+North Molly,1,124.83,0
+Wesleystad,4,1128.07,0
+Frostbury,1,287.65,0
+Ramirezstad,2,370.60,1
+Cooperfort,4,756.73,0
+East Richard,1,82.65,0
+Deborahview,3,917.83,0
+East Kevin,5,2115.61,0
+Wileybury,3,388.99,0
+Jenkinsshire,1,288.95,0
+Randallshire,5,371.95,0
+Emmabury,1,57.52,1
+Port Terrance,2,1719.17,0
+Staceytown,1,301.25,0
+West Anthony,3,546.18,1
+East Shane,2,867.00,2
+East Samanthaton,2,91.91,2
+Jonathanland,1,0.01,0
+North Pamela,1,530.34,0
+Kaylatown,1,77.82,0
+New Alice,1,437.18,0
+Courtneyside,1,90.40,1
+West Angelafurt,2,25.29,0
+New Derekstad,1,105.35,0
+Port Wayne,1,59.73,0
+South Kimberly,4,290.62,0
+South Rogerport,2,760.21,0
+Zacharychester,2,2717.97,1
+North Amanda,1,431.98,0
+Kentport,1,338.43,0
+Maryborough,2,2486.99,0
+Nealstad,4,1396.58,0
+Mendozaland,1,281.07,0
+Eatonchester,4,1214.75,0
+East Richardton,1,74.85,0
+Port Bobbyview,1,4977.19,0
+New Harry,1,995.96,0
+West Aliciaville,2,893.66,0
+Sandyland,3,50.54,0
+Geoffreyfort,4,1906.97,0
+Andersonport,2,402.20,0
+Timstad,1,912.80,0
+Port Jennifer,8,5003.35,1
+Ashleyfurt,2,435.07,0
+Melaniechester,1,398.42,0
+West Dana,3,475.83,0
+Portertown,1,391.90,0
+South Barbaraville,1,4065.88,0
+Coleville,1,302.03,0
+Dorothyton,1,237.29,0
+East Heathertown,1,169.88,0
+Lake Theresa,7,13932.74,1
+East Joanna,9,13326.21,0
+West Seanside,2,930.08,0
+Ellisonview,2,170.51,2
+Lake Kaitlynstad,1,90.67,0
+East Mary,2,94.22,1
+West Anna,1,1815.03,0
+New Alicia,3,1129.68,0
+East Heather,2,3201.68,0
+Rachaelfurt,1,168.40,0
+New Elizabeth,5,19087.17,2
+Jaymouth,1,378.08,1
+Andersonhaven,1,261.82,0
+Matthewview,6,3403.02,0
+Whitneybury,1,136.04,0
+Port Caleb,7,1783.13,0
+East Micheleville,1,73.01,0
+North Haleymouth,1,2462.90,0
+Jamesfort,3,470.10,0
+Brownland,3,118.38,1
+Gainestown,2,621.73,0
+Cunninghamland,3,1118.20,0
+South Elizabeth,4,3407.20,0
+Aguilarton,3,747.26,1
+Stephanieside,1,327.80,0
+West Traciview,1,8513.90,1
+Susanview,1,24.28,0
+Pamelamouth,1,218.71,0
+Brandonview,3,103.26,0
+West Brian,1,175.73,1
+Pereztown,4,334.61,0
+Clinebury,1,86.20,0
+Kaufmanshire,6,1671.76,0
+East Maria,2,226.60,0
+Dawsontown,3,251.31,0
+Mariatown,1,72.53,1
+South Larryport,1,46.21,0
+Port Geoffreyton,1,859.35,1
+Mariahland,1,360.19,0
+Moralesfort,2,1054.01,0
+Martinton,9,3490.15,0
+Kimberlyland,2,208.15,0
+Michellehaven,1,300.85,0
+West Danielport,2,2180.38,0
+West Damon,2,331.01,0
+South Jason,3,422.23,2
+East Susan,1,40.62,0
+Sheltonmouth,1,30.07,0
+Floreston,1,3121.97,0
+Gallagherland,1,357.73,0
+Lake Christopherview,1,111.84,0
+Youngport,3,1560.27,0
+Harrymouth,1,398.69,0
+Torresburgh,1,608.33,0
+Parksland,1,738.51,0
+East Anthony,1,42.17,1
+Wilsonstad,1,2036.31,0
+Lake Ryan,2,373.37,0
+Mccarthyton,5,186.79,0
+Joshuamouth,5,10336.91,1
+Jenkinsland,6,405.31,0
+New Stephenside,1,76.73,0
+East George,1,6.15,0
+Jonesberg,1,27.93,0
+Robinhaven,1,35.03,0
+New Ericton,2,24.61,0
+Port Joshuaton,2,4522.02,0
+Schmidtbury,1,48.71,1
+South Brianville,2,722.87,0
+Port Tracy,1,1466.29,0
+Griffinfort,1,1810.69,0
+Rhondatown,2,5577.49,0
+Margaretberg,1,1049.54,1
+West Traci,1,1068.33,1
+Port Kenneth,3,656.15,0
+West Amy,2,7606.44,0
+New Jennifermouth,1,299.90,0
+South Debraland,1,67.80,0
+Henryfort,1,2520.30,0
+North Jenniferberg,1,428.96,1
+New Rebeccaberg,3,11504.00,0
+Lake Michaelfurt,2,820.07,2
+Andreaberg,1,2700.71,0
+Seanfort,1,35.20,1
+East Pamelaton,4,23760.14,4
+Petersonhaven,2,968.66,2
+Samuelstad,2,5807.15,0
+Georgeside,1,322.12,1
+Port Rebecca,1,239.10,1
+West Andrewhaven,1,12.50,0
+Carrland,3,98.26,1
+Nolanview,1,1490.20,0
+New Andresborough,3,1591.89,0
+Brockport,1,226.55,0
+New Emilychester,1,357.11,0
+Katherinetown,4,1165.91,0
+North Stevenville,1,147.05,0
+Sarahmouth,1,72.69,0
+Staceychester,1,404.84,0
+Garyshire,1,363.35,0
+Jamesburgh,5,1669.96,0
+New Christophershire,1,219.19,0
+Markberg,1,83.72,0
+Port Laura,1,39.92,0
+Lake Erinfort,1,391.41,0
+Lake Jacobmouth,1,2484.33,0
+Port Nicholas,2,417.52,0
+Port Melissaborough,2,3049.75,0
+Lake Madelineville,1,1010.85,0
+Pearsonhaven,1,393.07,0
+New Gregoryberg,3,768.79,0
+Port Nicoleborough,3,127.80,0
+North Jamesberg,1,198.03,0
+Navarrotown,1,61.66,0
+South Eric,3,755.59,0
+Port Jonathanberg,1,394.11,0
+Johnstonberg,1,161.13,1
+Baileyhaven,2,559.41,0
+East Shawna,3,203.48,0
+Lake Loganville,1,6.21,0
+Shaunfurt,1,378.77,1
+Coryfort,2,874.36,0
+West Charlesfort,1,338.41,0
+Murphybury,3,2854.49,0
+Austinmouth,3,257.80,3
+Dylanland,2,16912.77,2
+New Daniel,2,212.12,0
+West Loriberg,1,13.61,0
+West Sydneyfort,1,118.11,0
+Lake Patricia,3,1023.46,0
+East Michael,4,1465.01,0
+West Justinport,6,719.25,0
+West Michaelfurt,1,94.62,0
+North Laura,1,466.91,0
+South Carriefurt,1,48.90,1
+Whitefurt,1,24.04,0
+South Beverly,2,11.04,0
+Port Emily,2,452.54,1
+Lake Megantown,2,646.40,0
+Taylorburgh,1,270.77,0
+West Adrian,2,933.64,2
+Lewisstad,1,41.60,0
+East Melaniestad,1,220.59,0
+Perezhaven,8,2395.22,0
+New Jennifer,3,312.89,0
+Loganton,4,944.65,0
+South Donaldtown,3,41.31,0
+Lake Terriborough,1,275.65,0
+Lyonsbury,1,408.39,0
+Patriciaton,1,72.08,0
+Scottport,5,4598.13,0
+Guzmanmouth,4,78.12,0
+East William,4,865.79,0
+North Kaitlynmouth,1,49.64,0
+Thomasstad,2,639.24,2
+East Nancystad,1,135.41,0
+Carolynberg,1,340.85,0
+Smithfurt,1,458.72,0
+Codyburgh,2,126.90,0
+Matthewbury,3,219.53,0
+Burchside,1,44.17,1
+Myersmouth,1,497.66,0
+Johnsonfurt,3,481.43,0
+Ronaldburgh,4,1870.27,0
+West Rachel,2,1575.16,1
+Tiffanyborough,2,266.60,0
+Port Joseph,6,8336.41,1
+Port Rogerburgh,1,147.94,0
+Lake Tristan,1,8623.84,1
+West Helenhaven,1,40.89,1
+South Coreyview,1,116.54,0
+Jamesside,3,653.47,1
+New Robertstad,2,4362.87,0
+Meaganside,1,2194.91,0
+North Leonard,2,4505.44,0
+Juanfurt,1,129.94,0
+North Kaitlynborough,2,80.60,0
+Stephensonburgh,3,260.73,0
+Harperview,1,2931.57,0
+Sharonfurt,2,949.41,0
+Hawkinsside,1,86.02,0
+East Michaelberg,2,150.97,0
+Port Dawn,4,808.59,0
+West Ronald,1,7500.48,1
+East Laura,6,1907.58,1
+South Elizabethberg,2,946.29,2
+Tinafurt,1,2277.92,0
+Lake Lawrence,1,274.80,0
+Lake Matthew,1,353.01,0
+Lake Kelseyville,1,76.78,0
+Port Lisa,9,1384.87,1
+Thompsontown,3,1208.39,0
+Sextontown,1,63.61,0
+North Melissaborough,1,424.03,1
+South Kimberlyville,1,102.17,0
+East Jessicaberg,2,231.48,0
+Port Catherine,5,2141.03,0
+Youngburgh,1,10.26,1
+West Sandra,3,6848.74,0
+Wilsonhaven,3,20031.42,3
+New Isaiah,1,3078.12,0
+Barbaraport,1,17.76,0
+West Corey,1,104.14,0
+Scottchester,1,49.19,0
+East Jeffhaven,1,316.15,1
+Lake Johntown,1,2567.27,0
+West Gabrielle,1,131.35,0
+Reeseborough,1,241.06,0
+Wendymouth,2,34.95,0
+South Raymond,4,3149.55,0
+Port Austin,1,407.43,0
+Maxwellfort,1,70.45,0
+Tatebury,1,164.86,0
+Lake Jennifer,9,6218.21,0
+Chaneychester,2,320.78,0
+Cobbberg,2,495.97,0
+West Willie,9,748.33,0
+Allenton,5,327.93,0
+Lake Angelaburgh,4,1065.74,0
+Hoodmouth,2,285.43,0
+Susanberg,1,68.54,1
+Phillipsberg,1,413.23,0
+Charlestown,1,80.46,1
+Meyersview,1,70.38,1
+Davidmouth,11,3930.40,3
+Port Saraville,1,8438.56,1
+Simpsonton,1,673.73,0
+East Jeffberg,6,931.03,0
+East Katrinaport,1,50.41,1
+East Aaron,1,938.13,1
+North Samuel,1,331.57,0
+Lake Danielstad,1,103.08,0
+Lake Jerry,1,555.50,1
+East Craig,2,12500.36,1
+Ethantown,3,463.51,0
+North Shelby,2,214.94,0
+Gutierrezshire,4,1678.22,0
+Tonyaside,2,42.34,0
+Andersontown,1,77.82,0
+Wilsonville,1,94.62,0
+Port Jared,1,117.23,0
+Glasston,2,433.07,0
+Vargasside,2,5706.10,0
+Meganton,2,227.71,0
+Kendrastad,1,230.34,0
+Port Jamesshire,1,528.36,0
+Lake Meganberg,1,209.32,0
+Michaelside,1,312.98,0
+Christinetown,2,148.84,2
+Danielleburgh,3,860.49,0
+Port Richard,1,64.15,1
+West Kimberly,9,9553.85,0
+Jacobfurt,2,70.23,0
+East Justinfort,1,37.38,0
+Johnsonburgh,6,1176.03,1
+Edwinshire,2,2754.83,0
+Lake Harold,1,420.29,1
+Apriltown,3,570.92,0
+Port Tiffanyfort,4,276.35,0
+Priceborough,3,532.40,0
+Annland,1,81.31,0
+Boyleland,1,48.45,0
+New Jonathanburgh,1,31.53,0
+South Jordanview,1,578.68,0
+Port Ronald,1,5266.55,1
+West Lisaland,2,1001.00,0
+West Justin,1,34.15,0
+Petersshire,1,82.94,0
+Mariestad,2,179.95,2
+New Jessica,2,1137.99,2
+South Matthew,1,406.63,0
+Singhborough,1,5471.77,1
+Sheilaton,1,8792.76,1
+Contreraston,1,57.74,1
+Theresaburgh,1,434.57,0
+Taylorberg,1,389.59,0
+Sharonstad,2,477.03,0
+Nealshire,1,40.85,0
+New Amyberg,1,1235.93,1
+East Leslie,1,437.31,0
+East Bonnie,5,5380.80,0
